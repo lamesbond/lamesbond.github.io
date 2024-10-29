@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <channel>
+        <title>My Podcast</title>
+        <link>https://example.com/podcast</link>
+        <description>Combined Podcast Feed</description>
+
+        <!-- Include XML content -->
+        <xi:include href="fanpai001-050.xml" parse="xml" />
+        <xi:include href="fanpai-51-100.xml" parse="xml" />
+    </channel>
+</rss>
