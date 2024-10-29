@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <!-- 基本信息 -->
+        <title>你的播客标题</title>
+        <link>https://yourwebsite.com/podcast</link>
+        <language>zh-cn</language>
+        <copyright>© 2024 你的名字或公司名</copyright>
+        <description>这是一个播客的描述，介绍播客的内容和主题。</description>
+        
+        <!-- iTunes 专用标签 -->
+        <itunes:author>你的名字或公司名</itunes:author>
+        <itunes:summary>更详细的播客描述，用于 iTunes 显示</itunes:summary>
+        <itunes:explicit>no</itunes:explicit> <!-- "yes" 表示内容适合成人 -->
+
+        <!-- 封面图 -->
+        <itunes:image href="https://yourwebsite.com/path/to/image.jpg" />
+
+        <!-- 分类 -->
+        <itunes:category text="Technology">
+            <itunes:category text="Software"/>
+        </itunes:category>
+
+        <!-- 联系方式 -->
+        <itunes:owner>
+            <itunes:name>你的名字</itunes:name>
+            <itunes:email>your-email@example.com</itunes:email>
+        </itunes:owner>
+
+        <!-- 单集信息 -->
+        <item>
+            <title>第51集的标题</title>
+            <link>https://yourwebsite.com/episodes/episode1</link>
+            <guid>https://yourwebsite.com/episodes/episode1</guid> <!-- 全局唯一 ID -->
+            <pubDate>Mon, 28 Oct 2024 10:00:00 GMT</pubDate>
+            <description>这一集的描述，介绍集内内容。</description>
+            <itunes:summary>更详细的描述，用于 iTunes 显示。</itunes:summary>
+            <itunes:duration>00:25:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            
+            <!-- 音频文件 -->
+            <enclosure url="https://fanpaifilm.oss-cn-shanghai.aliyuncs.com/002%E3%80%8A%E8%B8%8F%E8%A1%80%E5%AF%BB%E6%A2%85%E3%80%8B%E5%87%B6%E6%89%8B%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85.mp3" length="12345678" type="audio/mpeg"/>
+        </item>
+
+        <!-- 更多单集信息可以按需继续添加 -->
+    </channel>
+</rss>
