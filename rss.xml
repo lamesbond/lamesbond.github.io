@@ -6,6 +6,6 @@
 
         <!-- Include XML content -->
         <xi:include href="fanpai001-050.xml" parse="xml" />
-        <xi:include href="fanpai-51-100.xml" parse="xml" />
+        <xi:include href="fanpai051-100.xml" parse="xml" />
     </channel>
 </rss>
