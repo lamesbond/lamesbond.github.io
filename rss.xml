@@ -1,1 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><item>
+            <title>第一集的标题</title>
+            <link>https://yourwebsite.com/episodes/episode1</link>
+            <guid>https://yourwebsite.com/episodes/episode1</guid> 
+            <pubDate>Mon, 28 Oct 2024 10:00:00 GMT</pubDate>
+            <description>这一集的描述，介绍集内内容。</description>
+            <ns0:summary>更详细的描述，用于 iTunes 显示。</ns0:summary>
+            <ns0:duration>00:25:00</ns0:duration>
+            <ns0:explicit>no</ns0:explicit>
+            
+            
+            <enclosure url="https://fanpaifilm.oss-cn-shanghai.aliyuncs.com/001%E3%80%8A%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%A6%B9%E3%80%8B%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%B0%8E%E8%A8%80%E5%B0%B1%E6%98%AF%E8%BF%99%E7%A7%8D%E6%98%A5%E8%8D%AF%E5%BC%8F%E5%8A%B1%E5%BF%97.mp3" length="12345678" type="audio/mpeg" />
+        </item>
 
+        
+    <item>
+            <title>第51集的标题</title>
+            <link>https://yourwebsite.com/episodes/episode1</link>
+            <guid>https://yourwebsite.com/episodes/episode1</guid> 
+            <pubDate>Mon, 28 Oct 2024 10:00:00 GMT</pubDate>
+            <description>这一集的描述，介绍集内内容。</description>
+            <ns0:summary>更详细的描述，用于 iTunes 显示。</ns0:summary>
+            <ns0:duration>00:25:00</ns0:duration>
+            <ns0:explicit>no</ns0:explicit>
+            
+            
+            <enclosure url="https://fanpaifilm.oss-cn-shanghai.aliyuncs.com/002%E3%80%8A%E8%B8%8F%E8%A1%80%E5%AF%BB%E6%A2%85%E3%80%8B%E5%87%B6%E6%89%8B%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85.mp3" length="12345678" type="audio/mpeg" />
+        </item>
+
+        
+    </channel></rss>
