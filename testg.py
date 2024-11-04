@@ -17,3 +17,6 @@ child.text = "aloha!"
 # 生成 XML 对方文档
 xml_str = ET.tostring(root, encoding="utf-8")
 print(xml_str.decode("utf-8"))
+# 写入到文件 sample.xml
+tree = ET.ElementTree(root)
+tree.write("sample.xml", encoding="UTF-8", xml_declaration=True)

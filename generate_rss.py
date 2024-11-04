@@ -1,24 +1,32 @@
-import xml.etree.ElementTree as ET
 import os
+import xml.etree.ElementTree as ET
 
-# 定义要合并的 XML 文件名
-xml_files = ['fanpai001-050.xml', 'fanpai051-100.xml']
-output_file = 'rss.xml'
+# 主文件路径
+main_file = "/opt/lamesbond.github.io/showinfo.xml"
+# 单集文件目录
+episode_dir = "/opt/lamesbond.github.io/xmls/"
+# 输出文件路径
+output_file = "/opt/lamesbond.github.io/rss.xml"
 
-# 创建根元素
-rss = ET.Element('rss', version='2.0')
-channel = ET.SubElement(rss, 'channel')
+# 解析主文件
+ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
+tree = ET.parse(main_file)
+root = tree.getroot()
 
-# 解析并合并 XML 文件
-for xml_file in xml_files:
-    tree = ET.parse(xml_file)
-    channel_data = tree.find('channel')
-    
-    for item in channel_data.findall('item'):
-        channel.append(item)
+# 获取 <channel> 标签
+channel = root.find("channel")
 
-# 保存合并后的 XML 文件
-tree = ET.ElementTree(rss)
-tree.write(output_file, encoding='utf-8', xml_declaration=True)
+# 迭代单集文件
+for episode_file in os.listdir(episode_dir):
+    episode_path = os.path.join(episode_dir, episode_file)
+    if episode_file.endswith(".xml"):
+        # 解析单集文件并找到 <item>
+        episode_tree = ET.parse(episode_path)
+        episode_root = episode_tree.getroot()
+        
+        # 将 <item> 添加到 <channel>
+        channel.append(episode_root)
 
-print(f'Merged XML files into {output_file}')
+# 保存到新的文件
+tree.write(output_file, encoding="UTF-8", xml_declaration=True)
+print("RSS 文件已成功生成：", output_file)
