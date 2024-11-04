@@ -46,19 +46,30 @@ for episode_file in os.listdir(episode_dir):
 
 # 生成字符串并格式化输出
 rough_string = ET.tostring(root, encoding="utf-8").decode("utf-8")
+# 为 <description> 内容添加 CDATA 包裹
+def wrap_description_with_cdata(match):
+    description_content = match.group(2).strip()
+    print("Description Content:", description_content)  # 打印 description_content
+    indent = match.group(0)  # 获取 <description> 标签的缩进
+    print("indent:", indent)  # 打印 indent
+    # 使用 CDATA 包裹 description 内容
+    cdata_content = f"<![CDATA[{description_content}]]>"
+    return f"{match.group(1)}\n{cdata_content}\n{' ' * 8}{match.group(3)}"
+
+desc_withcdata_xml = re.sub(r'(<description>)(.*?)(</description>)', wrap_description_with_cdata, rough_string, flags=re.DOTALL)
 # 为每个 <item> 元素之间添加换行
 # rss_xml_str = rough_string.replace("</item>", "</item>\n")
-reparsed = minidom.parseString(rough_string)
+reparsed = minidom.parseString(desc_withcdata_xml)
 pretty_xml = reparsed.toprettyxml(indent="  ")
 # 使用正则去掉多余的空行
 cleaned_xml = re.sub(r'\n\s*\n', '\n', pretty_xml)
 # 为 <description> 内容添加额外缩进
-def add_indent_to_description(match):
-    description_content = match.group(2).strip()
-    indented_content = "\n        " + "\n        ".join(description_content.splitlines())
-    return f"{match.group(1)}{indented_content}\n    {match.group(3)}"
+# def add_indent_to_description(match):
+#     description_content = match.group(2).strip()
+#     indented_content = "\n        " + "\n        ".join(description_content.splitlines())
+#     return f"{match.group(1)}{indented_content}\n    {match.group(3)}"
 
-cleaned_xml = re.sub(r'(<description>)(.*?)(</description>)', add_indent_to_description, cleaned_xml, flags=re.DOTALL)
+# cleaned_xml = re.sub(r'(<description>)(.*?)(</description>)', add_indent_to_description, cleaned_xml, flags=re.DOTALL)
 # 为 <description> 内容添加换行符和 <br/> 标签
 # def format_description(match):
 #     description_content = match.group(2).strip()
