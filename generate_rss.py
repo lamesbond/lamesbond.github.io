@@ -60,12 +60,12 @@ def add_indent_to_description(match):
 
 cleaned_xml = re.sub(r'(<description>)(.*?)(</description>)', add_indent_to_description, cleaned_xml, flags=re.DOTALL)
 # 为 <description> 内容添加换行符和 <br/> 标签
-def format_description(match):
-    description_content = match.group(2).strip()
-    formatted_content = "<br/>".join(description_content.splitlines())
-    return f"{match.group(1)}{formatted_content}{match.group(3)}"
+# def format_description(match):
+#     description_content = match.group(2).strip()
+#     formatted_content = "<br/>".join(description_content.splitlines())
+#     return f"{match.group(1)}{formatted_content}{match.group(3)}"
 
-cleaned_xml = re.sub(r'(<description>)(.*?)(</description>)', format_description, cleaned_xml, flags=re.DOTALL)
+# cleaned_xml = re.sub(r'(<description>)(.*?)(</description>)', format_description, cleaned_xml, flags=re.DOTALL)
 # 移除 `<newline/>` 标签并添加实际换行符
 # pretty_xml = pretty_xml.replace("<newline/>", "")
 
