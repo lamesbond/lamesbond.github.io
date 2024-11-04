@@ -1,0 +1,16 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+  <channel>
+    <title>反派影评</title>
+    <description>若批评不自由，则赞美无意义</description>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+    <language>zh-CN</language>
+    <itunes:category text="Tv"/>
+    <itunes:category text="Film"/>
+    <itunes:category text="Reviews"/>
+    <itunes:category text="Film Reviews"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>波米和他的小伙伴</itunes:author>
+    <itunes:type>Episodic</itunes:type>
+
+  </channel>
+</rss>
