@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy XML to GitHub Pages
 
 on:
   push:
@@ -13,19 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js (如果你使用 Node.js)
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'  # 或者你需要的 Node.js 版本
-
-      - name: Install dependencies (如果使用 npm)
-        run: npm install
-
-      - name: Build the project (根据你的项目构建命令)
-        run: npm run build  # 替换为你的构建命令
+      - name: Copy XML files to publish directory
+        run: |
+          mkdir -p public  # 创建一个用于发布的目录
+          cp *.xml public/  # 将当前目录下的所有 XML 文件复制到 public 目录
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # 替换为你构建输出的目录
+          publish_dir: ./public  # 指向包含 XML 文件的目录
