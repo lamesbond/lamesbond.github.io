@@ -14,6 +14,6 @@ child.text = "Hello World!"
 child = ET.SubElement(root, "{http://www.itunes.com/dtds/podcast-1.0.dtd}wenhouyu")
 child.text = "aloha!"
 
-# 生成 XML 文档
+# 生成 XML 对方文档
 xml_str = ET.tostring(root, encoding="utf-8")
 print(xml_str.decode("utf-8"))
