@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>113《侏罗纪世界2》侏罗纪2：不同的时代，同样的激情？别扯淡了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/11322-eq72j6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/IT5KRSEuPWALPj4UZmYE_A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 徐元（前时光网副主编）：6分；
 “上一部翻拍《公园1》成功了，这部又照着《公园2》搞一遍，但主创似乎忘了：《公园2》是斯皮尔伯格生涯最差的电影。”
@@ -42,6 +43,6 @@
 《狂暴巨兽》（2018）
 </description>
   <pubDate>Sun, 17 Jun 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffba015b3-688a-b853-e8cc-806582d947b4.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:31:50</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffba015b3-688a-b853-e8cc-806582d947b4.mp3" type="audio/mpeg" />
+  <ns0:duration>1:31:50</ns0:duration>
 </item>

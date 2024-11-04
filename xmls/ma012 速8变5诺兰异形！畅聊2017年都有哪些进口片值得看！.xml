@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma012 速8变5诺兰异形！畅聊2017年都有哪些进口片值得看！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma012-852017-e1ufsi9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/64iJOvCUZVIgq2MmTXD3wg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队及主播：
 田野（“凤凰电影”前主编，资深电影人；《罗曼蒂克》等3期嘉宾）
 法兰西胶片（“凤凰电影”前主编，《看电影》杂志前编辑；《你的名字。》嘉宾）
@@ -68,6 +69,6 @@
 《星球大战8》（2017，预计2018年引进内地）
 </description>
   <pubDate>Fri, 06 Jan 2017 09:36:18 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8dec993d-6a61-5c89-c5dd-2ca96fa5ac7c.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:18:38</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8dec993d-6a61-5c89-c5dd-2ca96fa5ac7c.mp3" type="audio/mpeg" />
+  <ns0:duration>0:18:38</ns0:duration>
 </item>

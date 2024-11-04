@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>217《安妮特》</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/217-e18g9h2</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/f5E3G0v9R7mIfx4stU6IQQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>披萨:6.5分
 国戏“歌舞片”课程讲师
 这就不是一部歌舞片，因为它就没有舞蹈，如果我们抱持看歌舞片的心态期待它，那无疑是失望的。我的真正分数也只有5.5，加1分是为了开场“声波”的视觉化呈现，也是我作为一名卡拉克斯粉丝的同情分吧。
@@ -56,6 +57,6 @@
 《火花兄弟》（2021）
 </description>
   <pubDate>Tue, 31 Aug 2021 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/41477090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2F81a1a918-483f-cab1-f6ff-d85d88de1e78.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:21:14</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/41477090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2F81a1a918-483f-cab1-f6ff-d85d88de1e78.mp3" type="audio/mpeg" />
+  <ns0:duration>1:21:14</ns0:duration>
 </item>

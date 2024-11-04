@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>219《沙丘》科幻版《聂隐娘》</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/219-e19egqv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/f67ujoL5il9B-Y3pDglIgw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 雷普利：7分
 编剧，《曼克》等42期嘉宾
@@ -57,6 +58,6 @@
 《沙丘2》（2023）
 </description>
   <pubDate>Wed, 27 Oct 2021 13:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/42467615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-28%2F75b2ac67-31a7-6efe-d11e-9c2885308b7b.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:36:46</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/42467615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-28%2F75b2ac67-31a7-6efe-d11e-9c2885308b7b.mp3" type="audio/mpeg" />
+  <ns0:duration>1:36:46</ns0:duration>
 </item>

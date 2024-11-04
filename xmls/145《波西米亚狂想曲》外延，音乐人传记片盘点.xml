@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>145《波西米亚狂想曲》外延，音乐人传记片盘点</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/145-eq7832</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/DxXKGMkGjJ8xarg2YVFqJQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 汤博（资深媒体人；《死灵魂》嘉宾）
 喃喃（“超载乐队”乐队经理）
@@ -47,6 +48,6 @@
 《卡罗尔》（2015）
 </description>
   <pubDate>Tue, 29 Jan 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd12addae-8879-2d83-9c78-e15b1c49b81e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:19:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd12addae-8879-2d83-9c78-e15b1c49b81e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:19:25</ns0:duration>
 </item>

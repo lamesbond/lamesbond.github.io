@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>054《沉默》姜文刘易斯等大腕为何拒演，日本导演为何又排队客串？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/054-eq6vf9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/tgjaQwKOMZVMcKVhfcp4tA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑；《推销员》等11期嘉宾）：7.5分；
 “马丁对远藤周作小说的还原极其精准，出色的导演就是懂得在逼近改编边界时刹住车。”——雷普利
@@ -36,6 +37,6 @@
 《血战钢锯岭》（2016）
 </description>
   <pubDate>Mon, 24 Apr 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fda61e377-1805-7eb5-92e3-330fa32a0363.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:47:05</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fda61e377-1805-7eb5-92e3-330fa32a0363.mp3" type="audio/mpeg" />
+  <ns0:duration>1:47:05</ns0:duration>
 </item>

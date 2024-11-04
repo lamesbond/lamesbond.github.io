@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>032《比利·林恩的中场战事》一次预先张扬的算计</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/032-eq6su8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/sb55ou9uGZDYO2FeojBkqQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 吴琦（《单读》主编，著名媒体人）：7分；
 蜉蝣（全网颜值最高的电影公众号“不散”创始人之一、电影记者）：5分；
@@ -32,6 +33,6 @@
 李安的其它作品
 </description>
   <pubDate>Fri, 25 Nov 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F67f4cb03-f6fb-1e80-10cc-e4fd67f97146.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:09:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F67f4cb03-f6fb-1e80-10cc-e4fd67f97146.mp3" type="audio/mpeg" />
+  <ns0:duration>2:09:00</ns0:duration>
 </item>

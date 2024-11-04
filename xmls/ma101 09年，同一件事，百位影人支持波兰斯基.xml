@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma101 09年，同一件事，百位影人支持波兰斯基</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma101-09-e1ug6lj</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/kuhgIFkdsQRi-f1Kw-PYOQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队：
 排版：效愚；后期：波米；封图制作：画电影；可关注B站“画电影”频道。
 事件简述：
@@ -14,6 +15,6 @@
 结束曲：Making A Murderer)(Gustavo Santaolalla)
 </description>
   <pubDate>Wed, 04 Mar 2020 13:58:56 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbdb0df2c-bbeb-913d-e9b4-3ba8df315a99.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:32:26</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbdb0df2c-bbeb-913d-e9b4-3ba8df315a99.mp3" type="audio/mpeg" />
+  <ns0:duration>0:32:26</ns0:duration>
 </item>

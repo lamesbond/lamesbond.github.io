@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>122《快把我哥带走》自从有了二胎政策，父母离婚都不怕了呢</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/122-eq72qe</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/beeS6ap6W5hkWofSXDvwZg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 秦婉（“凤凰电影”资深记者；《燃烧》等6期嘉宾；公众号“小婉电影酱”）：
 “这片我当爱情片看的，也会想有这么个既能当哥又能当男友的男神，但我可不想要真正有血缘关系的哥哥。”
@@ -41,6 +42,6 @@
 《超时空同居》（2018）
 </description>
   <pubDate>Mon, 20 Aug 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F961c0ac9-046e-7396-9a21-91fd788509fa.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:16:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F961c0ac9-046e-7396-9a21-91fd788509fa.mp3" type="audio/mpeg" />
+  <ns0:duration>1:16:40</ns0:duration>
 </item>

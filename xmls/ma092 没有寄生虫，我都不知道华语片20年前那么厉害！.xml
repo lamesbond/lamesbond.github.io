@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma092 没有寄生虫，我都不知道华语片20年前那么厉害！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma092-20-e1ug6cq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/NSgItlKqN1CETIBvCafvew</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 海老鼠（环球旅行家；《玻璃先生》等16期嘉宾）
 靳锦（媒体人；《好莱坞往事》等11期嘉宾）
@@ -43,6 +44,6 @@ Stand Up《哈丽特》
 最佳纪录短片：《In the Absence》《女孩的战地滑板课》《放弃求生》《St. Louis Superman》《Walk Run Cha-Cha》
 </description>
   <pubDate>Tue, 14 Jan 2020 13:49:16 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F09a9ac3d-d8df-2406-cb3f-8790c264ab21.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:36:50</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F09a9ac3d-d8df-2406-cb3f-8790c264ab21.mp3" type="audio/mpeg" />
+  <ns0:duration>0:36:50</ns0:duration>
 </item>

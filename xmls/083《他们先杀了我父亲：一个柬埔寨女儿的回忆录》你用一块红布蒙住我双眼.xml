@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>083《他们先杀了我父亲：一个柬埔寨女儿的回忆录》你用一块红布蒙住我双眼</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/083-eq71dq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/NQwYvVRvNjq0y65uCJUTxw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解 （凤凰著名时评人；《出租车司机》嘉宾；公号“刘三解freestyle”）：6.5分；
 “观看本片时我好几次泪目，它没有贩卖苦难，而是在极其克制的状态下呈现了这段历史。”
@@ -45,6 +46,6 @@
 《出租车司机》（2017）
 </description>
   <pubDate>Mon, 13 Nov 2017 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26493818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F742a4384-c2fc-e713-f0ba-f1d443257a1b.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:47:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26493818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F742a4384-c2fc-e713-f0ba-f1d443257a1b.mp3" type="audio/mpeg" />
+  <ns0:duration>1:47:00</ns0:duration>
 </item>

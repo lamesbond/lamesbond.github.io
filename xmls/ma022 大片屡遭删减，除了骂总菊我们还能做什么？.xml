@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma022 大片屡遭删减，除了骂总菊我们还能做什么？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma022-e1uft51</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/izzQRlfF_jHNyV9KD0ZpuA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 法兰西胶片（《你的名字》嘉宾，个人微博“法兰西胶片”）
 隐形（编剧，《降临》等7期嘉宾）
@@ -16,6 +17,6 @@
 开场曲：North Korea Children Playing the Guitar Remix
 </description>
   <pubDate>Fri, 03 Mar 2017 09:57:06 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64533089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F52c320f0-c5f6-f552-5d96-f975c2e9292f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64533089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F52c320f0-c5f6-f552-5d96-f975c2e9292f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

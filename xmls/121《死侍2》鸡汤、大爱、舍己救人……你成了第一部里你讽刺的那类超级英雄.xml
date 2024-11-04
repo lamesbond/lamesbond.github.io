@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>121《死侍2》鸡汤、大爱、舍己救人……你成了第一部里你讽刺的那类超级英雄</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1212-eq72pr</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/CrdTq6zkfgwaIWzbEwynwg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 王自健（本期控场，相声演员脱口秀主持人；《复联3》等3期嘉宾）：
 “许多梗仍然很棒，但电影还是视听语言，光说段子那大伙听相声听脱口秀就可以了。”
@@ -45,6 +46,6 @@
 《王牌保镖》（2017）
 </description>
   <pubDate>Mon, 13 Aug 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F81dd702c-e113-bdfa-583f-662fdcdffc28.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:06</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F81dd702c-e113-bdfa-583f-662fdcdffc28.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:06</ns0:duration>
 </item>

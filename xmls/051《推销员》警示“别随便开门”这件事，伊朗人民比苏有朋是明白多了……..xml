@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>051《推销员》警示“别随便开门”这件事，伊朗人民比苏有朋是明白多了…….</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/051-eq6v2d</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/6BFDC0S0sSr-pLNaX4EnUg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑；《夜行动物》等10期嘉宾）：7分；
 “在整片中，‘妓女’始终没有出现。戏剧演员甚至需要穿大衣来呈现妓女的‘一丝不挂’。这像是在说：面对这样的审查，妓女必须缺席。”——雷普利
@@ -52,6 +53,6 @@
 《嫌疑人X的献身》（国版，2017）
 </description>
   <pubDate>Mon, 03 Apr 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc8c94cd7-20c9-110c-3a52-0816b005d805.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:24:55</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc8c94cd7-20c9-110c-3a52-0816b005d805.mp3" type="audio/mpeg" />
+  <ns0:duration>2:24:55</ns0:duration>
 </item>

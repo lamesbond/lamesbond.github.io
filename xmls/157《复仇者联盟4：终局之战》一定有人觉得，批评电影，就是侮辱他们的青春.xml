@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>157《复仇者联盟4：终局之战》一定有人觉得，批评电影，就是侮辱他们的青春</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1574-eq78m6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/7MvxYOUwT2HupcKSwkOvDg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 阳磊：6分（漫威粉丝；《巴斯特的歌谣》等8期嘉宾）
 “这是一部薛定谔电影，观影心态决定影片质量，你是粉丝，自然就会忽略影片的一切BUG。”
@@ -45,6 +46,6 @@
 《黑寡妇》（2020）
 </description>
   <pubDate>Mon, 29 Apr 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8a8197ff-d8f4-897c-e651-4f6fa7584a7f.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:34:38</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8a8197ff-d8f4-897c-e651-4f6fa7584a7f.mp3" type="audio/mpeg" />
+  <ns0:duration>1:34:38</ns0:duration>
 </item>

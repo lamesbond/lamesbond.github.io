@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma061 如果票价整体上涨，你还去影院吗？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma061-e1ug2lg</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/0Fk8iZS1EnAOoVpSUpOBeg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期话题：10月1日起线上票补全面取消
 事件简述：
 近日相关单位发布新规，预计将于10月1日起开始实施，具体包括如下内容：
@@ -17,6 +18,6 @@
 开场/结束曲：North Korea Children Playing the Guitar Remix
 </description>
   <pubDate>Thu, 20 Sep 2018 12:55:03 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb513970a-2557-33de-1552-c204059862f4.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:25:51</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb513970a-2557-33de-1552-c204059862f4.mp3" type="audio/mpeg" />
+  <ns0:duration>0:25:51</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma091 引进十佳，按图索骥</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma091-e1ug6b1</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/22wdyFPm8wBwl4blZyCOHw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 蜉蝣（2019年引进片共看54部；《谁先爱上他的》等10期嘉宾）
 秦婉（2019年引进片共看43部；《风中有朵雨做的云》等11期嘉宾，微博@秦小婉）
@@ -128,6 +129,6 @@
 另外，有55.77%的投票者在2019年度观看了10-30部引进片，25.33%投票者观看引进片的数目在10部以下。
 </description>
   <pubDate>Mon, 13 Jan 2020 13:47:32 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F76102e92-43d9-698d-17e4-dc3d164c47c0.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:58:21</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F76102e92-43d9-698d-17e4-dc3d164c47c0.mp3" type="audio/mpeg" />
+  <ns0:duration>0:58:21</ns0:duration>
 </item>

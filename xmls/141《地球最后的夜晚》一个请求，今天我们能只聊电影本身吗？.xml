@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>141《地球最后的夜晚》一个请求，今天我们能只聊电影本身吗？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/141-eq73cp</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/RQtu6583ROsY5E3sNoR2MQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 蜉蝣（资深媒体人之一；《幸福的拉扎罗》等8期嘉宾；豆瓣号“蜉蝣”）：7.5分
 “梦和记忆哪有那么清晰的对位关系，毕赣把这些符号拍得太实太清楚了。”
@@ -52,6 +53,6 @@
 《罗马》（2018）
 </description>
   <pubDate>Thu, 03 Jan 2019 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F572b5f24-0fb3-0f12-bfe5-a89344d8769a.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:56:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F572b5f24-0fb3-0f12-bfe5-a89344d8769a.mp3" type="audio/mpeg" />
+  <ns0:duration>1:56:30</ns0:duration>
 </item>

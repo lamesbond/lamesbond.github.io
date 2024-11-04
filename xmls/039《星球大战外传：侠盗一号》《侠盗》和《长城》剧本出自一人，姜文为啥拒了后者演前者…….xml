@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>039《星球大战外传：侠盗一号》《侠盗》和《长城》剧本出自一人，姜文为啥拒了后者演前者……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/039-eq6t4e</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/JsPEFMzHbXpoG9c1joou_A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 粉丝版嘉宾：迪奥（星战死忠，501中国驻防军成员）：粉丝心态：10分；客观心态：6分；
 普通版嘉宾：隐形（编剧，《屏住呼吸》等5期嘉宾）：7分；
@@ -49,6 +50,6 @@
 所有《星球大战》正传电影（1977-2015）
 </description>
   <pubDate>Tue, 10 Jan 2017 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F13bfca72-5267-93bc-2d62-38b9476703a0.mp3" type="audio/mpeg"/>
-  <itunes:duration>3:38:08</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F13bfca72-5267-93bc-2d62-38b9476703a0.mp3" type="audio/mpeg" />
+  <ns0:duration>3:38:08</ns0:duration>
 </item>

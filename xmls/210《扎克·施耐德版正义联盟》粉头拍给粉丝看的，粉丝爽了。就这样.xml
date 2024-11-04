@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>210《扎克·施耐德版正义联盟》粉头拍给粉丝看的，粉丝爽了。就这样</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/210-ev4kkd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/TmQK8dEXiu_VGZWW4JTNIg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子:7分
 媒体人，《神奇女侠1984》等12期嘉宾
@@ -51,6 +52,6 @@
 《小丑》（2019）
 </description>
   <pubDate>April 16, 2021 3:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/31658061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-18%2F4c9c8058-63fb-deab-64ce-0ff48664151a.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:39:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/31658061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-18%2F4c9c8058-63fb-deab-64ce-0ff48664151a.mp3" type="audio/mpeg" />
+  <ns0:duration>1:39:25</ns0:duration>
 </item>

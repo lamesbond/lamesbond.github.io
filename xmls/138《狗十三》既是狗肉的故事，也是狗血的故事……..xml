@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>138《狗十三》既是狗肉的故事，也是狗血的故事…….</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/138-eq73a4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/B8-Ix1gVNlwROEWzwrtQnw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子（资深媒体人；《沉默的教室》嘉宾）：7.5分；
 “这片并不是想让你哭，它很冷静的展现了家庭内部三代人巨大的隔阂。”
@@ -43,6 +44,6 @@
 《她杀》（2019待定）
 </description>
   <pubDate>Mon, 10 Dec 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8a4bcdee-a3c3-b46c-d54a-9ba28417101f.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:52:32</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8a4bcdee-a3c3-b46c-d54a-9ba28417101f.mp3" type="audio/mpeg" />
+  <ns0:duration>1:52:32</ns0:duration>
 </item>

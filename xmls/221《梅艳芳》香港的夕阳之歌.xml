@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>221《梅艳芳》香港的夕阳之歌</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/221-e1al56o</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/EQHKlQMj5CdXjDVbCHCDDA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 萝贝贝：6分
 《一秒钟》等4期嘉宾，公号“萝严肃”
@@ -54,6 +55,6 @@
 《朱迪》（2019）
 </description>
   <pubDate>Sat, 20 Nov 2021 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/43733656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-21%2F624932d7-dd89-66d7-0a87-8cf7902bf4d5.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:18:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/43733656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-21%2F624932d7-dd89-66d7-0a87-8cf7902bf4d5.mp3" type="audio/mpeg" />
+  <ns0:duration>1:18:54</ns0:duration>
 </item>

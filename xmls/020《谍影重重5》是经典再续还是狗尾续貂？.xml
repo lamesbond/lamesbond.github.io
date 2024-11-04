@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>020《谍影重重5》是经典再续还是狗尾续貂？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0205-eq6rlr</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/GjgLkLzIjjr9aZxV73Jcng</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（第六代导演、国戏教师；其作品《长江图》是2016年唯一一部入围三大电影节“主竞赛单元”的华语片）：8分；
 波米：7分；
@@ -37,6 +38,6 @@
 《谍影重重1-4》（2002-2012）
 </description>
   <pubDate>Sun, 28 Aug 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0eb7471b-458e-1190-7528-4a05dacf3720.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:34:56</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0eb7471b-458e-1190-7528-4a05dacf3720.mp3" type="audio/mpeg" />
+  <ns0:duration>1:34:56</ns0:duration>
 </item>

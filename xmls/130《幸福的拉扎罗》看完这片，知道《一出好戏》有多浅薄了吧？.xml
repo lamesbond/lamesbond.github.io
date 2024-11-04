@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>130《幸福的拉扎罗》看完这片，知道《一出好戏》有多浅薄了吧？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/130-eq731q</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/1ASBqSNlyfdDK3wuFLoq8g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 蜉蝣（“不散”创始人之一；《小偷家族》等7期嘉宾；公众号“不散”）：8分；“这片真正做到了深入浅出：既可以很轻松地看进去，也可以进行很深入的讨论。”
 田野（青年编剧；《邪不压正》等8期嘉宾；豆瓣ID“低端的雪盲”）：7.5分；“一张圣象面庞结合农民敦实的身材，正是因为这一选角的成功，片中所有的宗教讨论和多义性才得以成立。”
@@ -43,6 +44,6 @@
 《方形》（2017）
 </description>
   <pubDate>Sun, 14 Oct 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F2fe2b015-04e6-c2d4-a344-2076b4aa05d4.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:55:18</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F2fe2b015-04e6-c2d4-a344-2076b4aa05d4.mp3" type="audio/mpeg" />
+  <ns0:duration>1:55:18</ns0:duration>
 </item>

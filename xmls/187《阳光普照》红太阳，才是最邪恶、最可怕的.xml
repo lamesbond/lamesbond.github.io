@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>187《阳光普照》红太阳，才是最邪恶、最可怕的</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/187-eq7a0j</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/js5sPpasn5ufReV8V-BVYw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利：7分《爱尔兰人》等37期嘉宾
 这其实是很残酷很阴暗的电影，它呈现的是东方家庭关系的本质虚伪。片尾的和解是幌子，所有对父亲温情的塑造也是骗术，片中最自私、最邪恶的人就是父亲，他最后的动机只是出于自尊心受辱和守护自己仅剩的一个罢了。反而菜头才是最值得同情的人，他和阿豪也都是背反纲常的；电影的核心是阿豪开头的那一句——老师，你相信吗？
@@ -59,6 +60,6 @@
 《南方车站的聚会》（2019）
 </description>
   <pubDate>Wed, 05 Feb 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F32d9f0c3-5af1-d3ea-b360-3dbd7f497c9e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:56:35</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F32d9f0c3-5af1-d3ea-b360-3dbd7f497c9e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:56:35</ns0:duration>
 </item>

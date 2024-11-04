@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>097《华盛顿邮报》他们在讲历史，我们在看童话</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/097-eq71tq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/PNdriIQT8h4vEps425UPBg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 钱德勒（资深媒体人；娱评人；微博ID“钱德勒摩羯”）：7分；
 “这片最大优点是‘职业感’的营造，尤其汉克斯饰演的狂躁主编，让我想起自己从业时遇到的很多老板。”
@@ -42,6 +43,6 @@
 《间谍之桥》（2015）
 </description>
   <pubDate>Sun, 25 Feb 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fed836104-37b6-f1cc-baca-f5e802ec17ec.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:59:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fed836104-37b6-f1cc-baca-f5e802ec17ec.mp3" type="audio/mpeg" />
+  <ns0:duration>1:59:41</ns0:duration>
 </item>

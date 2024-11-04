@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>206《神奇女侠1984》川普都下台了！停下吧！有劲么？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2061984-eq7bf6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/6vAo9pFwPneagTuvXQkY1Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子：6.5分，媒体人，“香港十年专题”等11期嘉宾
 不抱任何DC原教旨主义粉丝所抱的期待，仅仅把期望值放低到和一部迪士尼电影同等的程度，本片在多舛的2020年末上映还是有一定的鼓舞人心的价值的，你还能再要求什么呢？这个时间点给你看一部《蝙蝠侠大战超人》你也看不下去啊。
@@ -60,6 +61,6 @@
 《扎克·施奈德版正义联盟》（2021）
 </description>
   <pubDate>December 21, 2020 9:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa7e9f3e2-beac-dfb8-6d30-d07c1d9b4ab2.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:14:19</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa7e9f3e2-beac-dfb8-6d30-d07c1d9b4ab2.mp3" type="audio/mpeg" />
+  <ns0:duration>1:14:19</ns0:duration>
 </item>

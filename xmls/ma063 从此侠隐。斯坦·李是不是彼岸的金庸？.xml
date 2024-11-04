@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma063 从此侠隐。斯坦·李是不是彼岸的金庸？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma063-e1ug2og</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/i2gyChv6pmAfpTcQQHQuYg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 鲁韵子（原《看电影》记者；《沉默的教室》嘉宾）
 阳磊（艺人宣传策划；《游侠索罗》等7期嘉宾）
@@ -38,6 +39,6 @@
 《虎影侠》（项目待定）
 </description>
   <pubDate>Wed, 14 Nov 2018 12:58:39 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb23e7c53-77ad-2904-d78a-e6b303bd2bb6.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb23e7c53-77ad-2904-d78a-e6b303bd2bb6.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:54</ns0:duration>
 </item>

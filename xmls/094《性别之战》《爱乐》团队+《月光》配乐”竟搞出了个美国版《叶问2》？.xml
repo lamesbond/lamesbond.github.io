@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>094《性别之战》《爱乐》团队+《月光》配乐”竟搞出了个美国版《叶问2》？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0942-eq71r9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/SqSfKE-83TtgxuhCrwTt8g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 胡力涛（著名网球解说员，微博“狐狸逃”/公号“完美狐度”）：7.5分；
 “这片对当年网球技术细节的还原相当准确，就这一点，国内在拍这类电影时就没办法赶上。”
@@ -50,6 +51,6 @@
 《李娜传》（已停摆）
 </description>
   <pubDate>Sun, 04 Feb 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494249/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc4643c12-d1be-edce-c54f-a7d7a8c5083c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:58:16</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494249/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc4643c12-d1be-edce-c54f-a7d7a8c5083c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:58:16</ns0:duration>
 </item>

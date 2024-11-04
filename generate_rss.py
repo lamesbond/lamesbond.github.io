@@ -54,7 +54,7 @@ def wrap_description_with_cdata(match):
     print("indent:", indent)  # 打印 indent
     # 使用 CDATA 包裹 description 内容
     cdata_content = f"<![CDATA[{description_content}]]>"
-    return f"{match.group(1)}\n{cdata_content}\n{' ' * 8}{match.group(3)}"
+    return f"{match.group(1)}\n{cdata_content}\n{match.group(3)}"
 
 desc_withcdata_xml = re.sub(r'(<description>)(.*?)(</description>)', wrap_description_with_cdata, rough_string, flags=re.DOTALL)
 # 为每个 <item> 元素之间添加换行

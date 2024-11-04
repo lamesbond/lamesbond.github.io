@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma140 昨日雄狮，今日李宁</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma140-e1ug82a</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/icANEYw4PjSIgNAt72IX2Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“序幕：叫魂”
 本期音频主播：
 张扬（动画导演，《花木兰》等3期嘉宾）
@@ -16,6 +17,6 @@
 开场结束曲：《中国痛》(黄明志黄秋生)；后期：思源/波米；
 </description>
   <pubDate>Sat, 29 Oct 2022 16:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F7db62ed0-484a-7062-f4d4-3faa8a90019a.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:31:04</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F7db62ed0-484a-7062-f4d4-3faa8a90019a.mp3" type="audio/mpeg" />
+  <ns0:duration>0:31:04</ns0:duration>
 </item>

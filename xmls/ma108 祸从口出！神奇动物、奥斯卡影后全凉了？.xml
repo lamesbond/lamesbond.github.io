@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma108 祸从口出！神奇动物、奥斯卡影后全凉了？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma108-e1ug6u3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/hex3Rlu34Fy1cbEC_0cs2Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 杨超（《长江图》导演，《燃烧女子的肖像》等14期嘉宾）
 阿苏（电影从业者）
@@ -9,9 +10,9 @@
 后期：波米；编辑排版：效愚；封图设计：画电影，可关注B站“画电影”频道。
 事件简述：
 《哈利·波特》系列作者、《神奇动物在哪里》联合编剧J·K罗琳近日在推特上发表关于跨性别群体的部分言论引起争议，罗琳认为当前的跨性别者认定程序过于简单，给部分有意发起性侵的人以可乘之机。随后，《哈利·波特》及《神奇动物》的几位主演纷纷在社交网络上发表声明，表示反对罗琳关于跨性别者的相关论点，两个《哈利·波特》粉丝网站表示因价值观冲突与罗琳划清界限，电影版权方华纳亦表示公司坚定站在多元及包容立场，罗琳至今仍未表示自己改变看法，也未做出任何道歉。
-与此同时，好莱坞著名女星、奥斯卡影后哈利·贝瑞近日直播时透露自己下个电影项目中的角色是一位由女转男的变性人，她以&quot;female story&quot;概括该故事，并用&quot;she&quot;来指代她将担任的变性角色，引发跨性别群体的愤怒，认为她缺乏对角色的基本理解，更表示不该由毫无性转经验的演员来饰演跨性别者。哈利·贝瑞已在社交媒体上公开道歉并表示退出该项目。
+与此同时，好莱坞著名女星、奥斯卡影后哈利·贝瑞近日直播时透露自己下个电影项目中的角色是一位由女转男的变性人，她以"female story"概括该故事，并用"she"来指代她将担任的变性角色，引发跨性别群体的愤怒，认为她缺乏对角色的基本理解，更表示不该由毫无性转经验的演员来饰演跨性别者。哈利·贝瑞已在社交媒体上公开道歉并表示退出该项目。
 </description>
   <pubDate>Sun, 19 Jul 2020 14:09:22 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F367aa656-3518-4500-d2c4-41bebb20a89e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:15:55</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F367aa656-3518-4500-d2c4-41bebb20a89e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:15:55</ns0:duration>
 </item>

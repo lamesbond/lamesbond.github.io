@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma133 第58届台湾金马奖综述</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma133-58-e1ug7v3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://appzmhvxypr1060.h5.xiaoeknow.com/v1/course/audio/a_61a574e2e4b00db3cebdd1fe</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 胤祥（电影学者，北电讲师）；
 秦婉（媒体人，“戛纳十年”专题节目等12期嘉宾）；
@@ -202,6 +203,6 @@
 《平原上的火焰》（2021）
 </description>
   <pubDate>Tue, 30 Nov 2021 14:42:58 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb922c65b-b439-a26b-d2bf-34d230ef8b9f.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:25:55</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb922c65b-b439-a26b-d2bf-34d230ef8b9f.mp3" type="audio/mpeg" />
+  <ns0:duration>1:25:55</ns0:duration>
 </item>

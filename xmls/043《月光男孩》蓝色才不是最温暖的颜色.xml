@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>043《月光男孩》蓝色才不是最温暖的颜色</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/043-eq6uq8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/lOyfl-9sf9lr7vW0GYfctA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 海老鼠 （环球旅行家；个人公众号“Seamouse”；《魔弦传说》等4期嘉宾）：7分；
 （海老鼠的其它打分：《乘风破浪》7.5分；《大闹天竺》4分；《功夫瑜伽》4分）
@@ -52,6 +53,6 @@
 《第一夫人》（2016）
 </description>
   <pubDate>Mon, 06 Feb 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6077971a-90ab-3164-99b8-2dc5be864f63.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:33:09</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6077971a-90ab-3164-99b8-2dc5be864f63.mp3" type="audio/mpeg" />
+  <ns0:duration>1:33:09</ns0:duration>
 </item>

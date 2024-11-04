@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma084 一锅热饭凉了，一碗冷饭热了</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma084-e1ug607</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/rkXBdOARGMTGMfAMrM1ytQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 杨超（国戏教师；《长江图》导演，《感谢上帝》等11期嘉宾）
 法兰西胶片（资深媒体人；《寄生虫》等18期嘉宾，公众号“第一导演”）
@@ -9,10 +10,10 @@
 事件简述：
 日前，著名科幻系列电影《黑客帝国》的第四部正式宣布开拍。本系列导演之一的拉娜·沃卓斯基（Lana Wachowski）将继续执导本部续作，而前三部的男女主角基努·里维斯（Keanu Reeves)）与凯莉-安·莫斯（Carrie-Anne Moss）将会同时回归。影片继续由华纳兄弟出品，预计于2020年初开拍。
 此外，索尼旗下的“汤姆·赫兰德（Tom Holland）版蜘蛛侠”正式退出了迪士尼的头牌IP“漫威电影宇宙（MCU）”，双方4年的合作宣告终止。有媒体报道，迪士尼和索尼在分账比例方面出现了巨大分歧，因此漫威影业将不再参与新的蜘蛛侠电影制作。索尼影业随后确认了这一消息，并表示这是迪士尼方的决定。而接下来的两部《蜘蛛侠》将完全由索尼影业自主拍摄，主角饰演者暂时不变。
-开场曲：Theme (from &quot;Spider Man&quot;)
+开场曲：Theme (from "Spider Man")
 结束曲：Gran Ganga(McNamara)；
 </description>
   <pubDate>Wed, 28 Aug 2019 13:37:38 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbc9146e7-0f24-f618-73a0-77b8403b4529.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:27:18</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbc9146e7-0f24-f618-73a0-77b8403b4529.mp3" type="audio/mpeg" />
+  <ns0:duration>0:27:18</ns0:duration>
 </item>

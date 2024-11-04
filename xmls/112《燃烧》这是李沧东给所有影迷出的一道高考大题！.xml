@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>112《燃烧》这是李沧东给所有影迷出的一道高考大题！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/112-eq72ik</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/0ZCC2s_3Yz_GuN8GrgSMPg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 秦婉（“凤凰电影”资深记者；《嘉年华》等5期嘉宾；公众号“小婉电影酱”）：9分；
 “我把这片推荐给处在创作困境的人，全片都在说创作焦虑，而结尾恰好解决了它。”
@@ -38,6 +39,6 @@
 《母亲！》（达伦导演，2017）
 </description>
   <pubDate>Mon, 11 Jun 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F75d48006-5ed7-1832-e375-8391b14eb9df.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:25:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F75d48006-5ed7-1832-e375-8391b14eb9df.mp3" type="audio/mpeg" />
+  <ns0:duration>2:25:36</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>059《金刚狼3：殊死一战》好电影，但结局并没有煽到我们……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0593-eq6vjb</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/LcL6kKQwdbVbKlioIjJnUA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形 （编剧，《分裂》等13期嘉宾）：6.5分（仅指完整彩色版）；
 “公路片要回答两个问题：为什么上路？上路后怎么了？本片第一个问题回答的很漂亮，但在第二个问题上出了毛病。”
@@ -49,6 +50,6 @@
 《加勒比海盗5：死无对证》（2017）
 </description>
   <pubDate>Mon, 29 May 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F43351f0a-09f5-d71d-eb4f-bb014b15eb82.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:45:01</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F43351f0a-09f5-d71d-eb4f-bb014b15eb82.mp3" type="audio/mpeg" />
+  <ns0:duration>1:45:01</ns0:duration>
 </item>

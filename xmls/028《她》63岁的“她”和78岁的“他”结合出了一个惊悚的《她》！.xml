@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>028《她》63岁的“她”和78岁的“他”结合出了一个惊悚的《她》！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0286378-eq6srg</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/227K_nZuiz0UkmQXpTSnaQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 顿河（《一步之遥》编剧之一、《一切都好》制片人）：8分
 波米：7.5分
@@ -30,6 +31,6 @@
 《小姐》（2016）
 </description>
   <pubDate>Mon, 24 Oct 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4fe2f6de-65ce-40dc-6568-ba03a182658c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:37:27</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4fe2f6de-65ce-40dc-6568-ba03a182658c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:37:27</ns0:duration>
 </item>

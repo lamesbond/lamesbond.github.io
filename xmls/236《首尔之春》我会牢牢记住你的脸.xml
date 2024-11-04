@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>236《首尔之春》我会牢牢记住你的脸</title>
-  <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/236-e2fqpb9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OdcW1DfI75DRYLqdtTu3Xw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>刘三解：6.5分
 （历史研究者，《果尔达》等15期嘉宾，公号“刘三解freestyle”）
 这是政治教化片，为的是告诉韩国民众，我们曾走了多少弯路才有的今天，而想退回去又有多容易——只需13个小时零十分钟。你们看最后一个镜头，主角招呼自己朋党：“那谁，你坐这儿！那个，去坐那儿！”——排排坐，韩国就这么被他们分了。
@@ -73,6 +74,6 @@
 音频后期协助：思源；
 </description>
   <pubDate>Thu, 15 Feb 2024 04:02:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/82715433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367561929-44100-2-6b6664917252a.m4a" type="audio/x-m4a"/>
-  <itunes:duration>1:25:50</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/82715433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367561929-44100-2-6b6664917252a.m4a" type="audio/x-m4a" />
+  <ns0:duration>1:25:50</ns0:duration>
 </item>

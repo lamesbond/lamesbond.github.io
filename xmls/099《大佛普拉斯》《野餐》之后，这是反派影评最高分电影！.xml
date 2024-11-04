@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>099《大佛普拉斯》《野餐》之后，这是反派影评最高分电影！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/099-eq71v3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/WWd4aYa2jdQwHqxI70gxXg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 Aura（台北电影从业者，原凤凰网台湾站记者）：9分；
 “我最开始的感觉是：这真的是台湾？它为什么如此魔幻和疏离。但仔细琢磨，这才是最彻底的现实。”
@@ -58,6 +59,6 @@ Aura（台北电影从业者，原凤凰网台湾站记者）：9分；
 《血观音》（2017）
 </description>
   <pubDate>Mon, 12 Mar 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F254c9236-322c-e8bb-1dc7-a6abc90990ab.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:31:55</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F254c9236-322c-e8bb-1dc7-a6abc90990ab.mp3" type="audio/mpeg" />
+  <ns0:duration>1:31:55</ns0:duration>
 </item>

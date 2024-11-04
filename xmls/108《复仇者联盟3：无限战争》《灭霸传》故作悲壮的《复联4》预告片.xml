@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>108《复仇者联盟3：无限战争》《灭霸传》故作悲壮的《复联4》预告片</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/10834-eq727g</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/uW9iOg6bwXEpV6MnD8ibaA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 王自健（著名脱口秀主持人、《你好，疯子！》演员、相声演员；《分裂》等2期嘉宾）：7分；
 “俗话说：反派看DC，英雄看漫威；但现在漫威也有了一个让人记住的反派——灭霸。”
@@ -36,6 +37,6 @@
 《复仇者联盟4》（2019，剧透部分含有对《复联4》结局的猜测）
 </description>
   <pubDate>Mon, 14 May 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F3402af71-69a5-eda1-4a90-7a1540cf48d6.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F3402af71-69a5-eda1-4a90-7a1540cf48d6.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

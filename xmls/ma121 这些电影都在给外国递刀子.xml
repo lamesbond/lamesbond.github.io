@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma121 这些电影都在给外国递刀子</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma121-e1ug7cn</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZoHh1O1mhRnDPqgbwJT-KQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“记者·劫匪·大爷·障碍者·克苏鲁，都怒了”
 本期音频主播：
 麦教授（政治学学者，游戏主播）；
@@ -41,6 +42,6 @@
 结束曲：Nothing More(The Alternate Routes);
 </description>
   <pubDate>Fri, 23 Apr 2021 14:24:51 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F397df39b-2869-c6cf-20e5-1e74d20701ea.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:02:43</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F397df39b-2869-c6cf-20e5-1e74d20701ea.mp3" type="audio/mpeg" />
+  <ns0:duration>1:02:43</ns0:duration>
 </item>

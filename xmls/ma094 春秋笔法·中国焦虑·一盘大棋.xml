@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma094 春秋笔法·中国焦虑·一盘大棋</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma094-e1ug6fh</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZrcGWLg8abUBAVImsVelXA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 柏小莲（2019年华语片共看33部，参加3期《反派影评》长节目）
 萝贝贝（2019年华语片共看40部，参加3期《反派影评》长节目；公号“萝严肃”创始人）
@@ -141,6 +142,6 @@
 另外，有65.9%的投票者在2019年度观看了华语片数目在20部以下，17.39%投票者观看华语片的数目在20-30部之间。
 </description>
   <pubDate>Fri, 17 Jan 2020 13:52:45 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F098e2c98-d893-50d4-fd36-a28dbe1f29a6.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:52:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F098e2c98-d893-50d4-fd36-a28dbe1f29a6.mp3" type="audio/mpeg" />
+  <ns0:duration>0:52:41</ns0:duration>
 </item>

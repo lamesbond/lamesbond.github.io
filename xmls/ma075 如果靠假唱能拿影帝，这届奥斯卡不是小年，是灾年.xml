@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma075 如果靠假唱能拿影帝，这届奥斯卡不是小年，是灾年</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma075-e1ug5c8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/kQSJMSI0b0j3l7oyB6mOEw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 顿河（著名制片人编剧，《冷战》等9期嘉宾，个人公众号“顿的河”）
 陆姝（制片人）
@@ -21,6 +22,6 @@
 《永恒之门》威廉·达福(Willem Dafoe)：第4次提名表演奖，此前3提0中
 </description>
   <pubDate>Thu, 21 Feb 2019 13:20:46 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fc5c1d73a-2b0a-1a2c-1a57-43ba4c344320.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fc5c1d73a-2b0a-1a2c-1a57-43ba4c344320.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

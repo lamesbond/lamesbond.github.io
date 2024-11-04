@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma090 辱李小龙的、演《尚气》的，都拿奖了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma090-e1ug685</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Y5wN6HLCwNthOFGBW1vglg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队：
 编辑排版：效愚；
 事件简述：
@@ -95,6 +96,6 @@
 《哈丽特》“STAND UP”
 </description>
   <pubDate>Tue, 07 Jan 2020 13:44:46 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F0c82ccf8-c8b9-619a-5040-d1056372f404.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:23:04</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F0c82ccf8-c8b9-619a-5040-d1056372f404.mp3" type="audio/mpeg" />
+  <ns0:duration>0:23:04</ns0:duration>
 </item>

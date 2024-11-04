@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>175《少年的你》校园霸凌，或许只是幌子</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/175-eq79ej</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/uF0GiJbi4A5WBxq5iUPuqQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 熊阿姨:7.5分，媒体人，《柔情史》等2期嘉宾
 两个年轻演员的表演就是最浓厚的滤镜，所有的情节、逻辑、台词的理性判断，都要让位给二人巨幅面部特写的情感冲击力，你不得不相信二人焊死在一起的坚硬的感情。
@@ -52,6 +53,6 @@
 《送我上青云》（2019）
 </description>
   <pubDate>Mon, 28 Oct 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fedbe5d09-7160-1c5f-eec1-c4cd288bc1a0.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:37:20</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fedbe5d09-7160-1c5f-eec1-c4cd288bc1a0.mp3" type="audio/mpeg" />
+  <ns0:duration>1:37:20</ns0:duration>
 </item>

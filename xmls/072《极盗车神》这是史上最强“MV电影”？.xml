@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>072《极盗车神》这是史上最强“MV电影”？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/072MV-eq6vue</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/TbjKYXyZ0XpzKmQ5U1S0_Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 秦婉（凤凰网记者，公众号“小婉电影酱”；《海边的曼彻斯特》等3期嘉宾）：9分；
 “除去片尾之外，这是整个暑期档最好看的商业片。投我所好、击中我High点的，可能是我梦想中也有一个MV人生吧。”
@@ -68,6 +69,6 @@
 “血与冰淇淋”三部曲（2004-2013）
 </description>
   <pubDate>Sun, 27 Aug 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd8078473-5ceb-0184-7f1a-c5d833f9b7f9.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:43:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd8078473-5ceb-0184-7f1a-c5d833f9b7f9.mp3" type="audio/mpeg" />
+  <ns0:duration>1:43:41</ns0:duration>
 </item>

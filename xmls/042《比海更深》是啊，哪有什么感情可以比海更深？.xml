@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>042《比海更深》是啊，哪有什么感情可以比海更深？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/042-eq6uov</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/yhw8xDgvrFAozgYRUKkspg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 小猱 （腾讯娱乐资深电影记者，豆瓣ID“猱困困”）：7分；
 柏小莲 （界面网娱乐频道负责人，公众号“喷了”，《黑处有什么》等2期嘉宾）：8.5分；
@@ -61,6 +62,6 @@
 《降临》（2016）
 </description>
   <pubDate>Fri, 27 Jan 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F78515bb9-6892-8363-b3ba-61886a08f05d.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:40:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F78515bb9-6892-8363-b3ba-61886a08f05d.mp3" type="audio/mpeg" />
+  <ns0:duration>1:40:57</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma086 《小丑》意外，娄烨更让人意外</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma086-e1ug630</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/bwhPmAV_oa6uGRBxYUg6CQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 何小沁（新浪资深电影记者）
 陀螺凡达可（知名播主；B站“陀螺凡达可”）
@@ -19,6 +20,6 @@
 最佳处女作奖：《你会在20岁死去》Amjad Abu Alala（苏丹）
 </description>
   <pubDate>Mon, 09 Sep 2019 13:39:53 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F07fe39b4-907c-ebb8-7ba5-dd425b8d08d9.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:45</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F07fe39b4-907c-ebb8-7ba5-dd425b8d08d9.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:45</ns0:duration>
 </item>

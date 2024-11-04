@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>155《骡子》东木的经商思维大讲堂，从“内容为王”到“渠道为王”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/155-eq78j0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZsiSErnAV3sc7-3Vd2whJA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长（资深媒体人；《黑色党徒》等14期嘉宾；微博/豆瓣“荡科长”）：6分
 “能看到89岁的东木还能为我们贡献这样一个动人的角色，这就是最大的优点。电影5分，导演本人加1分！”
@@ -42,6 +43,6 @@
 《过春天》（2019）
 </description>
   <pubDate>Mon, 15 Apr 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdff813db-22b1-9806-2d05-4c4a0ff2eb8f.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:32:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdff813db-22b1-9806-2d05-4c4a0ff2eb8f.mp3" type="audio/mpeg" />
+  <ns0:duration>1:32:57</ns0:duration>
 </item>

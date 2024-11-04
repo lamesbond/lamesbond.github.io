@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>118《死灵魂》这部八小时巨制在戛纳的评分超过了毕赣是枝裕和</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/118-eq72mv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/l4U3SjO1ZBKNmK4BzF-Bdw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解（前凤凰网历史频道主编，《羞辱》等5期嘉宾；公号“刘三解freestyle”）：9分；
 “太多人看这段历史都在自我带入伟人视角，而这部片会让你跳出对政治八卦的迷恋，你会清楚看到那些运动对每个个体的伤害。”
@@ -45,6 +46,6 @@
 《我不是药神》（2018）
 </description>
   <pubDate>Wed, 25 Jul 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F806ed963-fa85-dd9c-068e-c40fdd28cec8.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:33:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F806ed963-fa85-dd9c-068e-c40fdd28cec8.mp3" type="audio/mpeg" />
+  <ns0:duration>2:33:30</ns0:duration>
 </item>

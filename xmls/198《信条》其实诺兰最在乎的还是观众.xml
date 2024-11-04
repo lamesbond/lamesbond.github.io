@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>198《信条》其实诺兰最在乎的还是观众</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/198-eq7af3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/bjgkzuFuy3zkmVNb0gekaA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 田野：8分，青年编剧，《极速车王》等14期嘉宾
 从《致命魔术》抓一只正在四处乱撞的鸟，到《星际穿越》对接一个正在疯狂旋转的空间站，再到《敦刻尔克》伸手抓一张正在天上乱飞的传单，十几年来我一直都好奇这些强迫症细节到底有何用意。终于，诺兰在《信条》里公布了这个答案，这也是他一切电影的总论，那就是：逆熵使人快乐。就凭这一点，这片子足以跻身诺兰的个人前三，也足以让本片影史留名。
@@ -81,6 +82,6 @@
 《我在时空尽头等你》（2020）
 </description>
   <pubDate>Sun, 13 Sep 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff7f9defb-554c-d55e-a466-9046ab90d337.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff7f9defb-554c-d55e-a466-9046ab90d337.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:25</ns0:duration>
 </item>

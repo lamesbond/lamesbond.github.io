@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma118 畏手畏脚做批判，阴阳怪气唱颂歌</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma118-e1ug77t</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/15j_D_vZ8Nkuhg-sD_-5Mg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 吴琦（《誓血五人组》等9期嘉宾，2020年华语片共看15部；微博@五七）
 徐元（枪稿主编，2020年引进片共看15部；公众号“枪稿”）
@@ -146,6 +147,6 @@
 另外，有40.17%的投票者在2020年度观看了10-20部院线电影，24.87%投票者观看院线影片的数目在10部以下。
 </description>
   <pubDate>Mon, 18 Jan 2021 14:21:18 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1af62e86-8bee-bd1f-8673-e8445f9ca476.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:27:04</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1af62e86-8bee-bd1f-8673-e8445f9ca476.mp3" type="audio/mpeg" />
+  <ns0:duration>0:27:04</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>202《芝加哥七君子审判》终于！这才是主旋律电影该有的样子！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/202-eq7bas</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/38O5OAqnVuU39Tl59kdGhg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超：8.5分《长江图》导演，“好莱坞十年专题”等14期嘉宾
 又一次我们要借他人酒杯，浇自己块垒。同样的动作在不同社会总能演变出截然相反的意义：像“念名字”的情节，在《八佰》里所有士兵自报家门然后视死如归，“念名字”念出的是个人投入洪流的集体主义赞歌；而在这里，“念名字”念出的却是每一个个体最值得被铭记。同样的事，有人借此反战，有人借此宣战。
@@ -70,6 +71,6 @@
 《夺冠》（2020）
 </description>
   <pubDate>October 25, 2020 10:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4d1e198e-a455-11c3-c0f0-6acd8bab86ba.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:28:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4d1e198e-a455-11c3-c0f0-6acd8bab86ba.mp3" type="audio/mpeg" />
+  <ns0:duration>1:28:25</ns0:duration>
 </item>

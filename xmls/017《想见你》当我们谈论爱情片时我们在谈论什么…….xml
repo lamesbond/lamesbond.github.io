@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>017《想见你》当我们谈论爱情片时我们在谈论什么……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/017-eq6riq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/fJZxg_ngZzSuXvoehdT7aQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘小黛（影评人，公众号“抛开书本”）：5.5分
 柏小莲（界面网娱乐频道负责人，公众号“喷子”）：6.5分
@@ -41,6 +42,6 @@ Me Before You Orchestral(Craig Armstrong)
 《我最好朋友的婚礼》（中国版，2016）
 </description>
   <pubDate>Mon, 08 Aug 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F18d279c8-0a21-3857-b1a8-a47acb6d2e4d.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:30:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F18d279c8-0a21-3857-b1a8-a47acb6d2e4d.mp3" type="audio/mpeg" />
+  <ns0:duration>1:30:40</ns0:duration>
 </item>

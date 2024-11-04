@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>161《我们》这部高口碑惊悚片，成功把大伙儿逗笑了</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/161-eq78qb</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/gg2uBWBNT9IV-DjV29L6Zg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片：5分（资深媒体人；《玻璃先生》等16期嘉宾）
 我还是纠结“屎”的问题。地上的人能找到马桶拉屎，那地下的人被牵制，肯定就随地大小便了。所以地下的场景不可能那么干净，应该遍地都是屎，这才是影片最大的BUG。
@@ -45,6 +46,6 @@
 《三块广告牌》（2017）
 </description>
   <pubDate>Tue, 28 May 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1b2d547f-dec3-76a4-16fc-0c5586201f19.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:19:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1b2d547f-dec3-76a4-16fc-0c5586201f19.mp3" type="audio/mpeg" />
+  <ns0:duration>1:19:47</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>211《金属之声》别了！爆裂的鼓手！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/211-e10tndl</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Z1tvukm7sWNFTBDduJSROQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长:7分
 “奥斯卡十年”等19期嘉宾
@@ -38,6 +39,6 @@
 《困在时间里的父亲》（2020）
 </description>
   <pubDate>Thu, 22 Apr 2021 07:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/33528693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-15%2F43028e17-086e-1063-4e44-268b644adbea.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:43:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/33528693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-15%2F43028e17-086e-1063-4e44-268b644adbea.mp3" type="audio/mpeg" />
+  <ns0:duration>0:43:59</ns0:duration>
 </item>

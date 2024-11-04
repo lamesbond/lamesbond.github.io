@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma040 重磅！福斯被迪士尼收购！异形死侍等重口味大片从此“幼齿化”？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma040-e1ug0lt</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/86-6lgTTtrzsqhCTZp22AA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 荡科长（资深业内人士；《底特律》等5期嘉宾，微博ID“荡科长”）
 法兰西胶片（“巴塞电影”主编；《底特律》等9期嘉宾，微博/豆瓣ID“法兰西胶片”）
@@ -19,6 +20,6 @@
 片尾曲：Making A Murderer)(Gustavo Santaolalla)
 </description>
   <pubDate>Fri, 15 Dec 2017 11:54:52 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3d9e30f8-963d-3336-dbc6-7e5c72096ce8.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:28:49</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3d9e30f8-963d-3336-dbc6-7e5c72096ce8.mp3" type="audio/mpeg" />
+  <ns0:duration>0:28:49</ns0:duration>
 </item>

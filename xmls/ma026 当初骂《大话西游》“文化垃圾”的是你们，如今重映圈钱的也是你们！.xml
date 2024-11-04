@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma026 当初骂《大话西游》“文化垃圾”的是你们，如今重映圈钱的也是你们！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma026-e1ug08q</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/1fC4C4rbCbShis9cHbWvsA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 钱德勒（资深娱评人、媒体人；微博ID“钱德勒-摩羯”）
 法兰西胶片（资深媒体人，微博/豆瓣ID“法兰西胶片”）
@@ -22,6 +23,6 @@
 开场/结束曲：North Korea Children Playing the Guitar Remix
 </description>
   <pubDate>Fri, 14 Apr 2017 11:42:09 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F16ca8a30-0b46-08f8-8181-52e82aa6588d.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:25:13</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F16ca8a30-0b46-08f8-8181-52e82aa6588d.mp3" type="audio/mpeg" />
+  <ns0:duration>0:25:13</ns0:duration>
 </item>

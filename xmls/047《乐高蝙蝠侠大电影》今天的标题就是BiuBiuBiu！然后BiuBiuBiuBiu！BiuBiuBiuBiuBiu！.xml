@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>047《乐高蝙蝠侠大电影》今天的标题就是BiuBiuBiu！然后BiuBiuBiuBiu！BiuBiuBiuBiuBiu！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/047BiuBiuBiuBiuBiuBiuBiuBiuBiuBiuBiuBiu-eq6uu3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/F7tSTgQ5kMAbauguFBcKqQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片（资深媒体人，《你的名字》嘉宾，微博/豆瓣ID“法兰西胶片”）：7.5分；
 （法兰西胶片的其它打分：《欢乐好声音》6.5分；《决战食神》4分；《刺客信条》1分；）
@@ -46,6 +47,6 @@ YangLei（电影策划，《你的名字》等2期嘉宾，）：6.5分；
 《自杀小队》（2016）
 </description>
   <pubDate>Mon, 06 Mar 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d782766-7a20-db30-d0b9-ef7487d0dd69.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:49:27</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d782766-7a20-db30-d0b9-ef7487d0dd69.mp3" type="audio/mpeg" />
+  <ns0:duration>1:49:27</ns0:duration>
 </item>

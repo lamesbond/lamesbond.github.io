@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma064 内地片从此不去金马？那就去金鸡奖一起嗨皮！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma064-e1ug2q1</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/uhd0cRfEx83VuqsfjKp1iw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 秦婉（本届金马奖前方报道记者，公众号“小婉电影酱”）
 雷普利（资深媒体人）
@@ -21,6 +22,6 @@
 结束曲：Making A Murderer)(Gustavo Santaolalla)
 </description>
   <pubDate>Mon, 19 Nov 2018 12:59:39 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fd9406712-0f23-cdd7-358d-772df790407f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fd9406712-0f23-cdd7-358d-772df790407f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

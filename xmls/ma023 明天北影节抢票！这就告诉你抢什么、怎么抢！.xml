@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma023 明天北影节抢票！这就告诉你抢什么、怎么抢！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma023-e1uft68</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/y3ahd2bs2t3njFMLS7KZOw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 蜉蝣（北影节官方售票平台“娱票儿”电影记者，个人公众号“全网颜值最高电影公众号不散”）
 隐形（编剧，《金刚：骷髅岛》等9期嘉宾）
@@ -56,6 +57,6 @@
 【蜉蝣提及】《家族之苦2》（日本，山田洋次）
 </description>
   <pubDate>Thu, 30 Mar 2017 09:59:45 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64533128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffa270d23-bda4-3e61-4e07-1ade50d4ce24.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:28:08</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64533128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffa270d23-bda4-3e61-4e07-1ade50d4ce24.mp3" type="audio/mpeg" />
+  <ns0:duration>0:28:08</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>060《少年小赵》赵家少年与黄家少年—“我爱大清国，她爱我吗？”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/060-eq6vjk</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/hNHL3jHiCteICfnAZsZcmQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形 （《金刚狼3》等14期嘉宾）：《少年·小赵》7分/Joshua6分；
 （隐形的其它打分：《杰出公民》7.5分；《分裂》7分；《加勒比海盗5》6分）
@@ -36,6 +37,6 @@
 《飞地》（2016）
 </description>
   <pubDate>Mon, 05 Jun 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa63f982c-d1a3-3a8d-bdf4-d1d32ebe77d0.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa63f982c-d1a3-3a8d-bdf4-d1d32ebe77d0.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma028 《沉默的羔羊》导演戴米去世了，我们谈谈他和他的作品……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma028-e1ug0as</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/wOFd0wLtZO1Tijl2Gg2EbQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 隐形（本期控场；编剧，《爱国者之日》等12期嘉宾）
 海老鼠（环球旅行家；个人公众号“seamouse”；《爱国者之日》等7期嘉宾）
@@ -57,6 +58,6 @@ I’m Carolyn Parker: the Good, the Mad and the Beautiful(非音乐类，2011)
 《贾斯汀·汀布莱克与田纳西孩子们》(2016)
 </description>
   <pubDate>Thu, 04 May 2017 11:44:30 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F7297aa9f-5f2e-8647-d707-88f4a1d62d1b.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:46</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F7297aa9f-5f2e-8647-d707-88f4a1d62d1b.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:46</ns0:duration>
 </item>

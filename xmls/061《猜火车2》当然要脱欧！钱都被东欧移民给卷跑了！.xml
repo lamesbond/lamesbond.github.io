@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>061《猜火车2》当然要脱欧！钱都被东欧移民给卷跑了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0612-eq6vk6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Ilf8zqm5YVdHEtZBiEWTSg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 K先生 （前《看电影》编辑）：7.5分；
 “和前作一样，这仍然是一部青春片，只是音乐选择令人失望。”
@@ -47,6 +48,6 @@ K先生 （前《看电影》编辑）：7.5分；
 《金刚狼3》（2017）
 </description>
   <pubDate>Mon, 12 Jun 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0d7c10eb-c9d8-42e4-5b72-da40b74d53dc.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:22:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0d7c10eb-c9d8-42e4-5b72-da40b74d53dc.mp3" type="audio/mpeg" />
+  <ns0:duration>1:22:41</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>225《国王理查德》拿影帝，还得靠养大V</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/225V-e1fjs8d</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/jmwxnXxFiegOYhLiOUYL7w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 胡力涛：6.5分；
 （网球解说员，《性别之战》嘉宾，微博@狐狸逃V）
@@ -51,6 +52,6 @@
 《米纳里》（2020）
 </description>
   <pubDate>Thu, 10 Mar 2022 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/48934605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-12%2Fa1f2b4a2-13e1-d3ec-99d8-1ad512abfc53.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:14:10</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/48934605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-12%2Fa1f2b4a2-13e1-d3ec-99d8-1ad512abfc53.mp3" type="audio/mpeg" />
+  <ns0:duration>1:14:10</ns0:duration>
 </item>

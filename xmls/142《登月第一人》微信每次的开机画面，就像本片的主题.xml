@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>142《登月第一人》微信每次的开机画面，就像本片的主题</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/142-eq7685</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/1Ejnitw3JFo769ucawc_tQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 田野（职业编剧；《幸福的拉扎罗》等9期嘉宾）：7分
 “这部电影的观感并不愉悦，在导演的序列里也是最后一名，但我还挺喜欢。”
@@ -48,6 +49,6 @@ K先生（职业编剧；《美国动物》等5期嘉宾）：7分
 《太空救援》（2017）
 </description>
   <pubDate>Tue, 08 Jan 2019 13:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26498757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F644b3275-06e3-dcc5-8222-145d81afd651.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:14:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26498757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F644b3275-06e3-dcc5-8222-145d81afd651.mp3" type="audio/mpeg" />
+  <ns0:duration>2:14:47</ns0:duration>
 </item>

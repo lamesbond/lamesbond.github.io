@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma037 《芳华》撤档：我只关心正片会不会再遭删减！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma037-e1ug0jj</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Z4O_ox4HbfJE4Qm2sP4TsQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 隐形（本期控场；编剧，《猩球崛起3》等18期嘉宾）
 法兰西胶片（“巴塞电影”主编；《新蜘蛛侠》等8期嘉宾，微博/豆瓣ID“法兰西胶片”）
@@ -24,6 +25,6 @@
 片尾曲：Making A Murderer)(Gustavo Santaolalla)
 </description>
   <pubDate>Sun, 24 Sep 2017 11:52:33 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff4d6934e-d6fd-2bd9-8794-f5c9c6d9fd73.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:28:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff4d6934e-d6fd-2bd9-8794-f5c9c6d9fd73.mp3" type="audio/mpeg" />
+  <ns0:duration>0:28:54</ns0:duration>
 </item>

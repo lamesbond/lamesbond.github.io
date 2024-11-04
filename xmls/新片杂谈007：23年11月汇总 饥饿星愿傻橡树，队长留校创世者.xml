@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>新片杂谈007：23年11月汇总 饥饿星愿傻橡树，队长留校创世者</title>
   <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/0072311-e2eeu74</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>11月老友主播：
 
 柏小莲（《双子杀手》等8期嘉宾）
@@ -104,6 +105,6 @@ IMAX版是否有特殊画幅：有，部分画面打开至1.9:1；
 音频后期协助：出雲。
 </description>
   <pubDate>Mon, 18 Dec 2023 16:37:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F93154533-5e04-4ea4-2589-fccad75a581c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:21:22</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F93154533-5e04-4ea4-2589-fccad75a581c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:21:22</ns0:duration>
 </item>

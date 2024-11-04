@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>197《1917》它证明了影院为何必须存在且会永远存在</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1971917-eq7adn</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZPfKPd-Gcx4KvYvIHSu4sQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子：7.5分，媒体人，《悲惨世界》等8期嘉宾
 这片强调的是一种现代性。就看“1917”这几个字，导演选用的是无衬线体，这个字体直到二战之后才被发明出来。为什么这么用？因为导演并非以“还原一战”为己任，它要呈现的就是一种当代美学。他把战争拍得太美了？他是把战争片拍得太美了！
@@ -65,6 +66,6 @@
 《灰猎犬号》（2020）
 </description>
   <pubDate>Tue, 11 Aug 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F16e9e433-73fc-3a0d-1552-fe1a4a2adf1c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:40:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F16e9e433-73fc-3a0d-1552-fe1a4a2adf1c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:40:00</ns0:duration>
 </item>

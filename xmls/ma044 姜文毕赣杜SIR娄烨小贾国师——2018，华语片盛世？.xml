@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma044 姜文毕赣杜SIR娄烨小贾国师——2018，华语片盛世？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma044-SIR2018-e1ug1m9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/XswAkrmyuh7u_LmbspXY8g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 秦婉（凤凰电影资深记者；《嘉年华》等5期嘉宾；个人公号“小婉电影酱”）
 法兰西胶片（资深媒体人；《底特律》等9期嘉宾；豆瓣/微博ID“法兰西胶片”）
@@ -58,6 +59,6 @@
 《素人特工》（袁锦麟，2018/2019）
 </description>
   <pubDate>Sat, 13 Jan 2018 12:22:07 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64537737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fecdffa93-bb53-d2e9-477b-96d0b2a1d53d.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64537737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fecdffa93-bb53-d2e9-477b-96d0b2a1d53d.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

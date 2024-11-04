@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>194《绅士们》看现在的盖里奇，就像看如今的郭德纲</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/194-eq7aaa</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/oMu9CrC7si6TKy_-5bsktQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 田野：6.5分《极速车王》等14期嘉宾
 盖·里奇吃着自己《两杆大烟枪》的老本拍了《绅士们》，《大烟枪》在它的时代显得多出色，这个片子在这个时代就显得有多过时、多笨拙，导演本人创作力的衰退也无从遁形。
@@ -50,6 +51,6 @@ K先生：5分，青年编剧；《灯塔》等8期嘉宾
 《阿拉丁》（2019）
 </description>
   <pubDate>Thu, 16 Apr 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc6b7845a-1e27-e1c0-71f9-6130bdf2657b.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:12:06</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc6b7845a-1e27-e1c0-71f9-6130bdf2657b.mp3" type="audio/mpeg" />
+  <ns0:duration>1:12:06</ns0:duration>
 </item>

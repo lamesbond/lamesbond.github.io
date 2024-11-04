@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>189《原钻》开年第一神片！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/189-eq7a2v</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZI3zTuJTmvUhgW30K2_TKA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 田野：6分《南方车站的聚会》等12期嘉宾
 这片儿看起来挺别致，但导演对他所描绘的人物有很强的俯视感，也好像故意制造一种和观众的距离感，这些都让我很不舒服。都说它是美国版《疯狂的石头》，但有观众要真带着这种期待来观影，绝对要疯掉吧。还有人说这俩导演是马丁·斯科塞斯的继承人……你可别开逗了。
@@ -61,6 +62,6 @@
 《夺冠》（2020）
 </description>
   <pubDate>Thu, 20 Feb 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F97ff63b9-8ee1-0af9-5dc4-2ffd14985bbc.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:16:12</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F97ff63b9-8ee1-0af9-5dc4-2ffd14985bbc.mp3" type="audio/mpeg" />
+  <ns0:duration>1:16:12</ns0:duration>
 </item>

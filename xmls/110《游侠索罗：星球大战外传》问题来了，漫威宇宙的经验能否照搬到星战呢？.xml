@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>110《游侠索罗：星球大战外传》问题来了，漫威宇宙的经验能否照搬到星战呢？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/110-eq728u</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/655w4kJP1-nk3H1RvuAJug</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 阳磊（艺人宣传策划；《生存家族》等6期嘉宾）：6分；
 “这年轻版韩索罗基本就是在COSPLAY哈里森·福特。”
@@ -57,6 +58,6 @@
 《星球大战外传：尤达大师》（待定项目，2022）
 </description>
   <pubDate>Mon, 28 May 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe403b87d-8383-a1b3-6baf-4acf04851b8e.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe403b87d-8383-a1b3-6baf-4acf04851b8e.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

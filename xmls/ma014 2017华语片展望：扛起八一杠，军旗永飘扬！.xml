@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma014 2017华语片展望：扛起八一杠，军旗永飘扬！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma014-2017-e1ufslc</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/G-81YKVv6y88BVqSTAV8EA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队及主播：
 雷普利（凤凰电影前编辑，《夜行动物》等8期嘉宾）
 隐形（编剧，《星战外传》等6期嘉宾）
@@ -58,6 +59,6 @@
 （提示：以上所有影片上映信息汇总自豆瓣与时光网相关条目；但最终上映日很可能调整，请以实际情况为准，本文信息仅供参考。）
 </description>
   <pubDate>Fri, 13 Jan 2017 09:39:33 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb054ca00-c8bc-1725-9d0f-83b55090ffc9.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:26:42</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb054ca00-c8bc-1725-9d0f-83b55090ffc9.mp3" type="audio/mpeg" />
+  <ns0:duration>0:26:42</ns0:duration>
 </item>

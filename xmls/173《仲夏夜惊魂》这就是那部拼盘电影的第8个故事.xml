@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>173《仲夏夜惊魂》这就是那部拼盘电影的第8个故事</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1738-eq79ag</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/nN4hTotv-DvLfE47J9v9zA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超:8.5分《长江图》导演；《感谢上帝》等11期嘉宾
 这是一部划时代的杰作。本质上它是一个社会问题片，而一位类型片导演能以这样一个无懈可击的故事对这个时代的社会问题做出强有力的回应，是我们每个影迷的幸运。
@@ -41,6 +42,6 @@
 《我和我的祖国》（2019）
 </description>
   <pubDate>Mon, 07 Oct 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F28b3b58a-9361-2ca4-7721-38aeb8266b1e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:43:42</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F28b3b58a-9361-2ca4-7721-38aeb8266b1e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:43:42</ns0:duration>
 </item>

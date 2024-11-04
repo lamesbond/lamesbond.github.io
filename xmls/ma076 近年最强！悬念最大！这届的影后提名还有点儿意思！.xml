@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma076 近年最强！悬念最大！这届的影后提名还有点儿意思！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma076-e1ug5g0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/_tyPLcGGleT2_vTRr1VsAQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 李梦（青年演员，代表作《天注定》《少年巴比伦》）
 秦婉（“凤凰电影”资深记者；《一个明星的诞生》等10期嘉宾；公众号“小婉电影酱”）
@@ -22,6 +23,6 @@
 《你能原谅我吗？》梅丽莎·麦卡西(Melissa McCarthy)：第2次提名表演奖，此前1提0中
 </description>
   <pubDate>Fri, 22 Feb 2019 13:23:49 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F4fed3937-27c7-3295-be7d-380571442f86.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F4fed3937-27c7-3295-be7d-380571442f86.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:54</ns0:duration>
 </item>

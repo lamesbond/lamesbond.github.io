@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma062 音容宛在！是他们共同编织了我们的港片记忆……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma062-e1ug2mq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/0QPnc27Bfhcr9vC2uoqR5g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 鲁韵子（原《看电影》驻港记者，曾旅居香港多年；《沉默的教室》嘉宾）
 法兰西胶片（资深媒体人；《沉默的教室》等15期嘉宾；豆瓣微博“法兰西胶片”）
@@ -38,6 +39,6 @@
 《大话西游1-2》（1995）
 </description>
   <pubDate>Tue, 06 Nov 2018 12:56:22 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3b9cb606-347a-0615-838d-b9dfd68d0b3c.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3b9cb606-347a-0615-838d-b9dfd68d0b3c.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

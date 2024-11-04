@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>105《犬之岛》又名“一群狗的使命”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/105-eq7249</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/SR_Pp9VLdfJ8pB5SqInDtw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 蜉蝣（“不散”创始人之一；《请以你的名字呼唤我》等5期嘉宾；公众号“不散”）：7.5分；
 “影像太舒服，注意到了除对称外更多用到画面层次，小章节叙事体清晰有节奏。要是有小柴犬就满分！”
@@ -45,6 +46,6 @@
 《帕丁顿熊2》（2017）
 </description>
   <pubDate>Mon, 23 Apr 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fba75e362-7331-e656-1b77-2a98937f5e77.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fba75e362-7331-e656-1b77-2a98937f5e77.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

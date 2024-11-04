@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>132《网络谜踪》对于就用电脑看电影的国人来说，这片可不是神作吗</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/132-eq733u</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/BziydlTBKzZxuN03tgARAA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形（青年编剧；《碟中谍6》等28期嘉宾）：7分；
 “确实太新颖了！这是那种成片出来之前，我绝对不相信能拍出来的那类电影。”
@@ -39,6 +40,6 @@
 《解除好友2：暗网》（2018）
 </description>
   <pubDate>Mon, 29 Oct 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F060ee157-2c40-d4e5-6ddd-e400631cbded.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:08:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F060ee157-2c40-d4e5-6ddd-e400631cbded.mp3" type="audio/mpeg" />
+  <ns0:duration>1:08:00</ns0:duration>
 </item>

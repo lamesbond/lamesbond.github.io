@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma115 金基德：被审判的与被放逐的</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma115-e1ug755</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/BtLRhE5zPZLdpcpvZtVu9Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 范小青（《野生金基德》译者釜山电影节选片顾问）
 小猱（艺人宣传，《找到你》等5期嘉宾）
@@ -34,6 +35,6 @@
 《挖掘机》（2017）
 </description>
   <pubDate>Tue, 15 Dec 2020 14:16:48 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F450b86b5-fa82-d12e-7d79-ff533b7dea9d.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:33:48</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F450b86b5-fa82-d12e-7d79-ff533b7dea9d.mp3" type="audio/mpeg" />
+  <ns0:duration>0:33:48</ns0:duration>
 </item>

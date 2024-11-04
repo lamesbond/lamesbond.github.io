@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>167《痛苦与荣耀》他这次最该拿金棕榈？我不觉得</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/167-eq78vk</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/QZwij9rV65Cc9VVie-q80A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子:7分（资深媒体人；《复仇者联盟4》等5期嘉宾）
 阿莫多瓦把他早前的犀利和张扬转化为这次的细腻与温柔。作为导演粉丝，这片给了我太多的情感慰藉，而最大的感慨莫过于眼看着班德拉斯由当初一枚小鲜肉蜕变为一位戛纳影帝。
@@ -46,6 +47,6 @@
 《巴斯特·斯克鲁格斯的歌谣》（2018）
 </description>
   <pubDate>Mon, 05 Aug 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fef615dbb-df3f-fd70-c526-3d05a942dd49.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:59:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fef615dbb-df3f-fd70-c526-3d05a942dd49.mp3" type="audio/mpeg" />
+  <ns0:duration>1:59:59</ns0:duration>
 </item>

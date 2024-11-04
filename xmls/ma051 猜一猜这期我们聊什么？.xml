@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma051 猜一猜这期我们聊什么？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma051-e1ug256</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/0KtT70caXDTFd4Ql_Y3xNg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>中宣部接手监管内部电影业
 “当我们在谈论这件事时我们在谈论什么”
 “从此，改换门庭”
@@ -15,6 +16,6 @@
 片头/片尾曲：North Korea Children Playing the Guitar Remix
 </description>
   <pubDate>Sat, 24 Mar 2018 12:38:36 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffc2fcf43-6043-9cab-4b55-26afd6fc55fa.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:35</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffc2fcf43-6043-9cab-4b55-26afd6fc55fa.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:35</ns0:duration>
 </item>

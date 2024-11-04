@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>154《开战》英特纳雄耐尔就一定要实现……吗？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/154-eq78i8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Oeh-N6SNLvEnUBqSH-_mcw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 吴琦（“单读”主编，资深媒体人；《冷战》等5期嘉宾，微博“五七”）：8分
 “新闻的框架下游移的镜头，如同一篇在第一现场写就的檄文，而那些稍显迟缓的空镜和生活流的间隙，成了这些最基本最朴素的抗争者存在过唯一的证明。非常高级的拍法。非常痛苦的今日世界的写照。”
@@ -41,6 +42,6 @@
 《沉默的教室》（2018）
 </description>
   <pubDate>Mon, 08 Apr 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe4f2fdf6-8a77-7c4c-92a9-4cecb8918cf2.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:09:08</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe4f2fdf6-8a77-7c4c-92a9-4cecb8918cf2.mp3" type="audio/mpeg" />
+  <ns0:duration>2:09:08</ns0:duration>
 </item>

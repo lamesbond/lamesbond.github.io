@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>178《小丑》小丑形象盘点及创作方向猜想</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/178-eq79is</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OOOAnuYvK34WEaCM50z6lQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播
 杨超（《长江图》导演，《小丑》等13期嘉宾）
 鲁韵子（媒体人，《小丑》等7期嘉宾）
@@ -39,6 +40,6 @@
 《此房是我造》（2018）
 </description>
   <pubDate>Sat, 23 Nov 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa9a7897c-84e1-f889-3d44-309fb86909e2.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:17:26</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa9a7897c-84e1-f889-3d44-309fb86909e2.mp3" type="audio/mpeg" />
+  <ns0:duration>2:17:26</ns0:duration>
 </item>

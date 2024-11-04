@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>235《果尔达》从以色列中东战争到基辛格，这片全有了</title>
-  <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/235-e2eeufd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/DVqetkGHt9_iZBIdOsg8rQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>刘三解：7.5分
 （历史研究者，《登楼叹》等14期嘉宾，公号“刘三解freestyle”）
 
@@ -75,6 +76,6 @@
 封面设计：画电影；可关注B站“画电影”频道。
 </description>
   <pubDate>Sun, 10 Dec 2023 14:07:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F363473887-44100-2-1a3696fad4f1a.m4a" type="audio/x-m4a"/>
-  <itunes:duration>1:03:48</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F363473887-44100-2-1a3696fad4f1a.m4a" type="audio/x-m4a" />
+  <ns0:duration>1:03:48</ns0:duration>
 </item>

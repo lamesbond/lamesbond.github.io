@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma048 提名=金棕榈+金熊+三大主竞赛获奖片！“最佳影片”小年？“外语片”大年！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma048-e1ug20o</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/YmepxTAzZQ-ZTVTOf0sRZA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 海老鼠（环球旅行家，《王牌特工2》等12期嘉宾；公众号“seamouse”）
 雷普利（凤凰电影前编辑，《请以你的名字呼唤我》等24期嘉宾）
@@ -59,6 +60,6 @@
 台湾地区《日常对话》：该片未入围初选；此前39次申报，3次提名，1次获奖（《卧虎藏龙1》）。
 </description>
   <pubDate>Wed, 28 Feb 2018 12:33:21 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8090cf79-3fd7-ec46-dabb-beeadd09c880.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8090cf79-3fd7-ec46-dabb-beeadd09c880.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

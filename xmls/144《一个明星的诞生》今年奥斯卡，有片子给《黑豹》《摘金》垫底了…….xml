@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>144《一个明星的诞生》今年奥斯卡，有片子给《黑豹》《摘金》垫底了……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/144-eq780f</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/uWzJL8XkiZX087H4Xmr_1g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 一舒（FIRST影展策展人）：6分
 “看的过程还挺愉悦的，嘎嘎的演出也非常棒，或许它最大的缺点就是没什么缺点吧。”
@@ -42,6 +43,6 @@
 《登月第一人》（2018）
 </description>
   <pubDate>Tue, 22 Jan 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d6b3719-2cb6-81db-c7b9-6c21e4c6889e.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d6b3719-2cb6-81db-c7b9-6c21e4c6889e.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

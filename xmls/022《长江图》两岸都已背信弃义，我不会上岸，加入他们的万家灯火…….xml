@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>022《长江图》两岸都已背信弃义，我不会上岸，加入他们的万家灯火……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/022-eq6smv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/87rg__MhLjcrOmaherdVEw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 吴琦（《单读》主编，著名媒体人）：8分；
 雷普利：8分；
@@ -36,6 +37,6 @@ Darkwood IV： Dawn(David Darling)
 《谍影重重5》（2016，本片导演杨超为此期嘉宾）
 </description>
   <pubDate>Sun, 11 Sep 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26488991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F7bd69753-0857-40c3-8613-aa0fb8001639.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:43:43</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26488991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F7bd69753-0857-40c3-8613-aa0fb8001639.mp3" type="audio/mpeg" />
+  <ns0:duration>1:43:43</ns0:duration>
 </item>

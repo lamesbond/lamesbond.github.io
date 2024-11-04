@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>158《风中有朵雨做的云》中国，精神病人</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/158-eq78n4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/efbzDZY0xtAVWq1hMrIleA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 汤博：6.5分（媒体人；《波西米亚狂想曲》等2期嘉宾）
 娄烨有点儿像现在的姜文，已经控制不住自己那点儿才华了。我看不到城中村和后面情感故事的关联，完全就是一个点缀。
@@ -57,6 +58,6 @@
 《兰心大剧院》（未定档）
 </description>
   <pubDate>Mon, 06 May 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F63454ac7-ac4f-3004-b756-7396f4e0462a.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:56:19</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F63454ac7-ac4f-3004-b756-7396f4e0462a.mp3" type="audio/mpeg" />
+  <ns0:duration>1:56:19</ns0:duration>
 </item>

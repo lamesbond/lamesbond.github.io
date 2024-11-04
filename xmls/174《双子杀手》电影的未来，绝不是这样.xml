@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>174《双子杀手》电影的未来，绝不是这样</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/174-eq79bi</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/PLSdoZoCY-OyaEy8OghO9A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 柏小莲:7分媒体人；《何以为家》等7期嘉宾
 上一部就有人说他失手了，此前拍超英电影也有人说他失手了，失手又能如何呢？输不丢人，他也不怕，一个65岁功成名就已经站上巅峰的人，能够做到不怕失败、不怕输、什么都不怕，已经是赢了。
@@ -51,6 +52,6 @@
 《马尼拉之战》（待定）
 </description>
   <pubDate>Mon, 21 Oct 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fcda8a578-4473-ae90-f647-1002a9f6b172.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:29:03</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fcda8a578-4473-ae90-f647-1002a9f6b172.mp3" type="audio/mpeg" />
+  <ns0:duration>1:29:03</ns0:duration>
 </item>

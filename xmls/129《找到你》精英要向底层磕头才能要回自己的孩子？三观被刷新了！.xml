@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>129《找到你》精英要向底层磕头才能要回自己的孩子？三观被刷新了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/129-eq7315</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Cny60H0rTN3rW6tDJFzDVg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 翠萍（资深媒体人；《大佛普拉斯》嘉宾）：7分；
 “这片展现了当代中国三种女性的三种困境：底层妇女、全职妈妈和职场女性面临的具体问题，这种女性视角在国产片范畴非常难得。”
@@ -42,6 +43,6 @@
 《我不是药神》（2018）
 </description>
   <pubDate>Mon, 08 Oct 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F960963a5-1383-8494-33e9-396a70d7277e.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:00:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F960963a5-1383-8494-33e9-396a70d7277e.mp3" type="audio/mpeg" />
+  <ns0:duration>2:00:00</ns0:duration>
 </item>

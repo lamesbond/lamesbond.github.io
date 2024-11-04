@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma067 Top10时刻！那些被骂成狗的外语片都被我们选进了年度十佳！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma067-Top10-e1ug4qs</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/pcK0oYo2OX3U1QojLd0LUw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 靳锦（2018年引进片共看41部；资深媒体人，《罗马》等4期嘉宾）
 顿河（2018年引进片共看42部；著名制片人编剧，《冷战》等9期嘉宾，公众号“顿的河”）
@@ -117,6 +118,6 @@
 有29.57%的投票者在评选引进片“年度十佳”或“最被过誉”时考虑了删减因素；而剩下的70.43%的投票者没有把“影片是否存在删减”一项作为自己评价时的重要参考标准。
 </description>
   <pubDate>Fri, 04 Jan 2019 13:05:34 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64540956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F25d7e8bb-a091-7789-6d1e-48f9c4829120.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:59:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64540956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F25d7e8bb-a091-7789-6d1e-48f9c4829120.mp3" type="audio/mpeg" />
+  <ns0:duration>0:59:36</ns0:duration>
 </item>

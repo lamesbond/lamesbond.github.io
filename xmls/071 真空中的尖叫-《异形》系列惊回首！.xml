@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>071 真空中的尖叫-《异形》系列惊回首！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/071-eq6vtr</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/L1ZXPvrF5RXHl2cNULU-mQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主播：
 雷普利；（凤凰电影前编辑，《迷失Z城》等16期嘉宾）；
 “《异形》系列就像一个吃百家饭的孩子，几经周折才回到生父手中，或许也只有生父才会倾注全部精力让它延续，让它壮大。”
@@ -31,6 +32,6 @@
 《异形》所有前作电影（1979-2012）
 </description>
   <pubDate>Mon, 21 Aug 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F04f7dccd-62d1-11e1-5c3a-b6373ba1ea52.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:04:28</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F04f7dccd-62d1-11e1-5c3a-b6373ba1ea52.mp3" type="audio/mpeg" />
+  <ns0:duration>1:04:28</ns0:duration>
 </item>

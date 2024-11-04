@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma065 末代皇帝？它在贝托鲁奇的作品里可能排不上号……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma065-e1ug2qp</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/bgauelnhNVLTuwHFhESZzg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创音频主播：
 海老鼠（环球旅行家，《血观音》等13期嘉宾；公号“seamouse”）
 隐形（本期控场；《网络迷踪》等29期嘉宾）
@@ -52,6 +53,6 @@
 《金钱世界》（2017）
 </description>
   <pubDate>Thu, 29 Nov 2018 13:00:44 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1d2b900d-2ba1-d050-1e56-ed714413c4fc.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1d2b900d-2ba1-d050-1e56-ed714413c4fc.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>215《黑寡妇》不如《花木兰》</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/215-e16t0bm</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/fO2AGFLVnOsay03ok3P7hA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 海老鼠:6.5分
 《神奇女侠1984》等19期嘉宾
@@ -59,6 +60,6 @@
 《奇异博士2》（2022）
 </description>
   <pubDate>Fri, 16 Jul 2021 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/39796534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-4%2Fa7328c09-3c35-777f-8e5b-7aadd8918d8e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:29:35</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/39796534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-4%2Fa7328c09-3c35-777f-8e5b-7aadd8918d8e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:29:35</ns0:duration>
 </item>

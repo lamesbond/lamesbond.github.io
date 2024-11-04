@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>193《爆炸新闻》他甚至都懒得脱裤子</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/193-eq7a93</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/LiCq9EqlWXXKxWARs7xtlA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 弦子：8分，Metoo事件当事人，微博@弦子和她的朋友们
 厌女绝不仅是一种情绪表达，它和一个人的思想，甚至和整个社会处在民族主义的上浮时期都密切相关——影片的亮点正是呈现了这种相关性。也是在这样的背景下，女性的处境才格外艰难。电影当然是在输出政治立场，我认可的就是这种立场。
@@ -46,6 +47,6 @@
 《甜蜜的复仇》（待定）
 </description>
   <pubDate>Thu, 09 Apr 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F53f0c202-7fa6-0acd-d3ba-2308fffcfdb4.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:34:53</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F53f0c202-7fa6-0acd-d3ba-2308fffcfdb4.mp3" type="audio/mpeg" />
+  <ns0:duration>1:34:53</ns0:duration>
 </item>

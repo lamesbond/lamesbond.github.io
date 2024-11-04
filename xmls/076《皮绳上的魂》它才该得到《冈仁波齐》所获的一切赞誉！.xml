@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>076《皮绳上的魂》它才该得到《冈仁波齐》所获的一切赞誉！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/076-eq700h</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/wv-LO7UBNJC0fckmg13CUQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 段炼 （FIRST影展策展人）：6.5分（完整版评分）；
 “从改编难度和最后的完成度考量，本片应该是张杨生涯最好的电影。”
@@ -65,6 +66,6 @@
 《迷失Z城》（2017）
 </description>
   <pubDate>Mon, 25 Sep 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffff031b6-a557-9a2d-fa60-8a2aa7da9306.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:42:13</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffff031b6-a557-9a2d-fa60-8a2aa7da9306.mp3" type="audio/mpeg" />
+  <ns0:duration>1:42:13</ns0:duration>
 </item>

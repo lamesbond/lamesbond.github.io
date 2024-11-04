@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>065《摔爸》外延印度电影是否已碾压中国电影？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/065-eq6vpb</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/6RqGoDdmfu59YL1Jz4yHJA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（《长江图》导演，国戏教师，《变形金刚5》等4期嘉宾）：7分；
 “印度电影在工业上已经全面超越我们了，《巴霍巴利王》比我们的那些‘西游’电影强好多好多倍！”
@@ -43,6 +44,6 @@
 《脑残粉》（2016）
 </description>
   <pubDate>Mon, 10 Jul 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb4b35857-ea4b-e0d1-20de-b8fd633d8083.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:57:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb4b35857-ea4b-e0d1-20de-b8fd633d8083.mp3" type="audio/mpeg" />
+  <ns0:duration>0:57:57</ns0:duration>
 </item>

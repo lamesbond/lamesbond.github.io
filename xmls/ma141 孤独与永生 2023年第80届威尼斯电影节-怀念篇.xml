@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma141 孤独与永生 2023年第80届威尼斯电影节-怀念篇</title>
-  <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/ma141-202380--e29sj3k</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xCWvOk9pr-CL388sFd29wQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期音频团队：
 
 海老鼠（环球旅行家，《神奇女侠1984》等19期嘉宾，小红书seamouse）
@@ -25,6 +26,6 @@
 结束曲：Opus（坂本龍一）；
 </description>
   <pubDate>Sat, 09 Sep 2023 01:45:14 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76483124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2F362db47b-a877-0975-096c-acff191d2e8a.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:41:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76483124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2F362db47b-a877-0975-096c-acff191d2e8a.mp3" type="audio/mpeg" />
+  <ns0:duration>0:41:36</ns0:duration>
 </item>

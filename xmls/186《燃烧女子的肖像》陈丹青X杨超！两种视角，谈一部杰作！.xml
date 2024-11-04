@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>186《燃烧女子的肖像》陈丹青X杨超！两种视角，谈一部杰作！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/186X-eq79uv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/HpUxRWTU9GGctC6XWckN_w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 陈丹青：8分，画家；“李安前作回顾”嘉宾
 这不是一部关于画家的电影，而且片子里的画作都太烂了，我能明白导演想用后现代的方式去呈现一种18世纪的风格，但执行得太失败了。可我又不计较这些，片子本身还是打动我的，那些直男直女爱情片给不到我的，这部片都给到了。
@@ -75,6 +76,6 @@
 《82年生的金智英》（2019）
 </description>
   <pubDate>Fri, 24 Jan 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F561c4ba9-df26-8513-5320-193282c181af.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:14:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F561c4ba9-df26-8513-5320-193282c181af.mp3" type="audio/mpeg" />
+  <ns0:duration>2:14:41</ns0:duration>
 </item>

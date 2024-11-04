@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>148《宠儿》这部小儿科级别的宫斗片，凭啥能拿10项奥斯卡提名？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/14810-eq78b1</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/HmWRmEFvSCNnd1gcfx1D4A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 柏小莲（资深媒体人；《羞辱》等5期嘉宾；微博公号“柏小莲”）：8分；
 “国产宫斗剧爱好者就不要看了。其实人类的智商一直被高估，但人类的欲望从未被高估——宫斗剧归纳起来都是前半句，而《宠儿》诠释了后半句。”
@@ -51,6 +52,6 @@
 《新喜剧之王》（2019）
 </description>
   <pubDate>Mon, 18 Feb 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F339e2e99-b9a0-1098-320b-e5518cae9279.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:05:45</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F339e2e99-b9a0-1098-320b-e5518cae9279.mp3" type="audio/mpeg" />
+  <ns0:duration>2:05:45</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>135《大象席地而坐》恶土</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/135-eq7372</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/kMVX3C-WaUfAIftEyl4zGg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑；《曼蒂》等28期嘉宾）：“这部电影把‘个体存在’的讨论上升到了哲学高度，这是在《牯岭街》《小武》再到《孔雀》都不曾出现过的。”
 波米：“它有非常古典主义的叙事结构，也包含了相当多的剧作技巧：悬疑点的设置、主要矛盾的建立。胡波有着带领所有观众进入这部电影的意愿和能力，这绝不是一部自说自话的电影。”
@@ -33,6 +34,6 @@
 《江湖儿女》（2018）
 </description>
   <pubDate>Tue, 20 Nov 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F07eeefd0-1451-4b90-ba0a-c2e4137d5c04.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:43:12</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F07eeefd0-1451-4b90-ba0a-c2e4137d5c04.mp3" type="audio/mpeg" />
+  <ns0:duration>1:43:12</ns0:duration>
 </item>

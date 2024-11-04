@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>056《银河护卫队2》来了俩“速激”成员，就也把“家庭”挂嘴边了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0562-eq6vgo</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/8H_sv5PCZClbB6l4aVhTVA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长（《辛普森：美国制造》嘉宾；资深媒体人；个人微博ID“荡科长”）：6.5分；
 “《银护2》就是‘段子电影’，所有梗都是为了方便‘社交网络传播’，这也是漫威的成功之道。但相比第一部，这部的歌选的太烂了。”
@@ -56,6 +57,6 @@
 《雷神3》（2017）
 </description>
   <pubDate>Sun, 07 May 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff4be667e-4149-a61f-84a9-3b71f56573d2.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:32:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff4be667e-4149-a61f-84a9-3b71f56573d2.mp3" type="audio/mpeg" />
+  <ns0:duration>1:32:30</ns0:duration>
 </item>

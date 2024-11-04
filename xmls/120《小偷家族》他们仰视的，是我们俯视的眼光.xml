@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>120《小偷家族》他们仰视的，是我们俯视的眼光</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/120-eq72p3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/wdVtYz43sBNnHc5WSfOiLw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 顿河（著名制片人编剧；《魅影缝匠》等7期嘉宾；公众号“顿的河”）：8分（仅针对完整版）；
 “金棕榈更像是终身成就奖，这部最大的优点就是成熟。可我担心，它无法经受时间的考验。”
@@ -58,6 +59,6 @@
 《邪不压正》（2018）
 </description>
   <pubDate>Tue, 07 Aug 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F63a095d0-f282-89e5-cd04-89d09ec19d05.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:24:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F63a095d0-f282-89e5-cd04-89d09ec19d05.mp3" type="audio/mpeg" />
+  <ns0:duration>2:24:30</ns0:duration>
 </item>

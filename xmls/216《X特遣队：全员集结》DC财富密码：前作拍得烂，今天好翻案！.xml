@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>216《X特遣队：全员集结》DC财富密码：前作拍得烂，今天好翻案！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/216XDC-e16t0ca</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xjvZPN1lxPAXyzwfnoMEbA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 鲁韵子:6.5分
 媒体人，《扎导版正义联盟》等13期嘉宾
@@ -51,6 +52,6 @@
 《海王》（2018）
 </description>
   <pubDate>Sun, 15 Aug 2021 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/39796554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-4%2F2e3b0ce0-3733-e7d9-14b2-db7ac395a2ba.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:29:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/39796554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-4%2F2e3b0ce0-3733-e7d9-14b2-db7ac395a2ba.mp3" type="audio/mpeg" />
+  <ns0:duration>1:29:47</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma134 又删又改？背后的原因令人暖心！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma134-e1ug7vl</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/2r_ySi50bp1XTamjD_h3wQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“你们看到这坨屎了吗？”
 事件简述：
 近日有网友发现，内地“腾讯视频”版《搏击会》（Fight Club）的结尾被以修改字幕卡和删减镜头的方式呈现了一个完全不属于原版的“大团圆结尾”。26日，该片编剧也是原著作者的恰克·帕拉尼克（Chuck Palahniuk）在推特上以嘲讽的方式回应了此事。
@@ -11,6 +12,6 @@
 目前该和谐版本《搏击会》仍未下架，腾讯也并未回应此事。
 </description>
   <pubDate>Fri, 28 Jan 2022 14:43:45 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F9b1cbcd8-d120-9492-be5a-104aa014f663.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:26:01</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F9b1cbcd8-d120-9492-be5a-104aa014f663.mp3" type="audio/mpeg" />
+  <ns0:duration>0:26:01</ns0:duration>
 </item>

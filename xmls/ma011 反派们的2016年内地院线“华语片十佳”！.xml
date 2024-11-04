@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma011 反派们的2016年内地院线“华语片十佳”！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma011-2016-e1ufsh1</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/MbLV5yNONF2JLGx9GxKDrw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 雷普利（凤凰电影前编辑，《夜行动物》等8期嘉宾）
 隐形（编剧，《湄公河行动》等5期嘉宾）
@@ -150,6 +151,6 @@ Yanglei（《你的名字。》等2期嘉宾，电影策划）：
 最被过誉：《湄公河行动》（林超贤；这一数据来源于另一组投票结果，点击蓝字查看）
 </description>
   <pubDate>Thu, 05 Jan 2017 09:34:41 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fc08b01d3-3fb8-ddba-51ff-2e28571c4f5d.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:38:33</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fc08b01d3-3fb8-ddba-51ff-2e28571c4f5d.mp3" type="audio/mpeg" />
+  <ns0:duration>1:38:33</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>126《曼蒂》不是神作也是神片！觉得又被凯奇坑了？或许是你打开方式不对！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/126-eq72u5</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ToEb3vwjCxMkHGcIp25Gng</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑；《动物世界》等27期嘉宾）：6分；“在看到凯奇坐在马桶上那一刻之前，我以为这是一部严肃的宗教恐怖片。而那一刹那，我笑场了。”
 荡科长（资深电影从业者；《死侍2》等9期嘉宾；微博“荡科长”）：6分；“这片对研究‘邪典电影’的人提供了很大的研究与参考价值。”
@@ -47,6 +48,6 @@
 《阴风阵阵》（新版，2018）
 </description>
   <pubDate>Tue, 18 Sep 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff29175a8-0f21-e239-16e4-4c5b5b93e0ae.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:38:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff29175a8-0f21-e239-16e4-4c5b5b93e0ae.mp3" type="audio/mpeg" />
+  <ns0:duration>1:38:30</ns0:duration>
 </item>

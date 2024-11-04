@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma100 多好！韩国以奉俊昊为傲，咱以徐峥为荣！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma100-e1ug6kn</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/evA-r-zZxqmE_D_rXQ4n9A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 阿苏（电影从业者）
 荡科长（《爱尔兰人》等17期嘉宾，微博@荡科长）
@@ -157,6 +158,6 @@ St. Louis Superman
 Walk Run Cha-Cha
 </description>
   <pubDate>Mon, 10 Feb 2020 13:57:49 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F18e4094a-b9f1-2f0a-eff6-2f557c565cb5.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:39:50</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F18e4094a-b9f1-2f0a-eff6-2f557c565cb5.mp3" type="audio/mpeg" />
+  <ns0:duration>0:39:50</ns0:duration>
 </item>

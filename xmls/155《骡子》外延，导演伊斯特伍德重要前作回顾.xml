@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>155《骡子》外延，导演伊斯特伍德重要前作回顾</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/155-eq78kq</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZsiSErnAV3sc7-3Vd2whJA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>这次的特别节目有一个新尝试，也因此上周《骡子》下半场的节目才没能按时推送。今天，我们把那期的外延“伊斯特伍德前作回顾”作为主题，补录了一些内容，以“2位主播串起10位嘉宾每个人的耳旁风”的形式呈现出来。
 这个形式可能对一个导演回顾的内容来说有点过于隆重，乍听上去会以为是个悼念专题。所以我们才美其名曰“三周年特别节目”，以免造成什么误解（东木还活着！）。
 其实，在周年之际把三年来你所熟悉的声音用同一个话题编织起来，对反派影评来说也算一次“连宇宙”吧。不害臊的说，如果把几年来邀请不同嘉宾的操作看作是一种布局，为的就应该是今天这期节目了。
@@ -47,6 +48,6 @@
 
 </description>
   <pubDate>Sat, 27 Apr 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6700bb5-dd7e-1f0d-e640-786963789e83.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:59:18</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6700bb5-dd7e-1f0d-e640-786963789e83.mp3" type="audio/mpeg" />
+  <ns0:duration>2:59:18</ns0:duration>
 </item>

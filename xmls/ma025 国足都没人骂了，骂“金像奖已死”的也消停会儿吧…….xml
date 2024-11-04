@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma025 国足都没人骂了，骂“金像奖已死”的也消停会儿吧……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma025-e1ug07g</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/bXlhbTmA60GnludxjPFCRQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 秦婉（本届金像奖前方报道记者，个人公众号“小婉电影酱”）
 法兰西胶片（曾多年任职于《香港电影》杂志，微博/豆瓣ID“法兰西胶片”）
@@ -37,6 +38,6 @@
 最佳两岸华语电影：《一路顺风》（获奖）《火锅英雄》《再见瓦城》《老炮儿》《我不是潘金莲》
 </description>
   <pubDate>Wed, 12 Apr 2017 11:40:54 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbc432d62-5203-595d-64a0-88000c789c23.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:24:44</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fbc432d62-5203-595d-64a0-88000c789c23.mp3" type="audio/mpeg" />
+  <ns0:duration>0:24:44</ns0:duration>
 </item>

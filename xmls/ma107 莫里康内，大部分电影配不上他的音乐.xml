@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma107 莫里康内，大部分电影配不上他的音乐</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma107-e1ug6tl</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/5uj6zBHD84SSfzfAk5TJRw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队：
 后期：思源/波米；编辑排版：效愚；封图设计：画电影,可关注B站“画电影”频道。
 事件简述：
@@ -37,6 +38,6 @@ The funeral《金枪客再闯鬼门关》
 《八恶人》（2015）
 </description>
   <pubDate>Thu, 09 Jul 2020 14:08:37 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F48d30351-6681-36e9-958b-ca1bc189de3b.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:22:08</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F48d30351-6681-36e9-958b-ca1bc189de3b.mp3" type="audio/mpeg" />
+  <ns0:duration>0:22:08</ns0:duration>
 </item>

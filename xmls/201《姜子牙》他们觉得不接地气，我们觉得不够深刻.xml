@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>201《姜子牙》他们觉得不接地气，我们觉得不够深刻</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/201-eq7b9l</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/h_FvTiD2h33Wd3hJ5ZA1Jg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子：6.5分，媒体人，《1917》等9期嘉宾
 从纣王被写成是姻缘神就能看出主创懂原著，《封神榜》可不是什么正义战胜邪恶。从仙界视角说，他们发动战争就是故意让人间多死一些天才、割一波韭菜，以便更好的补充仙界的“公务员队伍”。包括十二天尊为什么参战？那是因为他们想在人间历劫，所谓仙界的神确实就是一群既得利益者。
@@ -58,6 +59,6 @@
 《封神三部曲》（2021）
 </description>
   <pubDate>October 10, 2020 10:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdf0eb969-bc89-4edd-3fa9-abec4d04b0a1.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:14:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26503925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdf0eb969-bc89-4edd-3fa9-abec4d04b0a1.mp3" type="audio/mpeg" />
+  <ns0:duration>1:14:57</ns0:duration>
 </item>

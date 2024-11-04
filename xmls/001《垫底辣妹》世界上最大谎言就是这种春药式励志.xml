@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>001《垫底辣妹》世界上最大谎言就是这种春药式励志</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/001-eq6qc0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/U0eO2GDLZUEQlKLkjevFHQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 波米： 6.5
 冰心： 6.0
@@ -20,6 +21,6 @@
 《飞鹰艾迪》（2016）
 </description>
   <pubDate>Tue, 26 Apr 2016 05:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26486592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe11a2b7c-2e8d-10b7-1e71-ed1bb0c92391.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:42:44</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26486592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fe11a2b7c-2e8d-10b7-1e71-ed1bb0c92391.mp3" type="audio/mpeg" />
+  <ns0:duration>1:42:44</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>081《银翼杀手2049》即使变成甲壳虫卡夫卡还是进不去城堡</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0812049-eq7044</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/w3_fMirV21G5hlJhTD-qrA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（《长江图》导演，国戏教师，《摔跤吧！爸爸》等5期嘉宾）：7.5分；
 （杨超的其它打分：《爱乐之城》8分；《摔跤吧！爸爸》7分；《变形金刚5》5分）
@@ -43,6 +44,6 @@
 《银翼杀手：2022黑暗浩劫》（2017）
 </description>
   <pubDate>Tue, 31 Oct 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F13e6a514-2ee5-8b75-87a2-599a846d9c44.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:49:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F13e6a514-2ee5-8b75-87a2-599a846d9c44.mp3" type="audio/mpeg" />
+  <ns0:duration>1:49:36</ns0:duration>
 </item>

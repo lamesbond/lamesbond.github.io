@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>137《巴斯特·斯克鲁格斯的歌谣》从前啊有座山，山里啊有座庙…….</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/137-eq738b</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/v4UPSdCcIBHh-OxzqLeJPg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 海老鼠（环球旅行家；《三和》等14期嘉宾；公号“seamouse”）：7分；
 “还真没哪个故事有改成长片潜质的，不过好歹没拍成《江湖儿女》式的导演精选专辑。”
@@ -52,6 +53,6 @@
 《影》（2018）
 </description>
   <pubDate>Sun, 02 Dec 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1f84ce07-94be-a545-bf43-3ae97de84819.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:25:02</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1f84ce07-94be-a545-bf43-3ae97de84819.mp3" type="audio/mpeg" />
+  <ns0:duration>1:25:02</ns0:duration>
 </item>

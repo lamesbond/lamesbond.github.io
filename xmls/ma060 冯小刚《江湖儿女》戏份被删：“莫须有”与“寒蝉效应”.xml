@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma060 冯小刚《江湖儿女》戏份被删：“莫须有”与“寒蝉效应”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma060-e1ug2k4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/6H6DfNdaavBfVQt_erizzA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 水怪（资深宣发领域从业者）
 靳锦（媒体人；《我不是药神》嘉宾）
@@ -23,6 +24,6 @@
 内地院线“公映许可证”片长信息为136分钟：
 </description>
   <pubDate>Mon, 17 Sep 2018 12:53:26 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffb81587b-08de-d8f4-1e26-e3c0ac8008ba.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:39</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffb81587b-08de-d8f4-1e26-e3c0ac8008ba.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:39</ns0:duration>
 </item>

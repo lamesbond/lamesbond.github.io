@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma072 说起奥斯卡，又到了国人大骂“政治正确”的时段！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma072-e1ug58e</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Ygi8klL5b7q-d_na0xh5Aw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期话题：2019年第91届奥斯卡提名名单
 流程与具体话题：
 话题1：《黑豹》获提名与国人言必称“政治正确”的现象——到底是谁的文化视角更加狭隘？
@@ -42,6 +43,6 @@ Shallow《一个明星的诞生》
 最佳服装设计：《巴斯特·斯克鲁格斯的歌谣》《黑豹》《宠儿》《欢乐满人间2》《玛丽女王》
 </description>
   <pubDate>Wed, 23 Jan 2019 13:18:03 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3fd0b9ea-02db-30e3-778c-6c694f8c2b62.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:28:34</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F3fd0b9ea-02db-30e3-778c-6c694f8c2b62.mp3" type="audio/mpeg" />
+  <ns0:duration>0:28:34</ns0:duration>
 </item>

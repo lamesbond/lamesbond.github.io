@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma001 赵薇会从此淡出影坛吗？没有别的爱，你背了良心债？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma001-e1ufr1c</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/177OyW5bsAMRkpqCZehOkg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主播：
 隐形（本节目控场主持人）
 海老鼠（03-05年广州抗日游行组织者之一；影评人、旅行家、现处玻利维亚）
@@ -32,6 +33,6 @@
 《没有别的爱》（上映日期未卜）
 </description>
   <pubDate>Mon, 18 Jul 2016 08:38:10 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64530924/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb762a690-5c83-3e67-c9bf-95451a4c88ad.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:43</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64530924/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb762a690-5c83-3e67-c9bf-95451a4c88ad.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:43</ns0:duration>
 </item>

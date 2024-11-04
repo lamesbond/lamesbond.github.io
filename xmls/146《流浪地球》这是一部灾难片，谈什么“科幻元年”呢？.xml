@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>146《流浪地球》这是一部灾难片，谈什么“科幻元年”呢？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/146-eq7883</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OqmekRjbyWPndp7h_6LFwA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 靳锦（资深媒体人；《罗马》等4期嘉宾）：6分
 “科幻的本质是什么？它带你仰望星空，最终审视自我。它不能只去迎合保守的家庭观，更不是你意识形态输出时自圆其说的工具。从这个角度看，这部电影和科幻精神是背道而驰的。”
@@ -48,6 +49,6 @@
 《银翼杀手2049》（2017）
 </description>
   <pubDate>Mon, 04 Feb 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1df8a48d-426f-c19a-f761-b9729f6ba16d.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:15:17</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1df8a48d-426f-c19a-f761-b9729f6ba16d.mp3" type="audio/mpeg" />
+  <ns0:duration>2:15:17</ns0:duration>
 </item>

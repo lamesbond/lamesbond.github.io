@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>111《三和人才市场：中国日结1500日元的年轻人们》改开40年，中国诞生了垮掉的一代？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/111150040-eq72a5</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/_phqvDLLqsI_4uJ7gSDoQw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 海老鼠（环球旅行家，《血观音》等13期嘉宾；公号“seamouse”）：7分；
 “片中人回答‘老了怎么办’时说了一句：‘老了就死了呗’，我不知道我是同情还是绝望。”
@@ -51,6 +52,6 @@ NHK相关：
 《离乡——中国扶贫搬迁实录》（2018）
 </description>
   <pubDate>Mon, 04 Jun 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6be1d9e8-28a9-b013-9484-0d16c4e73563.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:04:37</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6be1d9e8-28a9-b013-9484-0d16c4e73563.mp3" type="audio/mpeg" />
+  <ns0:duration>2:04:37</ns0:duration>
 </item>

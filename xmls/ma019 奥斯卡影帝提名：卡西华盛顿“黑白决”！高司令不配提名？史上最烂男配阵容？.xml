@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma019 奥斯卡影帝提名：卡西华盛顿“黑白决”！高司令不配提名？史上最烂男配阵容？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma019-e1uft0p</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/5hiCoe4KvgZwJC9e4U-OMQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 小猱（腾讯资深电影记者，豆瓣ID“猱困困”，《比海更深》嘉宾）
 柏小莲（界面网娱乐频道负责人，公众号“喷了”，《比海更深》等3期嘉宾）
@@ -22,6 +23,6 @@
 第7次提名表演奖，此前6提2中，27年前凭《光荣战役》获得男配角奖，15年前凭《训练日》获影帝
 </description>
   <pubDate>Tue, 21 Feb 2017 09:53:27 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffbb28695-d44c-a483-73f7-1170dd36571f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:58:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ffbb28695-d44c-a483-73f7-1170dd36571f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:58:36</ns0:duration>
 </item>

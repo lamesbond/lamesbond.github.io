@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>090《小丑回魂》今天回来找你的不只是小丑，还有一个老朋友……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/090-eq71lc</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OBpUVYJtW8VWfBKkjuQP_A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 诗扬（《鬼影人间》主播；微博公众号“鬼影人间”）：7分；
 “美国人怕小丑，是因为小丑形象在美国随处可见。而我们没有这类文化，看这片时自然就不会有多大体会。”
@@ -48,6 +49,6 @@
 《母亲！》（2018）
 </description>
   <pubDate>Sun, 31 Dec 2017 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb48f5d59-fe6a-a059-ed83-4f540aae11fd.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:22:02</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb48f5d59-fe6a-a059-ed83-4f540aae11fd.mp3" type="audio/mpeg" />
+  <ns0:duration>1:22:02</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma131 关于国庆档影片节目仅在小鹅通发布的通知</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma131-e1ug7n2</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/QnCPfxtqzLDI0Cg20fdDSg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“刀口舔血。”
 以上非节目本身，相关内容请点“阅读原文”收听
 通知1：如片头音频所述，近期内地院线的相关节目已经在“小鹅通”平台发布，可点击“阅读原文”或扫下方二维码收听，今后部分内容不排除会更多采用此类发布方式。
@@ -11,6 +12,6 @@
 再一次，对于给您带来的不便，我们深表歉意。
 </description>
   <pubDate>Thu, 07 Oct 2021 14:34:25 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb84dd77a-c8ba-4b56-b4cf-0598d4ded265.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:08:46</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb84dd77a-c8ba-4b56-b4cf-0598d4ded265.mp3" type="audio/mpeg" />
+  <ns0:duration>0:08:46</ns0:duration>
 </item>

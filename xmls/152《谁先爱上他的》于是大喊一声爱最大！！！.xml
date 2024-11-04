@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>152《谁先爱上他的》于是大喊一声爱最大！！！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/152-eq78gd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/MA61-vet57plJrwXV8Rh4A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 影志（公众号“不散”创始人）：8分
 “对片中女主角的丈夫进行粗暴的道德批判是没必要的，同志群体在此类问题上总是面临着更大的社会压力，所谓的‘骗婚’更多是出于无奈。”
@@ -39,6 +40,6 @@
 《再见 南屏晚钟》（2019）
 </description>
   <pubDate>Tue, 19 Mar 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fcfb8abf7-ca9b-103d-de67-debd56442471.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:54:29</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fcfb8abf7-ca9b-103d-de67-debd56442471.mp3" type="audio/mpeg" />
+  <ns0:duration>1:54:29</ns0:duration>
 </item>

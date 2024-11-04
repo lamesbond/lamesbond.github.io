@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>027《黑处有什么》公映版没了什么？来看与原版对比后的敏感发现！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/027-eq6sql</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Jt3v2m7WOlOn6XvxLpjgYA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>提示：本期节目部分素材含有大量粗口用语，请谨慎收听。
 隐形：7分
 波米：7分
@@ -26,6 +27,6 @@
 《怒》（2016）
 </description>
   <pubDate>Tue, 18 Oct 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb0129956-9aa9-3071-b02c-239e2907e63c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:56:31</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb0129956-9aa9-3071-b02c-239e2907e63c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:56:31</ns0:duration>
 </item>

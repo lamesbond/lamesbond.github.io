@@ -1,13 +1,14 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma119 人人影视被封，是结束还是开始？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma119-e1ug7a3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/mLfyvPksmVhB9qRFPey8Rg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>事件简述：
 2月3日，上海市公安局通报“人人影视字幕组”侵犯影视作品著作权案，称该网站以赚取广告费、会员费以及出售携带侵权影视作品的移动硬盘等手段非法牟利，涉案金额超过1600万元，14人被抓获，目前该网站客户端上的所有内容均被清空。自创立之初，“人人影视字幕组”便屡次遭遇关停，而在今年1月，该网站QQ群管理员也一度发布通告，透露该字幕组即将停止运营。
 这一消息最早是在2月3日上午，由上海市公安局通过“除隐患·铸平安”专项系列发布会对外透露的。警方称早在去年9月，就已发现“人人影视”疑似提供侵权影视作品的在线观看与下载。又经与相关“著作权权利人”联系，发现该网站的影视作品并未取得授权许可。对此，上海公安局经侦总队与虹口公安分局展开侦查。初步查证，“人人影视”各端口刊载影视作品超过2万部，注册会员超过800万。
 目前，警方已对相关犯罪嫌疑人依法采取刑事强制措施，案件正在进一步侦办中。
 </description>
   <pubDate>Fri, 05 Feb 2021 14:22:11 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F2e7a0286-17e0-8cca-568a-7c12196e3602.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:27:04</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F2e7a0286-17e0-8cca-568a-7c12196e3602.mp3" type="audio/mpeg" />
+  <ns0:duration>0:27:04</ns0:duration>
 </item>

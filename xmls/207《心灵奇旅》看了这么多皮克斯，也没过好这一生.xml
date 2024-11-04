@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>207《心灵奇旅》看了这么多皮克斯，也没过好这一生</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/207-eq7bfs</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OAFAbkQiDMEYmBreHtPC4Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 阿苏：7分，动画从业者，《花木兰》等2期嘉宾
 即便动画片发展到了今天的地步，即便皮克斯已经获得了这样的江湖地位，它在创作时仍然有极强的探索性，仍然试图安放挑战观众预期的情节，试图以突发事件给人带来持续的不安全感。大家都在把本片和前面的动画作比，却忘记了全面流媒体化创作更加保守趋势下，它可能是未来很久内最好的作品。
@@ -60,6 +61,6 @@
 《未定名狮子王前传》(2023)
 </description>
   <pubDate>January 04, 2021 9:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F3936532d-297c-267b-b66d-6a3f9ff14322.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:46:49</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F3936532d-297c-267b-b66d-6a3f9ff14322.mp3" type="audio/mpeg" />
+  <ns0:duration>1:46:49</ns0:duration>
 </item>

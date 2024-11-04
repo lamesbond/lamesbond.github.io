@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>100《湮灭》是我没看懂还是你没拍明白？本期揭秘“3D打印”的前世今生！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1003D-eq71vo</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/zB6ofCfIsGeUSIijHJQ2qg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 K先生（青年编剧；《疾速追杀2》等2期嘉宾）：6分；
 “狂迷原著，6分里5分给原著，但视听上被《降临》吊打。”
@@ -41,6 +42,6 @@ K先生（青年编剧；《疾速追杀2》等2期嘉宾）：6分；
 《缄默》（即主播提及的“静音”，2018）
 </description>
   <pubDate>Sun, 18 Mar 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F7432fd7c-1270-5877-b710-e8949487fb56.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:28:32</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F7432fd7c-1270-5877-b710-e8949487fb56.mp3" type="audio/mpeg" />
+  <ns0:duration>1:28:32</ns0:duration>
 </item>

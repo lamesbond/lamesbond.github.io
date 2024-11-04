@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>金像奖，一场内部分赃的闹剧。第41届香港电影金像奖</title>
   <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/41-e29sm42</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>事件简述
 北京时间4月16日，第41届香港电影金像奖公布获奖名单：韦家辉执导的《神探大战》包揽最佳导演、最佳男演员、最佳编剧和最佳摄影四奖成为最大赢家。著名演员郑秀文也在第10次提名金像奖表演奖后，凭电影《流水落花》首次获得最佳女主角奖，同时她本人还获得了最佳原创歌曲奖。
 已停映的争议纪录片《给十九岁的我》获得最佳电影奖，此前拿到最多16项提名的《正义回廊》仅获最佳新晋导演和最佳剪接两个小奖。最佳男女配角分别由《风再起时》的许冠文和《饭戏攻心》（大陆译名《还是觉得你最好》）的王菀之获得。而金像奖主席尔冬升本人执导的主旋律电影《海的尽头是草原》则获得了最佳亚洲华语电影奖。
@@ -72,6 +73,6 @@
 罗卡石琪
 </description>
   <pubDate>Tue, 18 Apr 2023 03:07:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76486210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Fc230a8e6-590d-7a22-d7b9-f0bd804852cf.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:21:33</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76486210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Fc230a8e6-590d-7a22-d7b9-f0bd804852cf.mp3" type="audio/mpeg" />
+  <ns0:duration>0:21:33</ns0:duration>
 </item>

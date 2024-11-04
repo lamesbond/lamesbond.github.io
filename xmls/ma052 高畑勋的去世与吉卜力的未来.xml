@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma052 高畑勋的去世与吉卜力的未来</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma052-e1ug262</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/NfvPF4eTiSg6n3jt0kOKpw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期话题：吉卜力联合创始人高畑勋去世
 事件简述：
 4月5日，吉卜力工作室创始人之一，日本动画导演高畑勋（Isao Takahata）因肺癌逝世，享年82岁。高畑勋1935年出生，1959年加入东映动画，1985年与宫崎骏合作创立了吉卜力工作室，同年担任《天空之城》的制作人。1988年执导《萤火虫之墓》。2013年，高畑勋执导《辉夜姬物语》，获奥斯卡最佳动画长片提名。2016年以80岁高龄出任《红海龟》的制作人，这也是他参与的吉卜力工作室的最后一部动画电影。
@@ -29,6 +30,6 @@
 《辉夜姬物语》（2013）
 </description>
   <pubDate>Mon, 09 Apr 2018 12:39:36 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa3ef003f-a208-17ff-c7ab-ee5eb960197f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:26:05</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa3ef003f-a208-17ff-c7ab-ee5eb960197f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:26:05</ns0:duration>
 </item>

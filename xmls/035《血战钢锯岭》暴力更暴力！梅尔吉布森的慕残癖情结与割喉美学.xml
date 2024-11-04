@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>035《血战钢锯岭》暴力更暴力！梅尔吉布森的慕残癖情结与割喉美学</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/035-eq6t14</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/gi6a03-IjC9UpQB4G7Bjeg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 张瑞（时光网前任高级编、记者）：7.5分；
 波米：7.5分；
@@ -50,6 +51,6 @@
 《沉默》（2016）
 </description>
   <pubDate>Mon, 12 Dec 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F87dca509-957a-e610-2c8a-e197b93233de.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:43:23</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F87dca509-957a-e610-2c8a-e197b93233de.mp3" type="audio/mpeg" />
+  <ns0:duration>1:43:23</ns0:duration>
 </item>

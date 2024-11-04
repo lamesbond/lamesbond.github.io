@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>190《极速车王》官僚主义与面子工程</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/190-eq7a58</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/K1LX37WJAf0l9LAodB0Vog</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 石一瑛：7分，赛车运动解说员
 这片真的未必适合车迷去看，毕竟我们对那段历史太熟悉了，从片中已经获取不到太多新意了。而且它片名叫“福特V法拉利”，但居然只是把法拉利当成了福特的陪衬，这个也是我们车迷不可想象的一件事。你们知道恩佐·法拉利在赛车界是一个怎样的存在吗？只能说是美国与欧洲的赛车文化确实有着巨大鸿沟吧。
@@ -57,6 +58,6 @@
 《夺冠》（2020）
 </description>
   <pubDate>Wed, 18 Mar 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F50f32239-a170-0bcc-c45b-f7afb6e1e06e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:45:29</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F50f32239-a170-0bcc-c45b-f7afb6e1e06e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:45:29</ns0:duration>
 </item>

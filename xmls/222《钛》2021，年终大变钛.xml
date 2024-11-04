@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>222《钛》2021，年终大变钛</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2222021-e1c4cl8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/yqi_tfA7T89_vemI7ry4Yw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 弦子：8分
 《前程似锦的女孩》等2期嘉宾
@@ -65,6 +66,6 @@
 《前程似锦的女孩》（2020）
 </description>
   <pubDate>Wed, 22 Dec 2021 16:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/45281384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-24%2F4229d393-5bd4-d442-4ba6-6b3dc88d6f28.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:17:52</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/45281384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-24%2F4229d393-5bd4-d442-4ba6-6b3dc88d6f28.mp3" type="audio/mpeg" />
+  <ns0:duration>1:17:52</ns0:duration>
 </item>

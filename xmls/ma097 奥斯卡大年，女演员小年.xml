@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma097 奥斯卡大年，女演员小年</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma097-e1ug6in</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/-KgCbXq1gx6iFmIDe9Rcnw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 靳锦（《好莱坞往事》等11期嘉宾）
 柏小莲（《双子杀手》等8期嘉宾）
@@ -23,6 +24,6 @@
 《哈丽特》辛西娅·埃里沃(Cynthia Erivo)：首次提名表演奖
 </description>
   <pubDate>Fri, 07 Feb 2020 13:55:15 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb2db8b44-887e-04ef-b0cf-b7ab1259311a.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:12:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb2db8b44-887e-04ef-b0cf-b7ab1259311a.mp3" type="audio/mpeg" />
+  <ns0:duration>1:12:59</ns0:duration>
 </item>

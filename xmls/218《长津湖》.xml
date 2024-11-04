@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>218《长津湖》</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/218-e18g9hu</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://appzmhvxypr1060.h5.xiaoeknow.com/v1/course/audio/a_615e1303e4b0448bf6600163</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>本期片目
 《上甘岭》（1956）
 《英雄儿女》（1964）
@@ -17,6 +18,6 @@
 《金刚川》（2020）
 </description>
   <pubDate>Thu, 07 Oct 2021 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/41477118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Ffaecdf75-4c0b-b6b4-5800-4b0cbf3deb76.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:18:43</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/41477118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Ffaecdf75-4c0b-b6b4-5800-4b0cbf3deb76.mp3" type="audio/mpeg" />
+  <ns0:duration>1:18:43</ns0:duration>
 </item>

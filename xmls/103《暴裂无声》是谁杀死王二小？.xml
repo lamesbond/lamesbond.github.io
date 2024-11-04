@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>103《暴裂无声》是谁杀死王二小？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/103-eq722u</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/brhSooApI4BaGRnZ6stiFg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形（青年编剧；《三块广告牌》等25期嘉宾）：5分；
 “都什么时候还在讲底层被迫害的事儿啊，太陈词滥调，这才真的是‘批判已被认定的批判’！”
@@ -47,6 +48,6 @@
 《中国药神》（2018，尚未上映）
 </description>
   <pubDate>Wed, 11 Apr 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F564b46ad-102a-1b33-6bd2-5d20188acaa8.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:30:17</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F564b46ad-102a-1b33-6bd2-5d20188acaa8.mp3" type="audio/mpeg" />
+  <ns0:duration>1:30:17</ns0:duration>
 </item>

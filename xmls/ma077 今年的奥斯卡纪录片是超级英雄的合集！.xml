@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma077 今年的奥斯卡纪录片是超级英雄的合集！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma077-e1ug5i4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/_ZR7MbyAFtXW0Oq_xbZdrA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 一舒（FIRST影展策展人，《一个明星的诞生》嘉宾）
 熊阿姨（资深社会新闻记者，《三和》嘉宾）
@@ -45,6 +46,6 @@
 导演：罗伯·爱泼斯坦与杰弗里·弗里德曼（爱泼斯坦第3次获得纪录片奖项提名，之前2次提名记录长片部门，0次获奖；弗里德曼首次提名）
 </description>
   <pubDate>Sat, 23 Feb 2019 13:25:54 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F44919c5a-61da-fe9c-38b1-e6b55430e774.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:19:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F44919c5a-61da-fe9c-38b1-e6b55430e774.mp3" type="audio/mpeg" />
+  <ns0:duration>1:19:47</ns0:duration>
 </item>

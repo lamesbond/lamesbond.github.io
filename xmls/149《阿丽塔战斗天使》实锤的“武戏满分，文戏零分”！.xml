@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>149《阿丽塔战斗天使》实锤的“武戏满分，文戏零分”！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/149-eq78c8</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Dvi_XRPE3uFoHP0t06YRHg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 飞鸟（《铳梦》粉丝）：7分；
 “作为原著粉，早知道它不可能呈现什么深邃的内核，所以带着低期待去看，还是可以接受的。”
@@ -53,6 +54,6 @@
 《流浪地球》（2019）
 </description>
   <pubDate>Mon, 25 Feb 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5af5d747-0fd0-7a96-b853-614f1fcdc9b2.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:05:52</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5af5d747-0fd0-7a96-b853-614f1fcdc9b2.mp3" type="audio/mpeg" />
+  <ns0:duration>2:05:52</ns0:duration>
 </item>

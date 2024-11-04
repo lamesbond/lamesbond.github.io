@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma106 当《乱世佳人》成为禁片</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma106-e1ug6t0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/EfEb4vSuL-45Li4xCMih_w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队：
 编辑排版：效愚；封图设计：画电影,可关注B站“画电影”频道。
 事件简述：
@@ -11,6 +12,6 @@
 截至今日，HBO Max仍未重新上架“添加历史说明”字幕版《乱世佳人》。
 </description>
   <pubDate>Wed, 17 Jun 2020 14:07:53 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F83f08793-2415-e2b2-677f-1fa83cb4f08f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:25:52</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F83f08793-2415-e2b2-677f-1fa83cb4f08f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:25:52</ns0:duration>
 </item>

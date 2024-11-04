@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>117《邪不压正》天天用电影谈政治，不也是太监谈做爱？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/117-eq72m4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/6AgNtKw-IFmKnqXNK_Hycg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 张瑞（时光网前任高级编辑；《母亲！》等3期嘉宾）：8.5分；
 “荷尔蒙飞溅！直男必看！完成度极高！在我的序列里好过《子弹》、《一步》，甚至好过《阳灿》！”
@@ -46,6 +47,6 @@
 《记住》（2015）
 </description>
   <pubDate>Mon, 16 Jul 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb6344a9a-fe2d-df1b-88ef-86979323f6c1.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:27:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb6344a9a-fe2d-df1b-88ef-86979323f6c1.mp3" type="audio/mpeg" />
+  <ns0:duration>2:27:00</ns0:duration>
 </item>

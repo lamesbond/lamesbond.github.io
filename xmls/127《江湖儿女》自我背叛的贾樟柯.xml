@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>127《江湖儿女》自我背叛的贾樟柯</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/127-eq72uk</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/iGd97miHADUadB8g63h5Ww</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 靳锦（媒体人；《我不是药神》嘉宾）：7分；
 “我们已经很久没在国产片中看到一个不那么干净的中国，以及一个不那么漂亮的女人。”
@@ -45,6 +46,6 @@
 《时间去哪儿了》（2017）
 </description>
   <pubDate>Mon, 24 Sep 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb4660d24-1e33-450d-e96f-f70f1f12a869.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:45:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb4660d24-1e33-450d-e96f-f70f1f12a869.mp3" type="audio/mpeg" />
+  <ns0:duration>1:45:41</ns0:duration>
 </item>

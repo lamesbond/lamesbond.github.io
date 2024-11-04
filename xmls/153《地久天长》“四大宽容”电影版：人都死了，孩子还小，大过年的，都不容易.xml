@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>153《地久天长》“四大宽容”电影版：人都死了，孩子还小，大过年的，都不容易</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/153-eq78hb</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/V-uXZqsUejiY6YgzqnLENQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解（前凤凰网历史频道主编，《影》等7期嘉宾；公号“刘三解freestyle”）：6分；
 “王小帅作为匠人的工作完成的很出色，在‘复刻时代’方面，影片相当多的细节还原极为精准，这方面它是近年国产片里最好的。”
@@ -48,6 +49,6 @@
 《老师·好》（2019）
 </description>
   <pubDate>Mon, 25 Mar 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F20c315e1-b8bd-a388-8621-6293c0832a0f.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:24:10</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F20c315e1-b8bd-a388-8621-6293c0832a0f.mp3" type="audio/mpeg" />
+  <ns0:duration>2:24:10</ns0:duration>
 </item>

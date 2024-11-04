@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma141 开局的终局·国产片</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma141-e1ug835</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xCWvOk9pr-CL388sFd29wQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>《开局的终局》：第一章、壮丁
 节目流程：
 第一章、壮丁
@@ -21,7 +22,7 @@
 13）20年来“最大空档期”的发生与结束
 14）“名导资源置换”论的瓦解
 15）与苏联“停滞期”的电影业对比
-（请点底部&quot;阅读原文&quot;按钮收听具体内容）
+（请点底部"阅读原文"按钮收听具体内容）
 
 援引资料：
 ①机构改革相关新闻（2018年3月，新华社）：
@@ -82,6 +83,6 @@ https://www.chinafilm.gov.cn/chinafilm/contents/216/894.shtml
 《坚如磐石》（未知）
 </description>
   <pubDate>Mon, 31 Oct 2022 14:48:02 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F0874d78f-f603-d7f8-ba0b-33fc5d5e28e5.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:40:11</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F0874d78f-f603-d7f8-ba0b-33fc5d5e28e5.mp3" type="audio/mpeg" />
+  <ns0:duration>0:40:11</ns0:duration>
 </item>

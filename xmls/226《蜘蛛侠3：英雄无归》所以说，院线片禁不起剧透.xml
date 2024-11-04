@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>226《蜘蛛侠3：英雄无归》所以说，院线片禁不起剧透</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2263-e1g9muv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/lwqvbr1ADcnY3TilBHbAkw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 鲁韵子：7.5分
 制片人，“沙丘专题”等15期嘉宾
@@ -66,6 +67,6 @@
 《黑客帝国4：矩阵重启》（2021）
 </description>
   <pubDate>Fri, 25 Mar 2022 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/49650079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-26%2F699ade7b-323c-b781-a2f6-dc5436f083bc.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:18:11</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/49650079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-26%2F699ade7b-323c-b781-a2f6-dc5436f083bc.mp3" type="audio/mpeg" />
+  <ns0:duration>1:18:11</ns0:duration>
 </item>

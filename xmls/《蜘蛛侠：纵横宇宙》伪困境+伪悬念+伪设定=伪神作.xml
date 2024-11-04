@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>《蜘蛛侠：纵横宇宙》伪困境+伪悬念+伪设定=伪神作</title>
   <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/ep-e25iack</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长：5分
 《犹大与黑弥赛亚》等20期嘉宾，微博@荡科长，B站视频号“荡科长”
@@ -76,6 +77,6 @@
 《复仇者联盟5：康之王朝》（2025）
 </description>
   <pubDate>Sat, 10 Jun 2023 13:01:39 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/71952212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-11%2Fcd569c17-799a-d98e-2cea-627b0553e7e3.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:05:13</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/71952212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-11%2Fcd569c17-799a-d98e-2cea-627b0553e7e3.mp3" type="audio/mpeg" />
+  <ns0:duration>1:05:13</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>166《哪吒之魔童降世》不讲“父要子亡”，就不是哪吒的故事</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/166-eq78ui</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/jOjBbf1E72FbUZLeAkpvig</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利：6分（凤凰电影”前编辑；《何以为家》等35期嘉宾）
 原著的“父要子亡”竟然被改成“父爱如山”，这主题可以给中国五千年来的任何孩子，唯独不能放到哪吒身上。对“子道”的反叛在这个土壤下本来就极为稀缺，这次从哪吒的故事里也消失了……
@@ -53,6 +54,6 @@
 《姜子牙》（2020）
 </description>
   <pubDate>Mon, 29 Jul 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc0f0fe76-ba56-15e7-d88a-db1572ca84c7.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:29:44</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc0f0fe76-ba56-15e7-d88a-db1572ca84c7.mp3" type="audio/mpeg" />
+  <ns0:duration>1:29:44</ns0:duration>
 </item>

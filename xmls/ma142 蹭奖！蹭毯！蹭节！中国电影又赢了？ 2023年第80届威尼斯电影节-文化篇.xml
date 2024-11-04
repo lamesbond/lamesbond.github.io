@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma142 蹭奖！蹭毯！蹭节！中国电影又赢了？ 2023年第80届威尼斯电影节-文化篇</title>
-  <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/ma142-202380--e29sips</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/QF24Stm2hFeViTzVn1G5lw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>事件简述：
 当地时间9月9日，第80届“威尼斯双年展国际电影艺术展”(Mostra Internazionale d'Arte Cinematografica della Biennale di Venezia)正式闭幕，希腊男导演欧格斯·兰斯莫斯(Yorgos Lanthimos)执导的英语片《可怜的东西》(Poor Things)拿下金狮奖；滨口龙介凭《邪恶不存在》(悪は存在しない)获评审团大奖，彼得·萨斯加德(Peter Sarsgaard)与卡莉·史派妮(Cailee Spaeny)凭《记忆》(Memory)与《普瑞希拉》(Priscilla)分获帝后。
 以下是本届影展的其它“文化事件”（详情见音频）：
@@ -17,6 +18,6 @@
 同时本届影展也有多部乌克兰电影进入各类单元，包括了入围“地平线拓展”单元的《永远-永远》(Назавжди-Назавжди)、入围“经典修复”单元的《被遗忘的祖先的阴影》(Тіні забутих предків)、入围“威尼斯日”单元的《恐光症》(Photophobia)和入围“VR非竞赛展映”单元的First Day。
 </description>
   <pubDate>Mon, 11 Sep 2023 01:34:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76482812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2F5b99f209-5b69-818a-ccb4-aeba91b1aaf2.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:27:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76482812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2F5b99f209-5b69-818a-ccb4-aeba91b1aaf2.mp3" type="audio/mpeg" />
+  <ns0:duration>0:27:47</ns0:duration>
 </item>

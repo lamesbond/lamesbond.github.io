@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>177《决战中途岛》6分钟俯冲+132分钟百度百科</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1776132-eq79gd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/hyDBVa-CO5jFawxf1q8_vw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解:5.5分《无主之作》等9期嘉宾,公号“刘三解freestyle”
 这片和我小时候在县城里看的那些地摊书籍一模一样，先设置俩下大棋的将军，然后展开中层和基层叙事，看似什么都拍了，仔细一想，要人物没人物，要故事没故事。这么大一制作，这么大一导演，最大成果就拍了个俯冲。
@@ -45,6 +46,6 @@
 《敦刻尔克》（2017）
 </description>
   <pubDate>Mon, 11 Nov 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F35025b8d-4274-5e9f-71bc-76ec10201996.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:33:33</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F35025b8d-4274-5e9f-71bc-76ec10201996.mp3" type="audio/mpeg" />
+  <ns0:duration>1:33:33</ns0:duration>
 </item>

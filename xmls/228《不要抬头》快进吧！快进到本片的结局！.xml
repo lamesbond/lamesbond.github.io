@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>228《不要抬头》快进吧！快进到本片的结局！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/228-e1hj309</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/LQ3gHNv69gT8MnrWBBO0tw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 杨超：7分
 《长江图》导演，“黑客帝国专题”等18期嘉宾
@@ -13,7 +14,7 @@
 页首音频包含内容有（无剧透）：
 1）影片信息介绍；
 2）主播为影片打分并阐述理由；
-&quot;准备好，七个月后见父母&quot;-优点
+"准备好，七个月后见父母"-优点
 以上优点环节涉及如下话题（含剧透）：
 1）电影切中了哪些现实议题？
 2）丰富人物群像是如何建立的？
@@ -25,7 +26,7 @@
 8）“等反转”不分左右东西？
 9）为什么说本片是赫胥黎式软科幻？
 10）不同媒介素材呈现出不同质感？
-&quot;美国王晶&quot;蜕变为&quot;当世吕美特&quot;？
+"美国王晶"蜕变为"当世吕美特"？
 以上缺点环节涉及如下话题（含剧透）：
 1）批判目的压倒了喜剧类型？
 2）主创不应口述影片主题？
@@ -62,6 +63,6 @@
 《健听女孩》（2021）
 </description>
   <pubDate>Wed, 20 Apr 2022 23:31:45 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/51005897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-24%2F079a8e0c-d6fb-b336-e98c-0aa801b3c4fe.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:19:41</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/51005897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-24%2F079a8e0c-d6fb-b336-e98c-0aa801b3c4fe.mp3" type="audio/mpeg" />
+  <ns0:duration>1:19:41</ns0:duration>
 </item>

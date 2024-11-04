@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>147《黑色党徒》外延，导演斯派克·李前作简述</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/147-eq789s</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/HZyUUUumpNFfcIanrGo6WA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 荡科长（资深媒体人；《摘金奇缘》等11期嘉宾）：
 “如果说斯科塞斯是电影导演里的社会学家，那斯派克·李就是社会学家里的电影导演，他拍纽约甚至比老马更胜一筹。”
@@ -35,6 +36,6 @@ K先生（青年编剧；《登月第一人》等6期嘉宾）：
 《金钱世界》（2017）
 </description>
   <pubDate>Wed, 13 Feb 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fbe276d55-733e-2435-e7cc-19c7721d5ec0.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:23:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26500860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fbe276d55-733e-2435-e7cc-19c7721d5ec0.mp3" type="audio/mpeg" />
+  <ns0:duration>1:23:40</ns0:duration>
 </item>

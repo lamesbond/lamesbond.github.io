@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>新片杂谈005：23年9月威尼斯综述 一半过誉，一半烂片</title>
   <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/005239-e2bo8oc</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>海老鼠（旅行家，《神奇女侠1984》等19期嘉宾，小红书seamouse）
 
 节目流程：（除《伯爵》外，其它环节仅轻微剧透）
@@ -137,6 +138,6 @@
 结束曲：Happy End(Tom Zé)；
 </description>
   <pubDate>Tue, 07 Nov 2023 08:45:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/78438604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F836cb9b9-6fa7-5bb1-cf10-d5fc937fac6e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:07:12</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/78438604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F836cb9b9-6fa7-5bb1-cf10-d5fc937fac6e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:07:12</ns0:duration>
 </item>

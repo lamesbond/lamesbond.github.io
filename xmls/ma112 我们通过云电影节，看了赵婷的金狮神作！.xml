@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma112 我们通过云电影节，看了赵婷的金狮神作！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma112-e1ug71b</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Awb23em5E9KcF67xlRx0jA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播/后期：思源/波米；编辑排版：效愚；
 事件简述：
 2020年纽约电影节自9月25日起拉开帷幕，组织者为在确保嘉宾健康和保持传统之间取得平衡，采取了线上和线下结合的举办方式，除原有的“主展映”、“对谈”单元外，本届纽约电影节新增“浪潮”、“聚光灯”、“修复”三大单元。华语片部分，贾樟柯执导的最新纪录片《一直游到海水变蓝》、宋方导演《平静》、蔡明亮导演《日子》分别入围主展映单元，此外位列展映单元的还有赵婷斩获威尼斯金狮之作《无依之地》以及史蒂夫·麦奎因新作《情人的摇滚》。
@@ -15,6 +16,6 @@
 开场/结束曲：Fangcang Hospital is F**king Awesome(J C Jaycee)
 </description>
   <pubDate>Thu, 08 Oct 2020 14:12:27 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F41247a32-be8c-e9d8-7178-a8cad684bed8.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:31:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F41247a32-be8c-e9d8-7178-a8cad684bed8.mp3" type="audio/mpeg" />
+  <ns0:duration>0:31:25</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>224《黑客帝国4》你的自杀式创作，凭什么要我们买单</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2244-e1fjrur</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/1C7ENu53hiSk4iS34Z8djQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 田野：6分
 编剧，“沙丘专题”等16期嘉宾
@@ -67,6 +68,6 @@ DC迷天天吐槽华纳是一生之敌，你见哪个DC电影真这么拍出来�
 《蜘蛛侠3：英雄无归》（2021）
 </description>
   <pubDate>Sun, 23 Jan 2022 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/48934299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-12%2F6bc6b5af-242f-b351-f23e-553f928016b8.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:12:33</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/48934299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-12%2F6bc6b5af-242f-b351-f23e-553f928016b8.mp3" type="audio/mpeg" />
+  <ns0:duration>1:12:33</ns0:duration>
 </item>

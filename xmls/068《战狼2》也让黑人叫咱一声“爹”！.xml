@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>068《战狼2》也让黑人叫咱一声“爹”！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/0682-eq6vr5</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/sv6Cvysd2kAaHZAPW9i-ow</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形 （编剧，《绣春刀2》等16期嘉宾）：5.5分；
 因原打算仅以“耳旁风”形式推送本片评论，故最后附上其他主播打分与简评：
@@ -52,6 +53,6 @@
 《中国推销员》（2017）
 </description>
   <pubDate>Mon, 31 Jul 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F854ee6e9-0491-6c85-9317-3252bd39deea.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:36:38</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F854ee6e9-0491-6c85-9317-3252bd39deea.mp3" type="audio/mpeg" />
+  <ns0:duration>1:36:38</ns0:duration>
 </item>

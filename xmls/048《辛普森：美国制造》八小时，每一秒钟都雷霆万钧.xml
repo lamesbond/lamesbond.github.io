@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>048《辛普森：美国制造》八小时，每一秒钟都雷霆万钧</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/048-eq6uuo</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/LeeEazfxYd8ird0oTQ8D7A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长（资深媒体人，大学主修法学，个人微博“荡科长”；前知名视频网站主编）：8分；
 “学法律的人从来都认为‘辛普森案’代表程序正义的胜利，但看完这片让我觉得学校的书都白念了。”——荡科长
@@ -44,6 +45,6 @@
 《藩篱》（2016）
 </description>
   <pubDate>Mon, 13 Mar 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6fe58c09-e102-d594-8ebc-7b7fdfe96c82.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:55:12</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6fe58c09-e102-d594-8ebc-7b7fdfe96c82.mp3" type="audio/mpeg" />
+  <ns0:duration>1:55:12</ns0:duration>
 </item>

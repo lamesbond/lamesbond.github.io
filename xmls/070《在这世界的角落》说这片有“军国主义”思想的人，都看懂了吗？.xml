@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>070《在这世界的角落》说这片有“军国主义”思想的人，都看懂了吗？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/070-eq6vse</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/BU4NF1iKe5WB7kamdymFgA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 阳磊（艺人宣传，《攻壳机动队》等4期嘉宾）：7分；
 “国家败了她愤怒，美军来了她指路。这片子描写的就是‘屁民’的人生和命运，谈不上美化，因为这是史实。”
@@ -50,6 +51,6 @@
 《侠隐》（2018）
 </description>
   <pubDate>Tue, 15 Aug 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F46cf44b0-f3a1-177e-3c5e-291416a5925e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:10</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F46cf44b0-f3a1-177e-3c5e-291416a5925e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:10</ns0:duration>
 </item>

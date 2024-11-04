@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>007 第69届戛纳电影节专题</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/007-69-eq6r2a</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/VWRB17mDzwGRM61nmR1e1w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>戛纳电影节
 本期节目重点提及的电影片单：
 罗宏镇：《哭声》2016、《黄海》2010、《追击者》2008；
@@ -23,6 +24,6 @@
 沙恩·布莱克：《钢铁侠3》2013；
 </description>
   <pubDate>Sat, 28 May 2016 05:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8e52ba54-e3cb-68d7-41a4-3b0e1fae546d.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:24:55</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8e52ba54-e3cb-68d7-41a4-3b0e1fae546d.mp3" type="audio/mpeg" />
+  <ns0:duration>1:24:55</ns0:duration>
 </item>

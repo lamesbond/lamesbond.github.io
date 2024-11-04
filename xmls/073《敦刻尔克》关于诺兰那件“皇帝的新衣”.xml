@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>073《敦刻尔克》关于诺兰那件“皇帝的新衣”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/073-eq6vv0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/mk_-G27yEdnq-U_4bqizog</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 张瑞（时光网前任高级编辑；《血战钢锯岭》嘉宾）：6.5分；
 “这是一部充斥着诺兰既定套路的大型实景演出，宛若‘印象·敦刻尔克’。”
@@ -57,6 +58,6 @@
 《血战钢锯岭》（2016）
 </description>
   <pubDate>Sun, 03 Sep 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fecb26454-ea53-e79c-9456-0f3fc2cbff1c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:55:01</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fecb26454-ea53-e79c-9456-0f3fc2cbff1c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:55:01</ns0:duration>
 </item>

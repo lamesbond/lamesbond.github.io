@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>095《水形物语》纯爱之下，是导演颠覆“上帝人形论”的磅礴野心！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/095-eq71sd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/W9jI8ggNKOuyQs_NnDtj8Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 思源（曾撰写《德托罗展》一文）：7分；
 “这片可不算怪兽电影，希望以后大家能分清‘有怪兽出现的电影’和‘怪兽电影’的区别。”
@@ -56,6 +57,6 @@
 《神奇旅程》（托罗翻拍版，2020）
 </description>
   <pubDate>Mon, 12 Feb 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F105a27e6-1cd0-e682-7737-803538ca6a79.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:49:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F105a27e6-1cd0-e682-7737-803538ca6a79.mp3" type="audio/mpeg" />
+  <ns0:duration>1:49:59</ns0:duration>
 </item>

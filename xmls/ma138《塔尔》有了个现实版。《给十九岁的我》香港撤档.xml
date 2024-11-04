@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma138《塔尔》有了个现实版。《给十九岁的我》香港撤档</title>
-  <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/ma138-e29skql</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/WWLmpoa6hxE4_5IOaqcaBQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>事件简述
 
 2月初，由张婉婷执导的香港纪录片《给十九岁的我》因为违背被拍摄者意愿，在港上映仅4天后停映。该片由香港名校“英华女校”出品，主观呈现了该校6名中学生2011年以来的成长过程。
@@ -34,6 +35,6 @@ https://www.mpweekly.com/culture/%e8%97%9d%e6%96%87/%e3%80%90%e3%80%8a%e7%b5%a6%
 https://www.youtube.com/watch?v=WO5EzJAAByk
 </description>
   <pubDate>Fri, 10 Mar 2023 02:31:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76484885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Faf7f5c9b-2738-8f76-0d1c-1a6c58a35da0.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:37:43</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/76484885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Faf7f5c9b-2738-8f76-0d1c-1a6c58a35da0.mp3" type="audio/mpeg" />
+  <ns0:duration>0:37:43</ns0:duration>
 </item>

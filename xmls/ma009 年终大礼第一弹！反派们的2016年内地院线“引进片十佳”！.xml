@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma009 年终大礼第一弹！反派们的2016年内地院线“引进片十佳”！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma009-2016-e1ufs4o</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/evwwU2x0Wwg4qolxXWLMgA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 田野（“凤凰电影”前主编，资深电影人；《罗曼蒂克》等3期嘉宾）
 法兰西胶片（“凤凰电影”前主编，《看电影》杂志前编辑；《你的名字。》嘉宾）
@@ -144,6 +145,6 @@ Yanglei（《你的名字。》等2期嘉宾，电影策划）：
 10、《海洋之歌》（爱尔兰）110票（2%）
 </description>
   <pubDate>Wed, 28 Dec 2016 09:26:55 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff2f8304d-7051-3941-718e-34f6c31ea120.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:20:07</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff2f8304d-7051-3941-718e-34f6c31ea120.mp3" type="audio/mpeg" />
+  <ns0:duration>1:20:07</ns0:duration>
 </item>

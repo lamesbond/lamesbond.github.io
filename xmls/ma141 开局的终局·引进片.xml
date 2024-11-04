@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma141 开局的终局·引进片</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma141-e1ug84a</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xCWvOk9pr-CL388sFd29wQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>《开局的终局》：第二章、哑谜
 节目摘要：
 第二章、哑谜
@@ -83,6 +84,6 @@ https://www.guancha.cn/indexnews/2012_05_06_72590.shtml
 《阿凡达2：水之道》（2022）
 </description>
   <pubDate>Tue, 15 Nov 2022 14:48:47 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa76173cf-4d46-d391-49be-4fc740b248b9.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:49:26</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa76173cf-4d46-d391-49be-4fc740b248b9.mp3" type="audio/mpeg" />
+  <ns0:duration>0:49:26</ns0:duration>
 </item>

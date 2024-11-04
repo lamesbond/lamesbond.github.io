@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma004 对于观众这事比王宝强重要太多！蔡明亮死磕盗版网站背后的利益链条……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma004-e1ufrbc</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/AqGs7QL2VeXmaYLwddT0Lw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主播：
 荡科长（知名视频网站主编，前《看电影》杂志副主编）
 时代映画社（江湖人称“社长”，电影公众号“奇遇电影”负责人）
@@ -26,6 +27,6 @@
 《路边野餐》（2015）
 </description>
   <pubDate>Fri, 19 Aug 2016 08:51:10 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64531244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff1ef40fa-1ec1-4cab-1eda-29c5a56ab9f0.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64531244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff1ef40fa-1ec1-4cab-1eda-29c5a56ab9f0.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

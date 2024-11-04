@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>075《猩球崛起3：终极之战》这片和《金刚狼3》共用一个剧本？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/07533-eq7008</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/vLsCynkdHiVV1MgaGJmIzw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形 （编剧，《战狼2》等17期嘉宾）：6分；
 “本片的凯撒变得莫名其妙，好像秉承了一种‘犯我族群者，虽远必诛’的价值观。”
@@ -46,6 +47,6 @@
 《猩球崛起1-2》（2011-2014）
 </description>
   <pubDate>Sun, 17 Sep 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffb9073f1-c1e9-50d7-27bc-2f202c0f2ea7.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:45:22</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ffb9073f1-c1e9-50d7-27bc-2f202c0f2ea7.mp3" type="audio/mpeg" />
+  <ns0:duration>1:45:22</ns0:duration>
 </item>

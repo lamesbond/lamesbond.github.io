@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma117 这才是：如坐针毡，如芒刺背，如鲠在喉</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma117-e1ug76o</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/G-4jevZHu1yNAEKRgXLcBQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 法兰西胶片（《金都》等25期嘉宾，公号“第一导演”）
 后期/控场：波米；编辑排版：效愚；封图设计：画电影，可关注B站“画电影”频道；
@@ -16,6 +17,6 @@
 结束曲：《时间煮雨》（郁可唯）；
 </description>
   <pubDate>Tue, 05 Jan 2021 14:18:16 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F202e11ba-eb67-cc9b-9b13-7745de6b0e87.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:16:32</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F202e11ba-eb67-cc9b-9b13-7745de6b0e87.mp3" type="audio/mpeg" />
+  <ns0:duration>1:16:32</ns0:duration>
 </item>

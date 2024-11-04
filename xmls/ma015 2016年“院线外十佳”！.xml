@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma015 2016年“院线外十佳”！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma015-2016-e1ufsm5</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/aS8DbFXx4O-Q1JOZNkKv1Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 蜉蝣（《比利林恩》嘉宾，个人公众号“不散”）
 海老鼠（《魔弦传说》等4期嘉宾，个人公众号“Seamouse”）
@@ -54,6 +55,6 @@
 （因“院线外电影”范围太过宽泛，本期未组织其他往期嘉宾进行相关十佳片的评选）
 </description>
   <pubDate>Fri, 20 Jan 2017 09:40:46 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F21e3db3d-bcb5-8876-62fe-854b43797a30.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:16:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64532613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F21e3db3d-bcb5-8876-62fe-854b43797a30.mp3" type="audio/mpeg" />
+  <ns0:duration>1:16:40</ns0:duration>
 </item>

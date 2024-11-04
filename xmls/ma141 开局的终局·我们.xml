@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma141 开局的终局·我们</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma141-e1ug855</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xCWvOk9pr-CL388sFd29wQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>《开局的终局》：第三章、伥鬼
 节目摘要：
 第三章、伥鬼
@@ -54,7 +55,7 @@ https://mp.weixin.qq.com/s/GYyjEpBwF1WgBx4dpFu8nA
 
 结束曲：Nearer My God to Thee(Eliza FlowerSarah Flower AdamsJames Horner);
 封面：“画电影”根据影片《泰坦尼克号》（Titanic）制作（可关注B站“画电影”频道）；
-本期节目感谢“胤祥”、“效愚”、“思源”、“院线电影资料库”、&quot;kuroro&quot;与“喃喃”；
+本期节目感谢“胤祥”、“效愚”、“思源”、“院线电影资料库”、"kuroro"与“喃喃”；
 一个月以来，感谢嘉宾“弦子”、“翠萍”与关雅荻的帮助。
 专题名取自陈冠中小说，本专题已完结。
 本期片目
@@ -81,6 +82,6 @@ https://mp.weixin.qq.com/s/GYyjEpBwF1WgBx4dpFu8nA
 《独自·上场》（未知）
 </description>
   <pubDate>Thu, 17 Nov 2022 14:49:24 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fe58d6a35-3d15-7057-2161-09360c489ccf.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:38:34</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fe58d6a35-3d15-7057-2161-09360c489ccf.mp3" type="audio/mpeg" />
+  <ns0:duration>0:38:34</ns0:duration>
 </item>

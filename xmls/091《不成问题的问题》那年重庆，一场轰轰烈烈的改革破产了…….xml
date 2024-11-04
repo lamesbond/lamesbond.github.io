@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>091《不成问题的问题》那年重庆，一场轰轰烈烈的改革破产了……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/091-eq71p9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/tcHXza15CIOGT9MsJZySRQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 陈旦兮（著名艺人经纪；《驴得水》嘉宾）：7分；
 “影片比想象的有趣，但它并没给出一个明确的价值观：到底谁对谁错？看过后，会产生一种‘与我无关’的感觉。”
@@ -47,6 +48,6 @@
 《驴得水》（2016）
 </description>
   <pubDate>Sun, 07 Jan 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5696b0cd-5d43-7672-bb04-7ccbd939c4d5.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5696b0cd-5d43-7672-bb04-7ccbd939c4d5.mp3" type="audio/mpeg" />
+  <ns0:duration>1:30:00</ns0:duration>
 </item>

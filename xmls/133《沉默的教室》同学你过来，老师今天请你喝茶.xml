@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>133《沉默的教室》同学你过来，老师今天请你喝茶</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/133-eq7355</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/xiVO-Tdp9i7ldChkKrdSAw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 鲁韵子（资深媒体人）：7分；
 “这是一部平庸的好片：导演成功的把一个社会装进了一间教室，但过于黑化的反派和过于狗血的情节，让电影的上限非常明显。”
@@ -56,6 +57,6 @@
 《我不是药神》（2018）
 </description>
   <pubDate>Mon, 05 Nov 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc821836f-7d79-bfbd-c7c8-c22e2cf54618.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:30:04</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc821836f-7d79-bfbd-c7c8-c22e2cf54618.mp3" type="audio/mpeg" />
+  <ns0:duration>2:30:04</ns0:duration>
 </item>

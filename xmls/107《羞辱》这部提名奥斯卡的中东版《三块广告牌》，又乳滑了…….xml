@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>107《羞辱》这部提名奥斯卡的中东版《三块广告牌》，又乳滑了……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/107-eq726m</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Qdy-t3p2BVvciBdk0wKF2Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解（前凤凰网历史频道主编，《芳华》等4期嘉宾；公号“刘三解freestyle”）：8分；
 “这部电影也有主旋律色彩，虽然是刀尖上跳舞，但在表达方式上也和《归来》没什么两样。”
@@ -39,6 +40,6 @@
 《三块广告牌》（2017）
 </description>
   <pubDate>Sun, 06 May 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F2d721532-47f4-12b5-8b7b-48843451d6ab.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:48:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F2d721532-47f4-12b5-8b7b-48843451d6ab.mp3" type="audio/mpeg" />
+  <ns0:duration>1:48:57</ns0:duration>
 </item>

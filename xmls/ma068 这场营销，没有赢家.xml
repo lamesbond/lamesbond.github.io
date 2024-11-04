@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma068 这场营销，没有赢家</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma068-e1ug4ut</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/WiYves3Yjpg8MqnX4gNb3g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 隐形（青年编剧；《网络谜踪》等29期嘉宾）
 “有些观众觉得被骗？那是他们傻X！这帮人要真那么重视跨年，那他干嘛不花几分钟好好搜一下《地球》到底是部什么电影？”
@@ -25,6 +26,6 @@
 结束曲：Making A Murderer)(Gustavo Santaolalla)
 </description>
   <pubDate>Sat, 05 Jan 2019 13:08:46 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff5419d92-63cd-c676-bdb5-ebf36833fef4.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff5419d92-63cd-c676-bdb5-ebf36833fef4.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:59</ns0:duration>
 </item>

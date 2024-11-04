@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>102《头号玩家》嘿，高玩！看这里！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/102-eq721s</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/-GAItBvmGXPtgBjDlrPsug</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片（资深媒体人；《灾难艺术家》等10期嘉宾；微博豆瓣“法兰西胶片”）：9分；
 “我是把这片当Cult片看的，高达一出来我瞬间燃了！作为评论，这可能是一种强词夺理的夸赞，但这就是我的童年啊。”
@@ -59,6 +60,6 @@
 《马戏之王》（2017）
 </description>
   <pubDate>Mon, 02 Apr 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc9db2755-a602-40a3-e0ae-3c1235205e9c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:47:28</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc9db2755-a602-40a3-e0ae-3c1235205e9c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:47:28</ns0:duration>
 </item>

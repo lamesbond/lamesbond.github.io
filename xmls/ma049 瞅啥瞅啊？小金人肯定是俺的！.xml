@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma049 瞅啥瞅啊？小金人肯定是俺的！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma049-e1ug21v</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ZY7ovPM1KcQ14xjvMNGPcA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 秦婉（“凤凰电影”资深记者，《嘉年华》等5期嘉宾；公众号“小婉电影酱”）
 柏小莲（资深媒体人，《嘉年华》等4期嘉宾；公众号“柏小莲”）
@@ -26,6 +27,6 @@
 《罗曼先生，你好》丹泽尔·华盛顿(Denzel Washington)：第9次提名表演奖，之前8提2中；1990年凭《光荣》获男配角奖，2002年凭《训练日》首夺影帝。
 </description>
   <pubDate>Sat, 03 Mar 2018 12:34:37 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb4b0cd82-7925-08ce-eaa9-a56e446fe805.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:58:18</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb4b0cd82-7925-08ce-eaa9-a56e446fe805.mp3" type="audio/mpeg" />
+  <ns0:duration>0:58:18</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma095 八佰一秒钟她杀手机2爵迹2没有别的爱刀背藏身兰心大剧院中邪</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma095-22-e1ug6h6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/9Bf0AiiGj17RqJ0xPdrG4g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 柏小莲（《双子杀手》等8期嘉宾）
 萝贝贝（《婚姻故事》等3期嘉宾；公号“萝严肃”创始人）
@@ -66,6 +67,6 @@
 《晴雅集》（郭敬明导演/赵又廷/春夏）
 </description>
   <pubDate>Sat, 18 Jan 2020 13:53:38 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F22428909-6d61-2877-731a-c51c0770608a.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:23:14</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F22428909-6d61-2877-731a-c51c0770608a.mp3" type="audio/mpeg" />
+  <ns0:duration>0:23:14</ns0:duration>
 </item>

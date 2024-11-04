@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>069《玉子》韩国撒欢、美国受虐—这口猪就是奉俊昊化身？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/069-eq6vrn</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/7bIBGA-Qb7cYZE5RgxCq_A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 小猱 （腾讯资深记者，《比海更深》嘉宾）：8分；
 “展现青年人救猪那段首尔追逐拍的太精彩，虽有明显嘲讽，但奉俊昊从未俯视他们。”
@@ -54,6 +55,6 @@ Joshua: Teenager vs. Superpower（2017）
 《猩球崛起3：终极之战》（2017）
 </description>
   <pubDate>Mon, 07 Aug 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6c9a41d8-a397-775d-c7b5-76080674526e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:50:38</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6c9a41d8-a397-775d-c7b5-76080674526e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:50:38</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>098《三块广告牌》《水形物语》迎合的，正是本片挑衅的——也包括墨西哥人！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/098-eq71uj</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/GbIsSUTnfBaPq7dMKKDPIg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 玉年（“迷影手帐”设计者资深媒体人；公众号“柚子年华”）：7.5分；
 “这部戏最后的‘真假凶手’段落其实有些牵强，无论凶手抓到与否，都是套路设定。”
@@ -52,6 +53,6 @@
 《华盛顿邮报》（2017）
 </description>
   <pubDate>Mon, 05 Mar 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F32498c32-21f5-e671-fc7c-11ecb3a41930.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:14:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F32498c32-21f5-e671-fc7c-11ecb3a41930.mp3" type="audio/mpeg" />
+  <ns0:duration>2:14:54</ns0:duration>
 </item>

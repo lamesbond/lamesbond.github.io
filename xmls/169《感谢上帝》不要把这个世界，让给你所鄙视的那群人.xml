@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>169《感谢上帝》不要把这个世界，让给你所鄙视的那群人</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/169-eq7928</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Brg54spEDYSTjVfiQTtJJw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超：6.5分（《长江图》导演；《野梨树》等10期嘉宾）
 都说上帝的归上帝，凯撒的归凯撒，那神父性侵归谁管？这片再次印证了那个规律：任何信仰一旦体制化之后，它就一定会形成一个只求自保的利益群体。
@@ -45,6 +46,6 @@
 《我讨厌耶稣》（小小小耶稣，2018）
 </description>
   <pubDate>Mon, 26 Aug 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F483c816a-cc13-4c63-1bcb-30f4ce84a9ae.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:11</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F483c816a-cc13-4c63-1bcb-30f4ce84a9ae.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:11</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma047 今天，无论你要逃离还是要忠守，这些电影都会对你有所帮助！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma047-e1ug1uk</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/z4Ag6tVqEGF6cqmyrs9FsQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 海老鼠（环球旅行家，《王牌特工2》等12期嘉宾；公众号“seamouse”）
 雷普利（凤凰电影前编辑，《请以你的名字呼唤我》等24期嘉宾）
@@ -42,6 +43,6 @@
 北美分级：从缺
 </description>
   <pubDate>Tue, 27 Feb 2018 12:31:18 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa4027ae0-ff7e-2b75-5582-e625d4978639.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:54:37</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fa4027ae0-ff7e-2b75-5582-e625d4978639.mp3" type="audio/mpeg" />
+  <ns0:duration>0:54:37</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>211《米纳里》它还有1%可能拿下奥斯卡最佳影片？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2111-e10tncv</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Z1tvukm7sWNFTBDduJSROQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 荡科长:7分
 “奥斯卡十年”等19期嘉宾
@@ -46,6 +47,6 @@
 《犹大与黑弥赛亚》（2021）
 </description>
   <pubDate>Tue, 20 Apr 2021 07:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/33528671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-15%2Fd557cc30-aa7e-c674-c3c4-e31a8a35cc5c.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:45:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/33528671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-15%2Fd557cc30-aa7e-c674-c3c4-e31a8a35cc5c.mp3" type="audio/mpeg" />
+  <ns0:duration>0:45:47</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>168《寄生虫》我命由天不由我</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/168-eq791b</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/O5Nd2rqhvQea6vVyS4O0Fg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形:7分（青年编剧；《我们》等32期嘉宾）
 都说这片讲贫富差距，但片中的富人从没对穷人有过任何故意的伤害，导演也绝不煽动观众对富人产生厌恶，却还能把故事带到那个注定的结局，这才是高明之处。
@@ -45,6 +46,6 @@
 《小偷家族》（2018）
 </description>
   <pubDate>Mon, 12 Aug 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fba996cd3-5b60-cde1-14d9-6492eb62b750.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:04:02</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fba996cd3-5b60-cde1-14d9-6492eb62b750.mp3" type="audio/mpeg" />
+  <ns0:duration>2:04:02</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>179《别告诉她》猎奇中国？别自作多情了</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/179-eq79jd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/d_me8Nx26ESCpLkAkzmosw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 一舒:8分，FIRST影展策展人，《一个明星的诞生》嘉宾
 太难得了，国内青年导演有很多也是这样拍家庭，但为什么总是那么苦？没有一个像王子逸这样，以一个极为轻盈的、愉快的方式去展现一个很普世的故事。你看着简单吧——但就这么简单的东西，国内没有。
@@ -59,6 +60,6 @@
 《永恒族》（2020）
 </description>
   <pubDate>Tue, 26 Nov 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5696607e-0185-61c3-71fb-e34692809b1e.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:08:02</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5696607e-0185-61c3-71fb-e34692809b1e.mp3" type="audio/mpeg" />
+  <ns0:duration>2:08:02</ns0:duration>
 </item>

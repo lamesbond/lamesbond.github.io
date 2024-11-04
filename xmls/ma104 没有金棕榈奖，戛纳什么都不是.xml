@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma104 没有金棕榈奖，戛纳什么都不是</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma104-e1ug6ro</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/wP10YA7pcGoWcoVDll3ApA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 秦婉（《风中有朵雨做的云》等10期嘉宾，公号“Ifeng电影”）
 靳锦（《好莱坞往事》等11期嘉宾）
@@ -75,6 +76,6 @@
 《心灵奇旅》（彼得·道格特，美国）
 </description>
   <pubDate>Fri, 05 Jun 2020 14:06:29 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F09f8aaaa-74c5-7a7a-c039-c976ab9628b5.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:22:45</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F09f8aaaa-74c5-7a7a-c039-c976ab9628b5.mp3" type="audio/mpeg" />
+  <ns0:duration>0:22:45</ns0:duration>
 </item>

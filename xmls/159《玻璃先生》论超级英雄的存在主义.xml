@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>159《玻璃先生》论超级英雄的存在主义</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/159-eq78o7</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/3KOa19xMVXd58KyD8erxbg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片：5.5分（资深媒体人；《骡子》等15期嘉宾）
 这片最让我兴奋的就是对超级英雄片的颠覆和解构，尤其反派洗脑三个主角的段落，其实也在挑战十几年来观众对超级英雄电影的认知——也许我们真的是天天在看一堆大傻子在银幕里乱晃呢？但我完全没有被这部电影说服。
@@ -42,6 +43,6 @@
 《复仇者联盟4：终局之战》（2019）
 </description>
   <pubDate>Mon, 13 May 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd1910add-c117-49b3-06b6-8da3ae44ca3a.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:46:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fd1910add-c117-49b3-06b6-8da3ae44ca3a.mp3" type="audio/mpeg" />
+  <ns0:duration>0:46:40</ns0:duration>
 </item>

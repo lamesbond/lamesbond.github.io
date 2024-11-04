@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>156《无主之作》点进来，这是一期实锤的“无主之作”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/156-eq78lj</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/QYEpMJTE46jECm_FPhdyfg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 刘三解（前凤凰网历史频道主编，《地久天长》等8期嘉宾；公号“刘三解freestyle）：7分
 “这片和《地久天长》没啥可比性，反倒片子里的‘绝育思维’和《流浪地球》原著的思想如出一辙，纳粹和刘慈欣都是秉持‘社会达尔文主义’的价值观，是绝对法西斯的。”
@@ -47,6 +48,6 @@
 《地久天长》（2019）
 </description>
   <pubDate>Mon, 22 Apr 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4f71f10f-b46a-8d88-0a27-53c8a7c3a245.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:39:23</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4f71f10f-b46a-8d88-0a27-53c8a7c3a245.mp3" type="audio/mpeg" />
+  <ns0:duration>1:39:23</ns0:duration>
 </item>

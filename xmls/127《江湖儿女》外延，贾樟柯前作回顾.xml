@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>127《江湖儿女》外延，贾樟柯前作回顾</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/127-eq72v9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/iGd97miHADUadB8g63h5Ww</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 靳锦（媒体人；《我不是药神》嘉宾）
 秦婉（“凤凰电影”资深记者；《快把我哥带走》等7期嘉宾；公众号“小婉电影酱”）
@@ -31,6 +32,6 @@
 《在清朝》（未上映，2020）
 </description>
   <pubDate>Wed, 26 Sep 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb3de9a6f-4a96-db44-d980-f022eeda7ea4.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:15:01</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb3de9a6f-4a96-db44-d980-f022eeda7ea4.mp3" type="audio/mpeg" />
+  <ns0:duration>1:15:01</ns0:duration>
 </item>

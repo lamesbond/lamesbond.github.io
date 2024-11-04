@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma126 潮水退去了，发现所有人都光着屁股</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma126-e1ug7id</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/rYJFCzgY6kJqGeBfeEo9nw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“中国电影需要‘伊斯坦布尔奇迹’”
 事件简述：
 2021年上半年内地电影市场总票房为275.7亿元，较2019年同比缩水37.6亿元（2020年上半年影院停工，无可比性）。观影人次方面，上半年总观影人次为6.82亿，同比2019年同比减少1.28亿（下降15.77%）。
@@ -22,6 +23,6 @@
 （以上所有票房数据均包含“服务费”）
 </description>
   <pubDate>Sun, 18 Jul 2021 14:29:43 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb9f36220-362f-1cfb-2ae3-ffbc5df82a1c.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:23:11</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fb9f36220-362f-1cfb-2ae3-ffbc5df82a1c.mp3" type="audio/mpeg" />
+  <ns0:duration>0:23:11</ns0:duration>
 </item>

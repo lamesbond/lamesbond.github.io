@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma029 奉俊昊新片戛纳遭遇抵制？70岁戛纳怒怼网大再掀渠道之争！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma029-70-e1ug0c4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/SDhl5s-arN6sA7M9oc5m9w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 柳莺（本届戛纳前方记者，自媒体《深焦》DeepFocus联合创始人）
 秦婉（本届戛纳前方记者，个人公众号“小婉电影酱”；《海边的曼彻斯特》等3期嘉宾）
@@ -19,6 +20,6 @@
 开场/结束曲：North Korea Children Playing the Guitar Remix
 </description>
   <pubDate>Tue, 30 May 2017 11:45:38 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff9264600-1243-c260-0966-9cda01a3a2de.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:49</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Ff9264600-1243-c260-0966-9cda01a3a2de.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:49</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>124《碟中谍6：全面瓦解》论阿汤如何用一部电影就灭掉了漫威和DC的</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1246DC-eq72rl</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/jtKeu0FUE7Z0uZ9mE2vYZA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片（资深媒体人；《狄仁杰之四大天王》及其外延部分等13期嘉宾；微博/豆瓣ID：法兰西胶片）：
 “最后阿汤和前妻相遇那段触动到我了，这是全系列甚至是阿汤职业生涯最为细腻的一段爱情戏。”
@@ -49,6 +50,6 @@
 《环太平洋：雷霆再起》（2018）
 </description>
   <pubDate>Mon, 03 Sep 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0079ebcf-88f5-3c11-0874-fe71fde42142.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:54</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0079ebcf-88f5-3c11-0874-fe71fde42142.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:54</ns0:duration>
 </item>

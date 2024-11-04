@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>123《遗传厄运》死去的外婆啊，快来把我哥带走……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/123-eq72r0</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/zu7Wy6qaVoNlwdcfmuJRRA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（国戏教师；《长江图》导演；《1987：黎明到来的那一天》等7期嘉宾）：
 “这片我分两次才看完，最后那个微笑吓得我直接把电视关了，第二天白天才补完的。”
@@ -40,6 +41,6 @@
 《黑夜造访》（2017）
 </description>
   <pubDate>Mon, 27 Aug 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4279f512-aeff-4927-f427-6765a4f1806d.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:04:15</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F4279f512-aeff-4927-f427-6765a4f1806d.mp3" type="audio/mpeg" />
+  <ns0:duration>2:04:15</ns0:duration>
 </item>

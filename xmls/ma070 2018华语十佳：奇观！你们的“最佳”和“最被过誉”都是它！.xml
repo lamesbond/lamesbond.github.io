@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma070 2018华语十佳：奇观！你们的“最佳”和“最被过誉”都是它！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma070-2018-e1ug559</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/77f9T-eag0rCpznVTWZe-A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 鲁韵子（2018年华语片共看20部；资深媒体人，《狗十三》等2期嘉宾）
 张瑞（2018年华语片共看25部；《影》等5期嘉宾）
@@ -120,6 +121,6 @@
 有21.97%的投票者在评选引进片“年度十佳”或“最被过誉”时考虑了删减因素；而剩下的78.03%的投票者没有把“影片是否存在删减”一项作为自己评价时的重要参考标准。
 </description>
   <pubDate>Thu, 10 Jan 2019 13:14:45 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fdfeff0da-7327-2310-f0a4-28124a11d116.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:59:28</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fdfeff0da-7327-2310-f0a4-28124a11d116.mp3" type="audio/mpeg" />
+  <ns0:duration>0:59:28</ns0:duration>
 </item>

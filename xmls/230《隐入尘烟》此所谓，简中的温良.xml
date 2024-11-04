@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>230《隐入尘烟》此所谓，简中的温良</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/230-e1t08cp</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/hYdiuQyPxgbhB_ubzPYO_Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>strong节目流程/strong
 节目总时长：00:39:26；
 音频涉及话题有（涉及剧透）：
@@ -33,6 +34,6 @@ strong本期片目
 
 </description>
   <pubDate>Sun, 09 Oct 2022 15:02:48 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/62971737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-2%2Fce861c17-6fcb-10a9-ac9f-65d8b1148bbf.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:39:26</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/62971737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-2%2Fce861c17-6fcb-10a9-ac9f-65d8b1148bbf.mp3" type="audio/mpeg" />
+  <ns0:duration>0:39:26</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>新片杂谈008：23年12月汇总 这档节目刚好是从5月到12月</title>
   <link>https://podcasters.spotify.com/pod/show/fanpaifilm/episodes/0082312-512-e2eeucd</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>12月老友主播：
 徐元（《锵稿》主编，“国产片十年”等2期嘉宾）
 
@@ -99,6 +100,6 @@ IMAX版是否有特殊画幅：有，一代激光IMAX全片画幅为1.78:1，其
 音频后期协助：出雲。
 </description>
   <pubDate>Sun, 14 Jan 2024 15:15:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F76d88cc8-1f2f-2de0-6e4f-997a5c89bd10.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:15:06</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/81278797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F76d88cc8-1f2f-2de0-6e4f-997a5c89bd10.mp3" type="audio/mpeg" />
+  <ns0:duration>1:15:06</ns0:duration>
 </item>

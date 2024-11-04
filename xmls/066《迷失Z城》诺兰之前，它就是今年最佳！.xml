@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>066《迷失Z城》诺兰之前，它就是今年最佳！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/066Z-eq6vq2</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/MKQ5PpxteOh7lXOi5mOb-g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利；（凤凰电影前编辑，《摔跤吧！爸爸》等15期嘉宾）：7.5分（仅为完整版评分）；
 “这部电影里，哪怕每一个配角都有清晰完整的故事。整体制作太精良了。”
@@ -49,6 +50,6 @@
 《摔跤吧！爸爸》（2016）
 </description>
   <pubDate>Mon, 17 Jul 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6c85f52-13b4-e281-1d7b-d9004e180dba.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:45:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6c85f52-13b4-e281-1d7b-d9004e180dba.mp3" type="audio/mpeg" />
+  <ns0:duration>1:45:00</ns0:duration>
 </item>

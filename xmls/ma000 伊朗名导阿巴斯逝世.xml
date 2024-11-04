@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma000 伊朗名导阿巴斯逝世</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma000-e1ufqoa</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Ea47VdveypNHEl9WWQ5StQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>各位听友！
 今天向大家推送的是“反派影评”一档“30分钟”的新栏目——“反派马后炮（暂定名）”！因为还非常不成熟（比如连更好的名字都没想出来），所以目前仅在本公众号独家内测，推送给核心听友们。这里简单描述一下它的形式：
 1、不会超过30分钟。这档“反派马后炮（暂定名）”将会与不限定时长的“反派影评”和只有60秒的“反派耳旁风”形成“长、中、短”的互补；得益于这一30分钟内的时长，本档栏目也可以直接内嵌在公众号的推送页中（播放与暂停方法见文章末尾）。
@@ -37,6 +38,6 @@
 《雪馨》（又名《希林公主》，2008）
 </description>
   <pubDate>Thu, 07 Jul 2016 08:04:35 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64530634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F781258c1-8605-b75a-c923-ba506f6cecc3.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64530634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F781258c1-8605-b75a-c923-ba506f6cecc3.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:30</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>139《罗马》外延，阿方索·卡隆前作回顾，明年奥斯卡他一个人就可能拿到6项提名，这位导演你要了解一下！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/1396-eq73bj</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/zZwYpAa8c0IDERLPA94seg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 靳锦（资深媒体人；《摘金奇缘》等3期嘉宾）
 “这次按顺序捋了一遍卡隆前作，看到了两件事，一是导演的成长，二是男人的成长。我看到他从本土经验出发，到好莱坞受挫，回归本土以全新视角和丰富文本重构经验，再到重新征服好莱坞获得话语权，此番再度回到本土，回到孕育创作的土壤之中。
@@ -38,6 +39,6 @@
 《摄影机！不要停》（2018）
 </description>
   <pubDate>Wed, 19 Dec 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F80426ac2-df1c-85a5-6149-5c039f04e176.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:33:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F80426ac2-df1c-85a5-6149-5c039f04e176.mp3" type="audio/mpeg" />
+  <ns0:duration>1:33:25</ns0:duration>
 </item>

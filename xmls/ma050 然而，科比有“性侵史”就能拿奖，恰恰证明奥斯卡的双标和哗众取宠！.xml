@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma050 然而，科比有“性侵史”就能拿奖，恰恰证明奥斯卡的双标和哗众取宠！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma050-e1ug24a</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Ec_5o39hZo6viAVQWk6jHw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主播：
 荡科长（资深业内人士；《底特律》等5期嘉宾；微博ID“荡科长”）
 法兰西胶片（资深媒体人；《灾难艺术家》等10期嘉宾；微博豆瓣ID“法兰西胶片”）
@@ -163,6 +164,6 @@
 《女英雄》
 </description>
   <pubDate>Tue, 06 Mar 2018 12:37:38 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F001f8ec9-011d-056d-7f43-62408d18de38.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:29:19</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64538186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F001f8ec9-011d-056d-7f43-62408d18de38.mp3" type="audio/mpeg" />
+  <ns0:duration>0:29:19</ns0:duration>
 </item>

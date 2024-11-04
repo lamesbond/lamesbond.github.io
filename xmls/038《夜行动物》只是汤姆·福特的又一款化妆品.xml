@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>038《夜行动物》只是汤姆·福特的又一款化妆品</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/038-eq6t40</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/5W8gpBKXb7qExfggfeql5A</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑，《罗曼蒂克》等7期嘉宾）：7分；
 （雷普利的其它打分：《长江图》8分；《罗曼蒂克》7.5分；《我在故宫修文物》7.5分；）
@@ -36,6 +37,6 @@
 《降临》（2016）
 </description>
   <pubDate>Tue, 03 Jan 2017 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6da54764-cff3-35c6-11d9-4780906bb52e.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:32:30</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6da54764-cff3-35c6-11d9-4780906bb52e.mp3" type="audio/mpeg" />
+  <ns0:duration>1:32:30</ns0:duration>
 </item>

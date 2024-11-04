@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>208《拆弹专家2》皇天不必答辩，只怕苍生肯忘言</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/2082-eq7bgs</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/lUmDLuLddtsShCI5KPUF1g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片：8.5分，《金都》等25期嘉宾，公号“第一导演”
 邱礼涛合拍片时代最巅峰，娱乐性和作者性融合力的极限，当量相当于把《拆弹1》和《扫毒2》加一起再翻一倍。你看得见的或看不见的，都给了，全给透了。你能理解绝大部分缺点都出于无奈，无论谈规格，还是说表达，它可能都是一个孤本。
@@ -53,6 +54,6 @@
 《紧急救援》（2020）
 </description>
   <pubDate>January 07, 2021 9:00am</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F9d85ad18-4faa-696b-589e-960215d6ce68.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:54:48</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26504156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F9d85ad18-4faa-696b-589e-960215d6ce68.mp3" type="audio/mpeg" />
+  <ns0:duration>0:54:48</ns0:duration>
 </item>

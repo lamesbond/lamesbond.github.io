@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>151《此房是我造》弱者不把自己称为弱者，而是称为“善人”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/151-eq78en</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/tIHhDA3uYBv9tlJwqtST2Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 靳锦（资深媒体人；《流浪地球》等6期嘉宾）：7.5分
 “当你被每个杀人场面深深吸引的时候，你就像已经接受了杀手的价值观一样——而这也是导演说服你的第一步。”
@@ -38,6 +39,6 @@
 《女性瘾者》上、下（2013）
 </description>
   <pubDate>Tue, 12 Mar 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501015/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdb2c6dd1-9e12-925e-abed-c822f4ce6d78.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:23:32</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501015/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fdb2c6dd1-9e12-925e-abed-c822f4ce6d78.mp3" type="audio/mpeg" />
+  <ns0:duration>1:23:32</ns0:duration>
 </item>

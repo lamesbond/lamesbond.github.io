@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma098 请问，我们要留给下一代怎样一个世界？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma098-e1ug6je</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/g7FGMLH5ns8gQUQQ7tlHoA</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 陈玲珍（奥斯卡“美国影艺学院”会员，CNEX联合创办人）
 陆庆屹（纪录片导演，代表作《四个春天》）
@@ -31,6 +32,6 @@
 北美分级：从缺
 </description>
   <pubDate>Sat, 08 Feb 2020 13:56:12 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F277239be-002a-2ff8-ace3-32ffbb571a50.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:59:59</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F277239be-002a-2ff8-ace3-32ffbb571a50.mp3" type="audio/mpeg" />
+  <ns0:duration>0:59:59</ns0:duration>
 </item>

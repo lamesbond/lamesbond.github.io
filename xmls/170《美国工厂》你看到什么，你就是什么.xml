@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>170《美国工厂》你看到什么，你就是什么</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/170-eq7937</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/nIKmD3sYsMqqwI7t0jANNw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 淡豹:7.5分（《开战》嘉宾）
 这部纪录片不是拿中美文明冲突去解释问题，它恰恰是在呈现“你们所有人都拿文明冲突去解释问题”的时代情绪；无论中美，现在劳资问题等一切矛盾都被转移到了所谓的文化差异上，这才是影片的讨论重点。
@@ -30,6 +31,6 @@
 《开战》（2018）
 </description>
   <pubDate>Tue, 17 Sep 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F424b9b8a-11f2-83ec-76ef-9f18c635b725.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:39:06</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F424b9b8a-11f2-83ec-76ef-9f18c635b725.mp3" type="audio/mpeg" />
+  <ns0:duration>1:39:06</ns0:duration>
 </item>

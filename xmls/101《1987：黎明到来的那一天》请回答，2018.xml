@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>101《1987：黎明到来的那一天》请回答，2018</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/10119872018-eq720m</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/qv_jwmxF6GXqtxUVKBKIvw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（国戏教师，《长江图》导演，《银翼杀手2049》等6期嘉宾）：7.5分；
 “看这部电影时我一直在想：当下这些所谓的‘岁月静好’到底是多大程度的‘静好’？”
@@ -48,6 +49,6 @@
 《红海行动》（2018）
 </description>
   <pubDate>Sun, 25 Mar 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d294bb9-ef88-8285-dd7e-8827c2830122.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:47:07</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F1d294bb9-ef88-8285-dd7e-8827c2830122.mp3" type="audio/mpeg" />
+  <ns0:duration>1:47:07</ns0:duration>
 </item>

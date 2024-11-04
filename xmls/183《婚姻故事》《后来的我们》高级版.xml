@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>183《婚姻故事》《后来的我们》高级版</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/183-eq79r2</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/icAy3QoXZy5adCpSe60T1Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 蒋方舟:8分，作家
 我看完就觉得，两个人的感情真的禁不起那么多观众。尤其法庭那一场，很像一个热点事件的发酵过程：吃瓜群众能通过一笔转账、一段对话甚至一个表情包就轻易去判定别人的私生活……可我们扪心自问，又有谁的婚姻能禁得起这样的审视呢？说极端一点，两个人的交往如果真的全程完美无瑕，反而才是最不真实的吧。
@@ -62,6 +63,6 @@
 《小妇人》（2019）
 </description>
   <pubDate>Thu, 26 Dec 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5a0dfe05-d6af-52c4-1f8f-5e52af58e1b4.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:38:07</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F5a0dfe05-d6af-52c4-1f8f-5e52af58e1b4.mp3" type="audio/mpeg" />
+  <ns0:duration>1:38:07</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>119《狄仁杰之四大天王》戳破“大国梦”泡影：这盛世，皆是方术</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/119-eq72np</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Bd-XyirRz2Fb1gClNmLgLQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 法兰西胶片（资深媒体人；《游侠索罗：星球大战外传》等12期嘉宾；微博豆瓣“法兰西胶片”）：9分；
 “正是因为缺失了自己的信仰，幻术才能作用于每一个仰头看天的人。”
@@ -47,6 +48,6 @@
 《动物世界》（2018）
 </description>
   <pubDate>Mon, 30 Jul 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8ad2a4c3-8608-917e-95b4-ecc8ba094a43.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:40:28</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8ad2a4c3-8608-917e-95b4-ecc8ba094a43.mp3" type="audio/mpeg" />
+  <ns0:duration>1:40:28</ns0:duration>
 </item>

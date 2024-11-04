@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>036《萨利机长》中美两国主旋律的差距就反映在《长城》和本片的对比上……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/036-eq6t20</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/ydy1rngrTT4tqHRDlTeuEg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（《长江图》导演，国戏教师）：7分；
 他的其它打分：《谍影重重5》8分；
@@ -42,6 +43,6 @@
 《血战钢锯岭》（2016）
 </description>
   <pubDate>Sun, 18 Dec 2016 06:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F605853d0-edea-46ac-e220-1467106da057.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:49:51</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26489344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F605853d0-edea-46ac-e220-1467106da057.mp3" type="audio/mpeg" />
+  <ns0:duration>1:49:51</ns0:duration>
 </item>

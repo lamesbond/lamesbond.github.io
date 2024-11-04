@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>052《攻壳机动队》“押井守风格”是衡量《攻壳》改编的唯一标准？我不同意！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/052-eq6vd6</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/7iRdkoGEkw500fniQh-gKw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 Yanglei（艺人宣传，《乐高蝙蝠侠》等3期嘉宾，）：2分；
 “斯嘉丽·约翰逊是本片的最大亮点了，寡姐延续了她在《她》（2013版）、《皮囊之下》和《超体》里的存在。”
@@ -55,6 +56,6 @@ Yanglei（艺人宣传，《乐高蝙蝠侠》等3期嘉宾，）：2分；
 《攻壳机动队：新剧场版》（2015）
 </description>
   <pubDate>Mon, 10 Apr 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6efbfc24-11ff-a26f-216d-21e22cc5b5a6.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:25:56</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F6efbfc24-11ff-a26f-216d-21e22cc5b5a6.mp3" type="audio/mpeg" />
+  <ns0:duration>1:25:56</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>178《小丑》砸烂旧世界</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/178-eq79h9</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/OOOAnuYvK34WEaCM50z6lQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超:8分，《长江图》导演；《仲夏夜惊魂》等12期嘉宾
 过誉了。所谓“从面孔中发现山河”，面孔有，山河没有。影片在社会议题层面都太浅太脸谱化，哪些华尔街精英会有地铁里那几位的做派啊？说得通吗？最大的亮点反而是它认真关注了一个心理疾病患者的内心，此外的一切社会化批判都是笨拙的。
@@ -72,6 +73,6 @@
 《此房是我造》（2018）
 </description>
   <pubDate>Wed, 20 Nov 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6267499-3184-d05e-1513-ffa42550352d.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:22:26</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Ff6267499-3184-d05e-1513-ffa42550352d.mp3" type="audio/mpeg" />
+  <ns0:duration>2:22:26</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma033 FIRST影展：《塑料王国》完整版与媒体版判若两片？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma033-FIRST-e1ug0fo</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Y7JpeM7mKRGhg2GzQ_hVNQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 法兰西胶片（本届FIRST初审评委，《明月几时有》等6期嘉宾，微博/豆瓣ID“法兰西胶片”）
 钱德勒（资深娱评人、媒体人；微博ID“钱德勒-摩羯”）
@@ -29,6 +30,6 @@
 评委会大奖·短片：《于是我们把金鱼放进了泳池》
 </description>
   <pubDate>Thu, 03 Aug 2017 11:49:08 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F159c24ee-bfbe-2238-a531-eb1f057cc436.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:24:48</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F159c24ee-bfbe-2238-a531-eb1f057cc436.mp3" type="audio/mpeg" />
+  <ns0:duration>0:24:48</ns0:duration>
 </item>

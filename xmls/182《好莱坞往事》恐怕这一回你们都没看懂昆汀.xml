@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>182《好莱坞往事》恐怕这一回你们都没看懂昆汀</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/182-eq79of</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/VkkvBCA9KOZBJsUdurHs8Q</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 靳锦:7分，媒体人；《美国工厂》等10期嘉宾
 我们经常在反派影评中听到克拉考尔的那句名言：“电影是物质现实的复原”，昆汀则用这部电影彻底颠覆了这句话。他也在片中表达了对电视剧的鄙夷，正是那些常年受电视剧暴力影响的人，才最容易产生杀人的冲动。
@@ -69,6 +70,6 @@
 《仲夏夜惊魂》（2019）
 </description>
   <pubDate>Tue, 17 Dec 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F824d7887-59ff-ebdb-dd9c-0d75ebbb888c.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:50:47</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F824d7887-59ff-ebdb-dd9c-0d75ebbb888c.mp3" type="audio/mpeg" />
+  <ns0:duration>1:50:47</ns0:duration>
 </item>

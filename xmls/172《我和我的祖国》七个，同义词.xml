@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>172《我和我的祖国》七个，同义词</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/172-eq799f</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/LqrLr7FnIKfWkgj8aiWwnQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形（青年编剧;《攀登者》等34期嘉宾）
 最值得研究的就是管虎在他的短片中呈现了怎样的升旗场面，这部戏他拍的是在北京升国旗，好像所有观众都为之骄傲；可还有一部戏，他拍的是在上海升起另一面旗，至今我们都无缘得见。其实中国电影人的命数，就写在这两次升旗仪式里。
@@ -47,6 +48,6 @@
 《一秒钟》（待定）
 </description>
   <pubDate>Thu, 03 Oct 2019 14:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0a916a3e-1ac7-1b61-668c-307207742258.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:51:34</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26501871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F0a916a3e-1ac7-1b61-668c-307207742258.mp3" type="audio/mpeg" />
+  <ns0:duration>0:51:34</ns0:duration>
 </item>

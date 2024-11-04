@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>131《7月22日》右翼青年单挑白左青年，这就是《谍影》导演新作的全部？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/131722-eq732n</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/O2i8Ta62Tgup0eaNyfidYw</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 杨超（国戏教师；《长江图》导演；《遗传厄运》等8期嘉宾）：6.5分；
 “这不是导演最好的水平，但可贵之处在于，他并未把‘谍影重重’的类型片风格带到这个真实事件改编的电影中来。”
@@ -37,6 +38,6 @@
 《于特岛7月22日》（2018）
 </description>
   <pubDate>Wed, 24 Oct 2018 11:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb882a333-e927-d547-45bc-b22e0122222f.mp3" type="audio/mpeg"/>
-  <itunes:duration>2:05:17</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26495511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fb882a333-e927-d547-45bc-b22e0122222f.mp3" type="audio/mpeg" />
+  <ns0:duration>2:05:17</ns0:duration>
 </item>

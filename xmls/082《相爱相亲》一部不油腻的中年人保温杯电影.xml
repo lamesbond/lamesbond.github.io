@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>082《相爱相亲》一部不油腻的中年人保温杯电影</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/082-eq704t</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/37JD8v7Ea9Aydbm96oi7_w</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 顿河（著名制片人编剧，《杰出公民》等3期嘉宾；个人公众号“顿的河”）： 7.5分；（顿河的其它打分：《羞羞的铁拳》6分；《海边的曼彻斯特》8分；《看不见的客人》7分；）
 蜉蝣（“不散”创始人之一、《绣春刀2》等2期嘉宾）： 7分；
@@ -30,6 +31,6 @@
 《一次别离》（2011）
 </description>
   <pubDate>Tue, 07 Nov 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa7bcf4e0-8715-9292-c3b0-d14e11e99349.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:34:46</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26492509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fa7bcf4e0-8715-9292-c3b0-d14e11e99349.mp3" type="audio/mpeg" />
+  <ns0:duration>1:34:46</ns0:duration>
 </item>

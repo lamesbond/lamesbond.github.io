@@ -1,13 +1,14 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma137 一缕烟，一座山</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma137-e1ug81c</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/0uJD3Y9OqWd_A5jSCiBfqQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>事件简述：
 2月17日，第72届柏林电影节揭晓获奖名单。80后西班牙女性导演卡拉·西蒙·皮坡凭加泰语电影《阿尔卡拉斯》获金熊奖；韩国导演洪常秀凭《小说家的电影》获评审团大奖，达成连续三年入围柏林主竞赛，三获银熊奖的成就；而《库尔纳兹诉小布什》获最佳主角及最佳剧本2个奖项。
 本届主竞赛评审团由印度裔导演沙马兰领衔，评委还包括滨口龙介与《圣母》制片本·萨义德等电影人。
 而中国导演李睿珺新作《隐入尘烟》同样入围了本届主竞赛，最终未能获奖。《隐入尘烟》原定2月25日在内地公映，但在进行一轮点映之后，该片最终撤档。
 </description>
   <pubDate>Sun, 27 Feb 2022 14:45:43 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F76abd435-1505-7b61-d3c6-6aff3b0d901a.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:16:32</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64544236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F76abd435-1505-7b61-d3c6-6aff3b0d901a.mp3" type="audio/mpeg" />
+  <ns0:duration>0:16:32</ns0:duration>
 </item>

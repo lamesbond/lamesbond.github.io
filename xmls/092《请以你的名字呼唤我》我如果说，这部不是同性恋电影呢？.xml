@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>092《请以你的名字呼唤我》我如果说，这部不是同性恋电影呢？</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/092-eq71pm</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Op7huKUznIlq-EeRuOB5qQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 雷普利（凤凰电影前编辑；《母亲！》等23期嘉宾）：7分；
 “本片完全在讨论纯爱，这在同性题材中非常难得，但它对‘同妻’的处理我在价值观上无法认同。”
@@ -61,6 +62,6 @@
 《伯德小姐》（2017）
 </description>
   <pubDate>Mon, 22 Jan 2018 10:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F740cb557-a142-61e8-f493-476d1ee47149.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:27:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26494198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F740cb557-a142-61e8-f493-476d1ee47149.mp3" type="audio/mpeg" />
+  <ns0:duration>1:27:00</ns0:duration>
 </item>

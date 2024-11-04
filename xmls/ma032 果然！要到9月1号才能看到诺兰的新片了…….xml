@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma032 果然！要到9月1号才能看到诺兰的新片了……</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma032-91-e1ug0f3</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/2mbXPIDUT19Abr7g9F-cyQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队音频主播：
 隐形（青年编剧，“少年两面”等15期嘉宾）
 法兰西胶片（资深媒体人，《明月几时有》等6期嘉宾，微博/豆瓣ID“法兰西胶片”）
@@ -29,6 +30,6 @@
 （以上信息截止到7月12日晚间，江来报道上出了偏差，本文仅供参考。另感谢“Metaphor17”对相关信息的帮助。）
 </description>
   <pubDate>Wed, 12 Jul 2017 11:48:17 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F6c097218-245e-6e04-2d3b-3a81bac3d5cc.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:26:40</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64536483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F6c097218-245e-6e04-2d3b-3a81bac3d5cc.mp3" type="audio/mpeg" />
+  <ns0:duration>0:26:40</ns0:duration>
 </item>

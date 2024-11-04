@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>055《爱国者之日》以美国人民的名义！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/055-eq6vg4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/AspHdmOMq91U8nbb4aotcg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 隐形 （编剧，《速度与激情8》等10期嘉宾）：7分；
 （隐形的其它打分：《辛普森：美国制造》6.5分；《金刚：骷髅岛》6分；《速度与激情8》5分）
@@ -39,6 +40,6 @@
 《美国亡命徒》（暂定2020）
 </description>
   <pubDate>Sun, 30 Apr 2017 08:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc03338a5-db7d-14de-4d1a-8aa7cfbe4a52.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc03338a5-db7d-14de-4d1a-8aa7cfbe4a52.mp3" type="audio/mpeg" />
+  <ns0:duration>1:30:00</ns0:duration>
 </item>

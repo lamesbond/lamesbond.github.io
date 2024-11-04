@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma124 金球奖的垮塌，也够拍一部《扫黑决战》！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma124-e1ug7gh</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/YSCoZwCi8tCRKjZLIggUpQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>“金球之死：黑箱评选和红包影评人”
 封面设计：画电影（可关注B站“画电影”频道）；
 事件简述：
@@ -21,6 +22,6 @@
 与“网飞”招待至少30位HFPA成员去巴黎“免费旅游”并下榻至少1400美元每晚的“半岛酒店”。该剧随后提名了金球奖两项大奖（音喜类剧集影后）；“网飞”还被进一步爆出在2020年与2019年两届金球奖上使用超过200万美元的“活动经费”专门招待HFPA成员。上周“网飞”已宣布与金球奖中止一切合作。
 </description>
   <pubDate>Tue, 18 May 2021 14:28:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1e595bc3-b758-66f7-00e1-bcfa4db0a79f.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:23:39</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64543697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F1e595bc3-b758-66f7-00e1-bcfa4db0a79f.mp3" type="audio/mpeg" />
+  <ns0:duration>0:23:39</ns0:duration>
 </item>

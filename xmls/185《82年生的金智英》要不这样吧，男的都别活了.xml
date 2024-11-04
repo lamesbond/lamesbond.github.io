@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>185《82年生的金智英》要不这样吧，男的都别活了</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/18582-eq79th</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/jjO_c6ciqGI1W0HCRHuOug</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 洞姐：7.5分，“展开讲讲”主播，微博@十两欢
 全片好像没什么大事，主人公没有遭遇物理伤害，正常，普通。但那些有口无心的焦虑传递，细细密密的规训和教诲，我们太熟悉了，几乎就是日常。就像对生育的焦虑吧，女性在这个问题上有太多客观条件限制，也承担更大的风险。大家都同意“既然早晚要生不如早生”，可这个决定实在是重到几乎能压垮现有的生活秩序。电影是没有多深刻，但如果有更多人能把它作为一个入门相关议题的电影去看，它的意义就不小。
@@ -52,6 +53,6 @@
 《送我上青云》（2019）
 </description>
   <pubDate>Wed, 08 Jan 2020 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F844d1ce2-604d-3463-63bf-41cc5237628d.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:14:36</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26502513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F844d1ce2-604d-3463-63bf-41cc5237628d.mp3" type="audio/mpeg" />
+  <ns0:duration>1:14:36</ns0:duration>
 </item>

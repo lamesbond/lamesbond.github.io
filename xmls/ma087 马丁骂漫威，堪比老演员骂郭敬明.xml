@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma087 马丁骂漫威，堪比老演员骂郭敬明</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma087-e1ug646</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/TgBvwMNrO6yUOtwQy0nRQQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创团队：
 音频剪辑：波米；编辑排版：效愚；封面设计：画电影moviesketching；
 事件简述：
@@ -11,6 +12,6 @@
 而在国内，演员李诚儒在某档综艺节目进行到演员表演的评价环节时，突然对郭敬明作品《悲伤逆流成河》的整体质量发表批判，但随即遭到了郭敬明的反唇相讥，同样在网上引起热议。
 </description>
   <pubDate>Tue, 15 Oct 2019 13:40:54 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Faaeaaa67-28a7-9ab9-92f1-ed96a21f5800.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:19:57</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64542278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Faaeaaa67-28a7-9ab9-92f1-ed96a21f5800.mp3" type="audio/mpeg" />
+  <ns0:duration>0:19:57</ns0:duration>
 </item>

@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>045《海边的曼彻斯特》论一部“网大”的最高境界…….</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/045-eq6urf</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/K56uZQSCyT31stp5KWLteQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>主播打分：
 秦婉（资深电影记者；个人公众号“小婉电影酱”；《三人行》等2期嘉宾）：8.5分；
 （秦婉的其它打分：《欢乐好声音》7分；《合约男女》7分；《决战食神》4分；）
@@ -43,6 +44,6 @@
 《月光男孩》（2016）
 </description>
   <pubDate>Sun, 19 Feb 2017 09:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc4765261-c315-0d67-00d0-ccbde45a86d5.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:12:11</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26491183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2Fc4765261-c315-0d67-00d0-ccbde45a86d5.mp3" type="audio/mpeg" />
+  <ns0:duration>1:12:11</ns0:duration>
 </item>

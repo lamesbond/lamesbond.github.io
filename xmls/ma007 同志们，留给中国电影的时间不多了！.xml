@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma007 同志们，留给中国电影的时间不多了！</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma007-e1ufrh4</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/x0xHOBfSuuNGTim3u4oqLg</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主播：
 顿河（《一步之遥》编剧之一、《一切都好》制片人）
 隐形（本节目控场主持人）
@@ -42,6 +43,6 @@
 “事件综述”中提及的所有即将上映的新片
 </description>
   <pubDate>Wed, 26 Oct 2016 08:59:48 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64531428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fd60159f6-eaa0-442f-695d-b1186c7726f5.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:30:00</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64531428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2Fd60159f6-eaa0-442f-695d-b1186c7726f5.mp3" type="audio/mpeg" />
+  <ns0:duration>0:30:00</ns0:duration>
 </item>

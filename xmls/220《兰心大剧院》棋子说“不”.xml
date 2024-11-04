@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>220《兰心大剧院》棋子说“不”</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/220-e19ur87</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg"/>
+  <link>https://mp.weixin.qq.com/s/Msxa6OlUSkWYZnY2B7r-JQ</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12366236/12366236-1611985053333-5ef49ebb4ba68.jpg" />
   <description>主播打分：
 刘三解：8分
 《汉瓦》作者,《亲爱的同志》嘉宾,公号“刘三解freestyle”
@@ -67,6 +68,6 @@
 《第一炉香》（2021）
 </description>
   <pubDate>Sat, 06 Nov 2021 15:00:00 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/43002567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-8%2Ffb75872c-3dba-b580-3983-47f8e11b98f2.mp3" type="audio/mpeg"/>
-  <itunes:duration>1:26:20</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/43002567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-8%2Ffb75872c-3dba-b580-3983-47f8e11b98f2.mp3" type="audio/mpeg" />
+  <ns0:duration>1:26:20</ns0:duration>
 </item>

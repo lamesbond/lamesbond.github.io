@@ -1,7 +1,8 @@
-<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<?xml version='1.0' encoding='UTF-8'?>
+<item xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <title>ma079 话别瓦尔达</title>
-  <link>https://anchor.fm/fanpaifilm/episodes/ma079-e1ug5mm</link>
-  <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
+  <link>https://mp.weixin.qq.com/s/PolZUMuP-fzCX42tqpBy3g</link>
+  <ns0:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg" />
   <description>本期主创音频主播：
 杨超（国戏教师，《长江图》导演；《野梨树》等10期嘉宾）
 雷普利（“凤凰电影”前编辑；《此房是我造》等32期嘉宾）
@@ -65,6 +66,6 @@
 《阿涅斯的海滩》（2008）
 </description>
   <pubDate>Mon, 01 Apr 2019 13:29:48 GMT</pubDate>
-  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8509e9ba-1564-4a8a-8aab-232d3a06ca21.mp3" type="audio/mpeg"/>
-  <itunes:duration>0:57:25</itunes:duration>
+  <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/64541846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-5%2F8509e9ba-1564-4a8a-8aab-232d3a06ca21.mp3" type="audio/mpeg" />
+  <ns0:duration>0:57:25</ns0:duration>
 </item>
