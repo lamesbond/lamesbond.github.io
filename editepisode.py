@@ -1,60 +1,45 @@
+from datetime import datetime
 import os
-import xml.etree.ElementTree as ET
+import re
+from xml.dom import minidom
+import lxml.etree
 
-# 设置 XML 文件所在的目录
-xml_directory = "/opt/lamesbond.github.io/xmls"  # 替换为你的文件目录路径
+#False选项就不转义特殊字符
+parser = lxml.etree.XMLParser(strip_cdata=False)
 
-# 设置新的链接地址
-new_link = "https://weixin.xom"
+directory = "/opt/lamesbond.github.io/xmls/fanpai-other"
 
-def get_fanpai_title_link(xml_file_path):
-    fanmai_title_link_list = []
-
-    # 解析 XML 文件
-    tree = ET.parse(xml_file_path)
-    root = tree.getroot()
-
-    # 找到所有 <item> 元素
-    items = root.findall('.//item')
-
-    # 提取每个 <item> 的 <title> 和 <link>
-    for item in items:
+# 遍历指定目录中的每个 XML 文件
+for filename in os.listdir(directory):
+    if filename.endswith(".xml"):
+        # 获取文件的绝对路径
+        file_path = os.path.join(directory, filename)
         
-        title = item.find('title').text if item.find('title') is not None else '无标题'
-        link = item.find('link').text if item.find('link') is not None else '无链接'
-        episode = {"title": title, "link": link}
-        # print(f'Title: {title}\nLink: {link}\n')
-        fanmai_title_link_list.append(episode)
-    return fanmai_title_link_list
-
-# fanmai_ma_title_link_list = get_fanpai_title_link("/opt/lamesbond.github.io/fanpai-film-ma.xml")
-fanmai_review_title_link_list = get_fanpai_title_link("/opt/lamesbond.github.io/fanpai-film-review.xml")
-# 遍历目录中的每个文件
-for filename in os.listdir(xml_directory):
-    if filename.endswith(".xml"):  # 确保只处理 XML 文件
-        file_path = os.path.join(xml_directory, filename)
+        # 去掉文件的后缀，得到新 title 的内容
+        new_title = os.path.splitext(filename)[0]
         
         # 解析 XML 文件
-        tree = ET.parse(file_path)
+        tree = lxml.etree.parse(file_path, parser)
         root = tree.getroot()
+        # 查找 description 元素并用 CDATA 包装内容
+        description = root.find('.//description')
+        if description is not None:
+            description_text = description.text.strip() if description.text else ""
+            description.clear()  # 清空内容
 
+            description.text = lxml.etree.CDATA(description_text) # 用 CDATA 包装文本内容 
+            print("描述：",description.text)
+            # tree.write(file_path, encoding="UTF-8")
+            # 转换为字符串并使用 pretty_print 进行初步格式化
+        rough_xml = lxml.etree.tostring(root, encoding="utf-8", xml_declaration=False, pretty_print=True).decode("utf-8")
 
-        title = root.find('title')
-        if title is not None:
-            # print(title.text.lower()[:3])
-            # print(f'文件: {filename} - 标题: {title.text}')
-            for i in fanmai_review_title_link_list:
-                # print(i["title"][1:4])
+        pretty_xml = minidom.parseString(rough_xml).toprettyxml(indent="  ")
+        pretty_xml_no_declaration = "\n".join(pretty_xml.splitlines()[1:])
+        print(pretty_xml_no_declaration)
+        # 使用正则去掉多余的空行
+        cleaned_xml = re.sub(r'\n\s*\n', '\n', pretty_xml_no_declaration)
+        cleaned_xml = cleaned_xml.replace("<description>", "<description>\n")
+        cleaned_xml = cleaned_xml.replace("</description>", "\n  </description>")
 
-                if i["title"][1:4] == title.text[:3]:
-                    print("匹配成功",title.text,i["title"])
-                    # 查找所有 <link> 元素并修改其文本
-                    for link in root.findall('.//link'):
-                        print("link修改为：", i["link"])
-                        link.text = i["link"]
-        
-
-        # 将修改后的 XML 文件保存
-        tree.write(file_path, encoding="UTF-8", xml_declaration=True)
-
-        # print(f'已更新文件: {filename}')
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(cleaned_xml)
