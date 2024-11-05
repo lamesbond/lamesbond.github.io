@@ -1,18 +1,29 @@
-from lxml import etree
+import os
 
-# 创建根元素
-root = etree.Element("root")
+def list_all_files(directory):
+    """
+    列出指定目录及其所有子目录中的所有文件。
 
-# 创建 description 元素
-description_element = etree.SubElement(root, "description")
+    :param directory: 要遍历的目录路径
+    :return: 包含所有文件路径的列表
+    """
+    all_files = []
 
-# 设置 CDATA 内容
-cdata_content = "这是第一行。\n这是第二行。\n这是第三行。"
-# 使用 text 属性插入 CDATA
-description_element.text = etree.CDATA(cdata_content)
+    # 使用 os.walk 遍历目录
+    for dirpath, dirnames, filenames in os.walk(directory):
+        print(dirpath, filenames)
+        for filename in filenames:
+            # print(dirpath,filename)
+            # 获取文件的完整路径
+            full_path = os.path.join(dirpath, filename)
+            all_files.append(full_path)
 
-# 将 XML 转换为字符串，指定 pretty_print 为 True
-xml_string = etree.tostring(root, pretty_print=True, encoding='UTF-8', xml_declaration=True).decode('UTF-8')
+    return all_files
 
-# 输出结果
-print(xml_string)
+# 示例使用
+directory_path = '/opt/lamesbond.github.io/xmls'  # 替换为你要遍历的目录路径
+files = list_all_files(directory_path)
+
+# 打印所有找到的文件
+# for file in files:
+#     print(file)

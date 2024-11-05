@@ -8,7 +8,7 @@ import lxml.etree
 parser = lxml.etree.XMLParser(strip_cdata=False)
 
 directory = "/opt/lamesbond.github.io/xmls/fanpai-other"
-
+    
 # 遍历指定目录中的每个 XML 文件
 for filename in os.listdir(directory):
     if filename.endswith(".xml"):
@@ -28,18 +28,19 @@ for filename in os.listdir(directory):
             description.clear()  # 清空内容
 
             description.text = lxml.etree.CDATA(description_text) # 用 CDATA 包装文本内容 
-            print("描述：",description.text)
+            # print("描述：",description.text)
             # tree.write(file_path, encoding="UTF-8")
             # 转换为字符串并使用 pretty_print 进行初步格式化
         rough_xml = lxml.etree.tostring(root, encoding="utf-8", xml_declaration=False, pretty_print=True).decode("utf-8")
 
         pretty_xml = minidom.parseString(rough_xml).toprettyxml(indent="  ")
+        # 将格式化后的 XML 拆分为行
         pretty_xml_no_declaration = "\n".join(pretty_xml.splitlines()[1:])
-        print(pretty_xml_no_declaration)
+        # print(pretty_xml_no_declaration)
         # 使用正则去掉多余的空行
         cleaned_xml = re.sub(r'\n\s*\n', '\n', pretty_xml_no_declaration)
         cleaned_xml = cleaned_xml.replace("<description>", "<description>\n")
-        cleaned_xml = cleaned_xml.replace("</description>", "\n  </description>")
+        cleaned_xml = cleaned_xml.replace("</description>", "\n" + " " * 2 + "</description>")
 
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(cleaned_xml)
