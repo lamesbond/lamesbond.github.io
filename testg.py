@@ -1,34 +1,32 @@
-import xml.etree.ElementTree as ET
+import os
+import re
 
-# 只注册命名空间
-ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
+directory = "/opt/lamesbond.github.io/xmls/fanpai-erpangfeng"
 
-# 创建根元素，不显式添加 xmlns:itunes
-root = ET.Element("rss")
+for filename in os.listdir(directory):
+    if filename.endswith(".xml"):
+        # 读取文件
+        # input_file = os.path.join(directory, filename)
+        # 读取文件内容
+        with open(filename, "r", encoding="utf-8") as file:
+            lines = file.readlines()
 
-# 创建不带命名空间的子元素
-child = ET.SubElement(root, "wenhouyu")
-child.text = "Hello World!"
+        # 定义处理后的内容列表
+        new_lines = []
 
-# 创建带命名空间的子元素
-child = ET.SubElement(root, "{http://www.itunes.com/dtds/podcast-1.0.dtd}wenhouyu")
-child.text = "aloha!"
+        # 处理每一行
+        for line in lines:
+            if "重要信息：" in line:
 
-# 生成 XML 对方文档
-xml_str = ET.tostring(root, encoding="utf-8")
-print(xml_str.decode("utf-8"))
-# 写入到文件 sample.xml
-tree = ET.ElementTree(root)
-tree.write("sample.xml", encoding="UTF-8", xml_declaration=True)
-items = root.findall("rss")  # 查找不带命名空间的 <item>
-        
-# 如果未找到 <item>，则检查其命名空间
-if not items:
-    items = root.findall("{http://www.itunes.com/dtds/podcast-1.0.dtd}rss")
+                # 使用正则表达式进行替换，仅在“重要信息：”后有内容时添加换行符
+                modified_line = re.sub(r'(重要信息：)(\S)', r'\1\n\2', line)
+                print(modified_line)
+                new_lines.append(modified_line)
+            else:
+                new_lines.append(line)
 
-# 打印所有 <item>
-if items:
-    for item in items:
-        print(ET.tostring(item, encoding='utf-8').decode('utf-8'))  # 打印 <item> 的内容
-else:
-    print(f"No <item> found in rss")  # 如果没有找到 <item>
+        # 将修改后的内容写回文件
+        with open(filename, "w", encoding="utf-8") as file:
+            file.writelines(new_lines)
+
+        # print(filename,"文件已成功修改为：\n",new_lines)
