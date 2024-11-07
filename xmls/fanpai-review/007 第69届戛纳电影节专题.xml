@@ -1,9 +1,11 @@
+<?xml version="1.0" ?>
 <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <title>007 第69届戛纳电影节专题</title>
   <link>https://mp.weixin.qq.com/s/VWRB17mDzwGRM61nmR1e1w</link>
   <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12366236/12366236-1611985055171-24c9360bf23d6.jpg"/>
   <description>
 <![CDATA[戛纳电影节
+
 本期节目重点提及的电影片单：
 罗宏镇：《哭声》2016、《黄海》2010、《追击者》2008；
 朴赞郁：《小姐》2016、《蝙蝠》2009、《老男孩》2003、《亲切的金子》2005、《我要复仇》2002；
@@ -21,7 +23,7 @@
 布里兰特 曼多萨：《罗莎妈妈》2016；
 乔治·米勒：《疯狂的麦克斯4》 2015；
 斯皮尔伯格：《吹梦巨人》2016；
-沙恩·布莱克：《钢铁侠3》2013；]]>
+沙恩·布莱克：《钢铁侠3》2013；]]>                            
   </description>
   <pubDate>Sat, 28 May 2016 05:00:00 GMT</pubDate>
   <enclosure url="https://anchor.fm/s/4a4df770/podcast/play/26487306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F8e52ba54-e3cb-68d7-41a4-3b0e1fae546d.mp3" type="audio/mpeg"/>
