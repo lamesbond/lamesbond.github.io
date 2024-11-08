@@ -22,28 +22,31 @@ channel = rss_root.find("channel")
 
 def format_xml(root):
     rootstring = etree.tostring(root, encoding="utf-8", xml_declaration=False, pretty_print=True).decode("utf-8")
+    pretty_xml = minidom.parseString(rootstring).toprettyxml(indent="  ")
 
-    # 使用 re.findall 匹配多个 CDATA 区域
-    # cdata_matches = re.findall(r'<!\[CDATA\[(.*?)\]\]>', rootstring, re.DOTALL)
-    # Step 1: 使用 re.findall 匹配并保留 CDATA 标记
-    cdata_matches = re.findall(r'<!\[CDATA\[[^\]]*\]\]>', rootstring, re.DOTALL)
-    # Step 2: 使用占位符替换原字符串中的 CDATA 区域
-    modified_string = rootstring
-    for i, cdata in enumerate(cdata_matches, 1):
-        placeholder = f"CDATA_PLACEHOLDER_{i}"
-        modified_string = modified_string.replace(cdata, placeholder)
-
-    # 使用 minidom 进行格式化
-    pretty_xml = minidom.parseString(modified_string).toprettyxml(indent="  ")
-    pretty_xml = "\n".join(pretty_xml.splitlines()[1:])  #删除第一行
-    pretty_xml = re.sub(r'\n\s*\n', '\n', pretty_xml)  # 删除多余的空行
-
-    # Step 3: 替换占位符为原来的 CDATA 内容
-    for i, cdata in enumerate(cdata_matches, 1):
-        placeholder = f"CDATA_PLACEHOLDER_{i}"
-        pretty_xml = pretty_xml.replace(placeholder, cdata)
-
-    return pretty_xml
+    # 按行分割，便于逐行处理
+    lines = pretty_xml.splitlines()
+    
+    # 标志位：检测是否在 CDATA 区域
+    in_cdata_section = False
+    processed_lines = []
+    
+    for line in lines:
+        # 检查 CDATA 区域的开始
+        if "<![CDATA[" in line:
+            in_cdata_section = True
+        # 检查 CDATA 区域的结束
+        if "]]>" in line:
+            in_cdata_section = False
+            processed_lines.append(line)
+            continue
+        
+        # 如果在 CDATA 区域内，直接保留该行
+        if in_cdata_section or line.strip():
+            processed_lines.append(line)
+    
+    # 将处理后的行重新拼接为完整的 XML 字符串
+    return "\n".join(processed_lines)
 
 # 迭代单集文件
 for dirpath, dirnames, filenames in os.walk(episode_dir):
@@ -62,10 +65,7 @@ for dirpath, dirnames, filenames in os.walk(episode_dir):
             channel.append(episode_root)
 
 rss_xml = format_xml(rss_root)
-with open("rss.xml", "w", encoding="utf-8") as f:
-    f.write(rss_xml)
-
 # 将结果保存到文件
-# with open(output_file, "w", encoding="utf-8") as f:
-    # f.write(cleaned_xml)
-# print("RSS 文件已成功生成：", output_file)
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(rss_xml)
+print("RSS 文件已成功生成：", output_file)
