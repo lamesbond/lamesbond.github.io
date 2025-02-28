@@ -2,6 +2,7 @@ import os
 import re
 from xml.dom import minidom
 from lxml import etree
+import site
 
 def prettify_xml(root):
     rootstring = etree.tostring(root, encoding="utf-8", xml_declaration=False, pretty_print=True).decode("utf-8")
@@ -14,7 +15,7 @@ def prettify_xml(root):
     # 标志位：检测是否在 CDATA 区域
     in_cdata_section = False
     processed_lines = []
-    
+
     for line in lines:
         line = line.rstrip()
         # 检查 CDATA 区域的开始
@@ -92,15 +93,15 @@ def generate_rss(showinfo_file,episode_dir,output_file,parser):
     print("RSS 文件已成功生成：", output_file)
 
 if __name__ == "__main__":
+    print(site.getsitepackages())
     #False选项就不转义特殊字符
     parser = etree.XMLParser(strip_cdata=False)
     # 主文件路径
-    showinfo_file = "/opt/lamesbond.github.io/showinfo.xml"
+    showinfo_file = "showinfo.xml"
     # 单集文件目录
-    episode_dir = "/opt/lamesbond.github.io/xmls/"
-    directory = "/opt/lamesbond.github.io/xmls/fanpai-erpangfeng"
+    episode_dir = "xmls/"
     # 输出文件路径
-    output_file = "/opt/lamesbond.github.io/rss.xml"
+    output_file = "rss.xml"
 
     generate_rss(showinfo_file,episode_dir,output_file,parser)
     # edit_episodes(directory,parser)
