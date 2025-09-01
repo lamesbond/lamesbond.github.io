@@ -85,6 +85,6 @@ IMAX是否有特殊画幅：有，全片1.9:1；
 
   </description>
   <pubDate>Mon, 28 Jul 2025 21:51:41 CST</pubDate>
-  <enclosure url="https://vod.afdiancdn.com/7f76b4e7vodtransbj1256217904/980f3af25145403693458866916/v.f1010.mp3?t=68b709a1&us=68b5b821609f7&sign=af9fcdc3525ef9866b35b8329afa10ac" length="28496482" type="audio/mpeg"/>
+  <enclosure url="https://vod.afdiancdn.com/7f76b4e7vodtransbj1256217904/980f3af25145403693458866916/v.f1010.mp3?t=68b709a1&amp;us=68b5b821609f7&amp;sign=af9fcdc3525ef9866b35b8329afa10ac" length="28496482" type="audio/mpeg"/>
   <itunes:duration>2:16:51</itunes:duration>
 </item>
